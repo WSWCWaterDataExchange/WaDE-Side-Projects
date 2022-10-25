@@ -114,10 +114,10 @@ UT|Unspecified|541
 UT|Unspecified|213
 
 
-State|minYear|maxYear|TimeRange_Yrs
-----|----|---- |----
-CA|2013|2016|3
-NJ|1990|2018|28
-NM|2010|2015|5
-TX|1955|2021|66
-UT|1957|2020|63
+State|AggregationIntervalUnitCV |minYear|maxYear|numUniqueYears|TimeRange_Yrs
+----|----|---- |----|----|----
+CA|Monthly|2013|2016|4|3
+NJ|Monthly|1990|2018|29|28
+NM|Annual|2010|2015|2|5
+TX|Monthly|1955|2021|67|66
+UT|Year|1957|2020|64|63

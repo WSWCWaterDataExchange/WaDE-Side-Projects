@@ -76,16 +76,19 @@ WHERE B.SiteUUID LIKE '%ssps_S%'
 GROUP BY C.State
 ORDER BY C.State
 
+
 -- Time range for SSPS per state
 SELECT
 C.State,
+D.[AggregationIntervalUnitCV ],
 min(A.ReportYearCV) as minYear,
 max(A.ReportYearCV) as maxYear,
-(max(A.ReportYearCV) - min(A.ReportYearCV)) as TimeRange
+Count(DISTINCT A.ReportYearCV) as numUniqueYears
 FROM Core.SiteVariableAmounts_fact A
 LEFT JOIN Core.Sites_dim B ON A.SiteID = B.SiteID
 LEFT JOIN Core.Organizations_dim C ON C.OrganizationID = A.OrganizationID
+LEFT JOIN Core.Variables_dim D on D.VariableSpecificID = A.VariableSpecificID
 WHERE B.SiteUUID LIKE '%ssps_S%'
-GROUP BY C.State
+GROUP BY C.State, D.[AggregationIntervalUnitCV ]
 ORDER BY C.State
 
