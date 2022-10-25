@@ -7,7 +7,7 @@ For Site Specific Public Water Supply timeseries data in WaDE, count the folloiw
 - Time range of timeseries data per state.
 
 
-Last run results: 10/18/2022
+Last run results: 10/25/2022
 See Summary Results.xslx for a summary of the results.
 
 
