@@ -1,0 +1,6 @@
+numpy
+plotly
+pandas
+gmplot
+gmaps
+requests
