@@ -1,393 +1,392 @@
-Term	Name	WaDEname	State	Abbreviation	Definition	Category	Provenance	Provenance_uri	Note	Provenance_uri	Note
-Required (unique)	Required (unique)	Required	Required	Optional	Optional	Optional	Optional	Optional	Optional	Optional	Optional
-Agricultural	Agricultural	Agriculture Irrigation	AZ, CA, CO, NJ, UT			Consumptive					
-AgriculturalConsumptiveUse	Agricultural Consumptive Use	Agriculture Irrigation	WY			Consumptive					
-AgriculturalSpraying	Agricultural Spraying	Agriculture Irrigation	MT			Consumptive					
-Agriculture	Agriculture	Agriculture Irrigation	CA, OK, TX, UT			Consumptive					
-AGRICULTUREWETLAND	AGRICULTURE - WETLAND	Agriculture Irrigation	TX			Consumptive					
-AGR	Agriculture other than irrigation	Agriculture Irrigation	NM			Consumptive					
-AgricultureUses	Agriculture Uses	Agriculture Irrigation	OR			Consumptive					
-Cranberry	Cranberry	Agriculture Irrigation	OR			Consumptive					
-HarvestingOFCranberries	Harvesting of Cranberries	Agriculture Irrigation	OR			Consumptive					
-US_IrrigatedAgriculture	Irrigated Agriculture	Agriculture Irrigation	NM, US			Consumptive					
-Irrigation	Irrigation	Agriculture Irrigation	AZ, CA, CO, ID, KS, MT, ND, NE, NJ, NM, NV, OK, OR, SD, TX, UT, WA	01, 1, IR, I		Consumptive					
-IrrigationGroundWater	Irrigation - Ground Water	Agriculture Irrigation	WY			Consumptive					
-IrrigationSurfaceWater	Irrigation - Surface Water	Agriculture Irrigation	WY			Consumptive					
-IrrigationAndDomestic	Irrigation and Domestic	Agriculture Irrigation	OR			Consumptive					
-IrrigationIncidentalUndergroundStorage	Irrigation and Incidental Underground Storage	Agriculture Irrigation	NE			Consumptive					
-IrrigationStorage	Irrigation and Storage (an appropriation approved for both uses)	Agriculture Irrigation	NE			Consumptive					
-IrrigationFromNaturalStream	Irrigation from Natural Stream	Agriculture Irrigation	NE			Consumptive					
-IrrigationFromStor	Irrigation From Storage	Agriculture Irrigation	ID	3		Consumptive					
-IrrigationOFCranberries	Irrigation of Cranberries	Agriculture Irrigation	OR			Consumptive					
-IrrigationCareyAct	Irrigation-Carey Act	Agriculture Irrigation	NV			Consumptive					
-IrrigationDLE	Irrigation-DLE	Agriculture Irrigation	NV			Consumptive					
-NurseryUses	Nursery Uses	Agriculture Irrigation	OR			Consumptive					
-PracticablyIrrigableAcreage	PRACTICABLY IRRIGABLE ACREAGE	Agriculture Irrigation	OR			Consumptive					
-PrimaryAndSupplementalIrrigation	Primary and Supplemental Irrigation	Agriculture Irrigation	OR			Consumptive					
-SUBIRRIGATION	SUBIRRIGATION	Agriculture Irrigation	ID			Consumptive					
-SupplementalIrrigation	Supplemental Irrigation	Agriculture Irrigation	NE, OR			Consumptive					
-SupplementalIrrigationIncidentalUndergroundStorage	Supplemental Irrigation and Incidental Underground Storage	Agriculture Irrigation	NE			Consumptive					
-Aquaculture	Aquaculture	Aquaculture	AZ, CA, OR, TX			Non-consumptive					
-CULTIVATIONOFFISH	CULTIVATION OF FISH	Aquaculture	AZ			Non-consumptive					
-FishCulture	Fish Culture	Aquaculture	NE, OR			Non-consumptive					
-FishHabitat	Fish Habitat	Aquaculture	ID	56		Non-consumptive					
-FishHabitatStorage	Fish Habitat Storage	Aquaculture	ID	65		Non-consumptive					
-FishPropagation	Fish Propagation	Aquaculture	ID, WA, WY	19		Non-consumptive					
-FishPropagationFromStor	Fish Propagation From Storage	Aquaculture	ID			Non-consumptive					
-FishPropagationStor	Fish Propagation Storage	Aquaculture	ID	20		Non-consumptive					
-FishRaceways	Fish Raceways	Aquaculture	MT	FR		Non-consumptive					
-Fishery	Fishery	Aquaculture	CO, MT	6, FS		Non-consumptive					
-InstreamFishery	Instream Fishery	Aquaculture	MT			Non-consumptive					
-OTHERFISHHATCHERY	OTHER (FISH HATCHERY)	Aquaculture	TX			Non-consumptive					
-SupplementalFishCulture	Supplemental Fish Culture	Aquaculture	NE			Non-consumptive					
-AquiferRecharge	Aquifer Recharge	Aquifer Recharge	MT			Consumptive					
-GroundWaterRecharge	Ground Water Recharge	Aquifer Recharge	ID, OR, WY	34		Consumptive					
-GroundWaterRechargeFromStor	Ground Water Recharge From Storage	Aquifer Recharge	ID	36		Consumptive					
-GroundWaterRechargeStor	Ground Water Recharge Storage	Aquifer Recharge	ID	35		Consumptive					
-GroundWaterRemediation	Ground Water Remediation	Aquifer Recharge	SD			Consumptive					
-GroundwaterAquiferStorageRecovery	Groundwater Aquifer Storage & Recovery	Aquifer Recharge	OR			Consumptive					
-GroundwaterPreservation	Groundwater Preservation	Aquifer Recharge	WA			Consumptive					
-GroundwaterRechargeNE	Groundwater Recharge	Aquifer Recharge	NE			Consumptive					
-IncidentalUndergroundStorage	Incidental Underground Storage	Aquifer Recharge	NE			Consumptive					
-InducedGroundWaterRecharge	Induced Ground Water Recharge	Aquifer Recharge	NE			Consumptive					
-INJ	Injection	Aquifer Recharge	NM			Consumptive					
-IntentionalUndergroundStorage	Intentional Underground Storage	Aquifer Recharge	NE			Consumptive					
-MarketingForMitigationAquiferRecharge	Marketing For Mitigation/Aquifer Recharge	Aquifer Recharge	MT			Consumptive					
-Monitor	Monitor	Aquifer Recharge	WY			Consumptive					
-MON	Monitoring well	Aquifer Recharge	NM			Consumptive					
-Observation	Observation	Aquifer Recharge	AZ, NM			Consumptive					
-ObservationAndTesting	Observation And Testing	Aquifer Recharge	MT	OT		Consumptive					
-Recharge	Recharge	Aquifer Recharge	CO, TX	R		Consumptive					
-StorageIncidentalUndergroundStorage	Storage and Incidental Underground Storage	Aquifer Recharge	NE			Consumptive					
-PUB	72-12-1 Construction of public works	Commercial/Industrial	NM			Consumptive					
-SAN	72-12-1 Sanitary in conjunction with a commercial use	Commercial/Industrial	NM			Consumptive					
-AIRCONDITIONING	AIR CONDITIONING	Commercial/Industrial	AZ		Check with the state	Consumptive					
-BOTTLING	BOTTLING	Commercial/Industrial	AZ			Consumptive					
-BrineProductionWell	Brine production well	Commercial/Industrial	NM			Consumptive					
-Chemical	Chemical	Commercial/Industrial	WY			Consumptive					
-Commercial	Commercial	Commercial/Industrial	AK, AZ, CO, ID, MT, ND, NJ, NM, NV, OK, SD, TX, UT, WA, WY	10, 03, CM		Consumptive					
-CommercialSelfSupplied	Commercial (self-supplied)	Commercial/Industrial	NM			Consumptive					
-CommercialAndIndust	Commercial & indust	Commercial/Industrial	WA			Consumptive					
-CommercialFromStor	Commercial From Storage	Commercial/Industrial	ID	12		Consumptive					
-CommercialInstitutional	Commercial Institutional	Commercial/Industrial	CA			Consumptive					
-CommercialStor	Commercial Storage	Commercial/Industrial	ID	11		Consumptive					
-CommercialUses	Commercial Uses	Commercial/Industrial	OR			Consumptive					
-CON	Construction	Commercial/Industrial	NM, NV			Consumptive					
-Highway	Highway	Commercial/Industrial	WA			Consumptive					
-HWY	Highway construction	Commercial/Industrial	NM			Consumptive					
-Industrial	Industrial	Commercial/Industrial	AZ, CA, CO, ID, KS, MT, ND, NE, NJ, NM, NV, OK, SD, TX, UT	07, 04, IN		Consumptive					
-IndustrialGroundWater	Industrial - Ground Water	Commercial/Industrial	WY			Consumptive					
-INDUSTRIALPOWERGENERATION	INDUSTRIAL - POWER GENERATION	Commercial/Industrial	TX			Consumptive					
-INDUSTRIALSALTWATER	INDUSTRIAL - SALT WATER	Commercial/Industrial	TX			Consumptive					
-IndustrialSurfaceWater	Industrial - Surface Water	Commercial/Industrial	WY			Consumptive					
-IndustrialSelfSupplied	Industrial (self-supplied)	Commercial/Industrial	NM			Consumptive					
-INDUSTRIALCOOLING	INDUSTRIAL COOLING	Commercial/Industrial	AZ			Consumptive					
-IndustrialFromStor	Industrial From Storage	Commercial/Industrial	ID	9		Consumptive					
-IndustrialStor	Industrial Storage	Commercial/Industrial	ID	8		Consumptive					
-IndustrialUse	Industrial Use	Commercial/Industrial	WY			Consumptive					
-IndustrialManufacturingUses	Industrial/Manufacturing Uses	Commercial/Industrial	OR			Consumptive					
-Laboratory	Laboratory	Commercial/Industrial	OR			Consumptive					
-LogDeckSprinkling	Log Deck Sprinkling	Commercial/Industrial	OR			Consumptive					
-Manufacturing	Manufacturing	Commercial/Industrial	NE, NM, TX, WY			Consumptive					
-MeatPackingPlant	Meat packing plant	Commercial/Industrial	NM			Consumptive					
-Mechanical	Mechanical	Commercial/Industrial	WY			Consumptive					
-MEDICINAL	MEDICINAL	Commercial/Industrial	AZ			Consumptive					
-MIL	Military - military installations	Commercial/Industrial	NM			Consumptive					
-Oil	Oil	Commercial/Industrial	WY			Consumptive					
-OFM	Oil field maintenance	Commercial/Industrial	NM			Consumptive					
-OilProduction	Oil production	Commercial/Industrial	NM			Consumptive					
-OilWellFlooding	Oil Well Flooding	Commercial/Industrial	MT	OF		Consumptive					
-PetroleumProcessingPlant	Petroleum processing plant	Commercial/Industrial	NM			Consumptive					
-PoultryAndEggOperation	Poultry and egg operation	Commercial/Industrial	NM			Consumptive					
-Railroad	Railroad	Commercial/Industrial	WY			Consumptive					
-Railway	Railway	Commercial/Industrial	WA			Consumptive					
-Ram	Ram	Commercial/Industrial	OR			Consumptive					
-RoadqConstruction	Road Construction	Commercial/Industrial	OR			Consumptive					
-Sale	Sale	Commercial/Industrial	MT	SL		Consumptive					
-Sawmill	Sawmill	Commercial/Industrial	OR			Consumptive					
-SRO	Secondary recovery of oil	Commercial/Industrial	NM			Consumptive					
-Shop	Shop	Commercial/Industrial	OR			Consumptive					
-Transportation	Transportation	Commercial/Industrial	WY			Consumptive					
-DOL	72-12-1 domestic and livestock watering	Domestic	NM			Consumptive					
-DOM	72-12-1 domestic one household	Domestic	NM			Consumptive					
-MUL	72-12-1 multiple domestic households	Domestic	NM			Consumptive					
-DCII	DCII	Domestic	UT			Consumptive					
-Domestic	Domestic	Domestic	AZ, CA, CO, ID, KS, MT, NE, ND, NV, OR, SD, UT	40, 8, D, DM		Consumptive					
-DomesticGroundWater	Domestic - Ground Water	Domestic	WY			Consumptive					
-DomesticSurfaceWater	Domestic - Surface Water	Domestic	WY			Consumptive					
-DomesticSelfSupplied	Domestic (self-supplied)	Domestic	NM			Consumptive					
-DomesticAndLivestock	Domestic and Livestock	Domestic	OR, TX			Consumptive					
-DOMESTICANDLIVESTOCKLIVESTOCK	DOMESTIC AND LIVESTOCK & LIVESTOCK	Domestic	TX			Consumptive					
-DCN	Domestic construction	Domestic	NM			Consumptive					
-DomesticExpanded	Domestic Expanded	Domestic	OR			Consumptive					
-DomesticFromStor	Domestic From Storage	Domestic	ID	42		Consumptive					
-DomesticGeneral	Domestic general	Domestic	WA			Consumptive					
-DomesticIncludingLawnAndGarden	Domestic Including Lawn and Garden	Domestic	OR			Consumptive					
-DomesticMultiple	Domestic multiple	Domestic	WA			Consumptive					
-DomesticSingle	Domestic single	Domestic	WA			Consumptive					
-DomesticStor	Domestic Storage	Domestic	ID, NE	41		Consumptive					
-DomesticSupply	Domestic Supply	Domestic	WY			Consumptive					
-DomesticUse	Domestic Use	Domestic	WY			Consumptive					
-GroupDomestic	Group Domestic	Domestic	OR			Consumptive					
-HouseholdUseOnly	Household Use Only	Domestic	CO	H		Consumptive					
-HumanConsumption	Human Consumption	Domestic	OR			Consumptive					
-HumanConsumptionAndLivestock	Human Consumption and Livestock	Domestic	OR			Consumptive					
-MOB	Mobile home parks	Domestic	NM			Consumptive					
-MultipleDomestic	Multiple Domestic	Domestic	MT	MD		Consumptive					
-MultiplePurpose	MULTIPLE PURPOSE	Domestic	OR			Consumptive					
-MultipleUse	Multiple Use	Domestic	ND			Consumptive					
-MUNICIPALDOMESTICANDLIVESTOCK	MUNICIPAL/DOMESTIC AND LIVESTOCK	Domestic	TX			Consumptive					
-PDL	Non 72-12-1 domestic and livestock watering	Domestic	NM			Consumptive					
-PDM	Non 72-12-1 domestic one household	Domestic	NM			Consumptive					
-PMH	Non 72-12-1 multiple domestic households	Domestic	NM			Consumptive					
-QuasiMunicipal	Quasi-Municipal	Domestic	NV			Consumptive					
-QuasiMunicipalUses	Quasi-Municipal Uses	Domestic	OR			Consumptive					
-Restroom	Restroom	Domestic	OR			Consumptive					
-Fire	Fire	Fire	AZ, CO	7		Unspecified					
-FireProtection	Fire Protection	Fire	AZ, CA, ID, KS, MT, OR, WA, WY	46, FC		Unspecified					
-FireProtectionFromStor	Fire Protection From Storage	Fire	ID	48		Unspecified					
-FireProtectionStor	Fire Protection Storage	Fire	ID	47		Unspecified					
-HYDROELECTRIC	HYDROELECTRIC	Hydroelectric	TX			Non-consumptive					
-HYDROELECTRICPRIORITY	HYDROELECTRIC - PRIORITY	Hydroelectric	TX			Non-consumptive					
-Hydropower	Hydropower	Hydroelectric	WY			Non-consumptive					
-Power	Power	Hydroelectric	AZ, ID, UT, CA, NE, NV, OK, TX, US, WA, WY	28, P		Non-consumptive					
-PowerFossilFuel	Power (Fossil-Fuel)	Hydroelectric	UT			Non-consumptive					
-PowerGeothermal	Power (Geothermal)	Hydroelectric	UT			Non-consumptive					
-PowerHydroElec	Power (Hydro-Elec)	Hydroelectric	UT			Non-consumptive					
-PowerSelfSupplied	Power (self-supplied)	Hydroelectric	NM			Non-consumptive					
-PowerIncidentalUndergroundStorage	Power and Incidental Underground Storage	Hydroelectric	NE			Non-consumptive					
-PowerDevelopment	Power Development	Hydroelectric	OR			Non-consumptive					
-PowerFromStor	Power From Storage	Hydroelectric	ID	30		Non-consumptive					
-PowerGeneration	Power Generation	Hydroelectric	CO, MT, ND, NJ	P, PG		Non-consumptive					
-PowerStor	Power Storage	Hydroelectric	ID	29		Non-consumptive					
-RaiseDam	Raise Dam (for increase in head for power production)	Hydroelectric	NE			Non-consumptive					
-SupplementalPower	Supplemental Power	Hydroelectric	NE			Non-consumptive					
-SupplementalPowerIncidentalUndergroundStorage	Supplemental Power and Incidental Underground Storage	Hydroelectric	NE			Non-consumptive					
-AnadromousAndResidentFishHabitatInstream	Anadromous and Resident Fish Habitat (Instream)	In-stream Flow	OR			Non-consumptive					
-AquaticLifeInstream	AQUATIC LIFE (INSTREAM)	In-stream Flow	OR			Non-consumptive					
-BEDANDBANKS	BED AND BANKS	In-stream Flow	TX			Non-consumptive					
-ConsumptiveInstreamFlow	Consumptive Instream Flow	In-stream Flow	WY			Non-consumptive					
-CumulativeAccretionToRiver	Cumulative Accretion To River	In-stream Flow	CO	C		Non-consumptive					
-FireProtectionInstream	FIRE PROTECTION (INSTREAM)	In-stream Flow	OR			Non-consumptive					
-US_FishWildlife	Fish & Wildlife	In-stream Flow	AK, US			Non-consumptive					
-FGP	Fish and game propogation	In-stream Flow	NM			Non-consumptive					
-FishAndWildlife	Fish And Wildlife	In-stream Flow	MT, NE, ND, OR	FW		Non-consumptive					
-FishAndWildlifePreservationAndEnhancement	Fish and Wildlife Preservation and Enhancement	In-stream Flow	CA			Non-consumptive					
-FishAndWildlifePropagation	Fish And Wildlife Propagation	In-stream Flow	SD			Non-consumptive					
-FisheryEnhancementIinstream	Fishery Enhancement (Instream)	In-stream Flow	OR			Non-consumptive					
-INSTREAM	INSTREAM	In-stream Flow	TX			Non-consumptive					
-InstreamFlow	Instream Flow	In-stream Flow	MT, NE, WA, WY			Non-consumptive					
-InstreamFlowRequirements	Instream Flow Requirements	In-stream Flow	CA			Non-consumptive					
-IrrigationStor	Irrigation Storage	In-stream Flow	ID	2		Non-consumptive					
-LakeLevelMaintenance	Lake Level Maintenance	In-stream Flow	ID	53		Non-consumptive					
-ManagedWetlands	Managed Wetlands	In-stream Flow	CA			Non-consumptive					
-ID_MinimumStreamFlow	Minimum Stream Flow	In-stream Flow	ID	77		Non-consumptive					
-MinimumStreamflow	Minimum Streamflow	In-stream Flow	CO	M		Non-consumptive					
-MultipleInstreamUses	Multiple Instream Uses	In-stream Flow	OR			Non-consumptive					
-RequiredDeltaOutflow	Required Delta Outflow	In-stream Flow	CA			Non-consumptive					
-RiparianHabitatInstream	RIPARIAN HABITAT (INSTREAM)	In-stream Flow	OR			Non-consumptive					
-RiparianHabitatRestorationProject	Riparian Habitat Restoration Project	In-stream Flow	OR			Non-consumptive					
-Stream	Stream	In-stream Flow	WY			Non-consumptive					
-StreamAugmentation	Stream augmentation	In-stream Flow	WA			Non-consumptive					
-STREAMFLOWMAINTENANCEFROMSTORAGE	STREAMFLOW MAINTENANCE FROM STORAGE	In-stream Flow	ID			Non-consumptive					
-STK	72-12-1 livestock watering	Livestock	NM			Consumptive					
-Dairy	Dairy	Livestock	WA			Consumptive					
-DairyBarnUses	Dairy Barn Uses	Livestock	OR			Consumptive					
-DAI	Dairy operation	Livestock	NM			Consumptive					
-FPO	Feed pen operation	Livestock	NM			Consumptive					
-Livestock	Livestock	Livestock	OR, US			Consumptive					
-LivestockSelfSupplied	Livestock (self-supplied)	Livestock	NM			Consumptive					
-PLS	Non 72-12-1 livestock watering	Livestock	NM			Consumptive					
-Stock	Stock	Livestock	AZ, CO, MT, ND, WY	9, ST		Consumptive					
-StockAndDomestic	Stock and Domestic	Livestock	WY			Consumptive					
-StockWater	Stock water	Livestock	ID, KS, WA			Consumptive					
-Stock_Watering	Stock Watering	Livestock	WY			Consumptive					
-US_Stockpond	Stockpond	Livestock	US			Consumptive					
-STOCKRAISING	STOCKRAISING	Livestock	TX			Consumptive					
-Stockwater_ID	Stockwater	Livestock	ID			Consumptive					
-StockwaterFromStor	Stockwater From Storage	Livestock	ID	6		Consumptive					
-StockwaterStor	Stockwater Storage	Livestock	ID	5		Consumptive					
-Stockwatering	Stockwatering	Livestock	UT, CA, NV	S		Consumptive					
-CoalBedMethaneGroundWater	Coal Bed Methane - Ground Water	Mining	WY			Consumptive					
-CoalBedNaturalGas	Coal Bed Natural Gas	Mining	WY			Consumptive					
-Milling	Milling	Mining	CA, WY			Consumptive					
-US_Minerals	Minerals	Mining	US			Consumptive					
-Mining	Mining	Mining	AZ, CA, ID, MT, NJ, OK, OR, TX, UT, WA, WY	13, MN, x		Consumptive					
-MiningSelfSupplied	Mining (self-supplied)	Mining	NM			Consumptive					
-MiningAndMilling	Mining and Milling	Mining	NV			Consumptive					
-MiningFromStor	Mining From Storage	Mining	ID	15		Consumptive					
-MiningMillingAndDewatering	Mining Milling and Dewatering	Mining	NV			Consumptive					
-MIN	Mining or milling or oil	Mining	NM			Consumptive					
-MiningStor	Mining Storage	Mining	ID	14		Consumptive					
-Aesthetic	Aesthetic	Municipal Irrigation	CA, ID	49		Consumptive					
-AestheticFromStorage	Aesthetic From Storage	Municipal Irrigation	ID	51		Consumptive					
-AestheticStor	Aesthetic Storage	Municipal Irrigation	ID	50		Consumptive					
-Aesthetics	Aesthetics	Municipal Irrigation	OR			Consumptive					
-CEM	Cemetery	Municipal Irrigation	NM			Consumptive					
-INSTITUTION	INSTITUTION	Municipal Irrigation	AZ			Consumptive					
-Institutional	Institutional	Municipal Irrigation	MT, SD, TX, UT	IS		Consumptive					
-LandscapeIrrigation	Landscape Irrigation	Municipal Irrigation	CA			Consumptive					
-LawnAndGarden	Lawn And Garden	Municipal Irrigation	MT	LG		Consumptive					
-MunicipalStorage	Municipal Storage	Municipal Irrigation	ID	38		Consumptive					
-MunicipalIndustrial	Municipal/Industrial	Municipal Irrigation	UT			Consumptive					
-PondMaintenance	Pond Maintenance	Municipal Irrigation	OR			Consumptive					
-PUBLICPARKS	PUBLIC PARKS	Municipal Irrigation	TX			Consumptive					
-PublicSupply	Public Supply	Municipal Irrigation	AZ, OK			Consumptive					
-UTL	Public utility	Municipal Irrigation	NM			Consumptive					
-PublicWaterSupply	Public Water Supply	Municipal Irrigation	NM			Consumptive					
-SchoolUse	School use	Municipal Irrigation	NM			Consumptive					
-0RELEASEFORENVIROMENT	0 RELEASE FOR ENVIROMENT	Other	TX			Non-consumptive					
-PRO	72-12-1 Prospecting or development of natural resource	Other	NM		Check with the state	Consumptive					
-Administrative	Administrative	Other	ID	67		Unspecified					
-Dewatering	Dewatering	Other	AZ, KS, MT, NV	DE		Unspecified					
-DEW	Dewatering well	Other	NM			Unspecified					
-Discharge	Discharge	Other	MT, NV			Unspecified					
-DiversionOutOfBasin	DIVERSION OUT OF BASIN	Other	MT			Unspecified					
-DivTotal	DivTotal	Other	CO			Unspecified					
-DustControl	Dust Control	Other	CA, WA			Unspecified					
-Environmental	Environmental	Other	NV			Unspecified					
-EnvironmentalQuality	Environmental quality	Other	WA			Unspecified					
-ErosionControl	Erosion Control	Other	MT, WY	EC		Unspecified					
-Evaporation	Evaporation	Other	CO, NV			Unspecified					
-Evaporative	Evaporative	Other	CO	E		Unspecified					
-EXP	Exploration	Other	NM			Unspecified					
-ExportFromBasin	Export From Basin	Other	CO	B		Unspecified					
-ExportFromState	Export From State	Other	CO	S		Unspecified					
-US_ExportsImports	Exports/Imports	Other	US			Unspecified					
-FederalReserved	Federal Reserved	Other	CO	F		Unspecified					
-FederalReservedUse	Federal Reserved Use	Other	ID			Unspecified					
-FloodControl	Flood Control	Other	MT, NE, NM, ND, TX, WY	FC		Unspecified					
-FloodControlPermit	Flood Control Permit	Other	SD			Unspecified					
-FloodControlStorage	Flood Control Storage	Other	ID			Unspecified					
-FlowAugmentation	Flow Augmentation	Other	OR			Unspecified					
-FlowThrough	Flow Through	Other	WY			Unspecified					
-FlowThroughFishPond	Flow Through Fish Pond	Other	MT	FF		Unspecified					
-ForestManagement	Forest Management	Other	OR			Unspecified					
-FrostProtection	Frost Protection	Other	CA, OR, WA			Unspecified					
-GAMEPRESERVES	GAME PRESERVES	Other	TX			Unspecified					
-Greenhouse	Greenhouse	Other	OR			Unspecified					
-IceCutting	Ice Cutting	Other	WY			Unspecified					
-Indian	Indian	Other	AZ			Unspecified					
-Mitigation	Mitigation	Other	ID, WA	70		Unspecified					
-MITIGATIONBYNONUSE	MITIGATION BY NON-USE	Other	ID			Unspecified					
-MitigationWater	Mitigation Water	Other	MT			Unspecified					
-MULTIUSE	MULTI USE	Other	TX			Unspecified					
-Navigation	Navigation	Other	MT, TX	NV		Unspecified					
-NONCONSUMPTIVE	NON CONSUMPTIVE	Other	MT, TX			Non-consumptive					
-NONCONSUMPTIVE2	NON-CONSUMPTIVE	Other	TX			Non-consumptive					
-NON	Non-profit organizational use	Other	NM			Unspecified					
-NONCONSUMPTIVE3	NONCONSUMPTIVE	Other	MT			Non-consumptive					
-Other	Other	Other	AZ, CO, UT, CA, NV, OK, OR, TX, WA, WY	Q, O		Unspecified					
-OtherPurpose	Other Purpose	Other	MT	XX		Unspecified					
-OtherPWS	Other PWS	Other	CA			Unspecified					
-ParksAndRecreation	OTHER SPILLWAY/FLOODGAT	Other	TX			Unspecified					
-PollutionAbatement	Pollution Abatement	Other	MT, OR	PA		Unspecified					
-PollutionAbatementInstream	Pollution Abatement (Instream)	Other	OR			Non-consumptive
-					
-POL	Pollution control well	Other	NM			Unspecified					
-ReservoirEvaporation	Reservoir Evaporation	Other	NM			Unspecified					
-SedimentControl	Sediment Control	Other	MT, WY	SC		Unspecified					
-Stage	Stage	Other	CA, ID, MT			Unspecified					
-SupplementalFloodHarvesting	Supplemental Flood Harvesting	Other	OR			Unspecified					
-Temporary	Temporary	Other	WY			Unspecified					
-TemporaryTransferInStreamUse	Temporary Transfer to In-Stream Use	Other	NE			Unspecified					
-TransmountainExport	Transmountain Export	Other	CO	T		Unspecified					
-UNUSED	UNUSED	Other	AZ			Unspecified					
-WaterMarketing	Water Marketing	Other	MT			Unspecified					
-WATERQUALITY	WATER QUALITY	Other	CA, TX			Unspecified					
-WaterQualityImprov	Water Quality Improvement	Other	ID	31		Unspecified					
-WaterQualityImprovementFromStorage	Water Quality Improvement From Storage	Other	ID			Unspecified					
-WaterQualityImprovStor	Water Quality Improvement Storage	Other	ID	32		Unspecified					
-Waterfowl	Waterfowl	Other	MT			Unspecified					
-Wetland	Wetland	Other	MT			Unspecified					
-WetlandMitigationCredit	Wetland Mitigation Credit	Other	MT			Unspecified					
-Wetlands	Wetlands	Other	NE, TX, WY			Unspecified					
-WildAndScenicRiver	Wild And Scenic River	Other	CA, ID, WY	57		Unspecified					
-Wildlife	Wildlife	Other	AZ, ID, CO, MT, NV, OR, WY	16, W, WI		Unspecified					
-WildlifeFromStor	Wildlife From Storage	Other	ID	18		Unspecified					
-WildlifeHabitat	Wildlife Habitat	Other	MT			Unspecified					
-WildlifeHabitatMaintenanceAndEnhancement	Wildlife Habitat Maintenance And Enhancement	Other	MT			Unspecified					
-WILDLIFEMANAGEMENT	WILDLIFE MANAGEMENT	Other	TX			Unspecified					
-WildlifeRefuge	Wildlife refuge	Other	WA			Unspecified					
-WildlifeStor	Wildlife Storage	Other	ID	17		Unspecified					
-WW	WILDLIFE/WATERFOWL	Other	MT			Unspecified					
-CommunityTypeUse	Community type use	Public Supply	NM			Consumptive					
-US_MI	M & I	Public Supply	US			Consumptive					
-MultiFamilyResidential	Multi Family Residential	Public Supply	CA			Consumptive					
-Municipal	Municipal	Public Supply	AZ, CA, CO, ID, KS, MT, ND, NE, NV, SD, TX, UT, WA	37, MC, 2, M		Consumptive					
-MUN	Municipal - city or county supplied water	Public Supply	NM			Consumptive					
-MunicipalGroundWater	Municipal - Ground Water	Public Supply	WY			Consumptive					
-MunicipalSurfaceWater	Municipal - Surface Water	Public Supply	WY			Consumptive					
-MunicipalFromStor	Municipal From Storage	Public Supply	ID	39		Consumptive					
-MunicipalUse	Municipal Use	Public Supply	WY			Consumptive					
-MunicipalUses	Municipal Uses	Public Supply	OR			Consumptive					
-PotableSupply	Potable Supply	Public Supply	NJ			Consumptive					
-RuralWater	Rural Water	Public Supply	ND			Consumptive					
-RuralWaterSystem	Rural Water System	Public Supply	SD			Consumptive					
-SingleFamilyResidential	Single Family Residential	Public Supply	CA			Consumptive					
-SUB	Subdivision	Public Supply	NM			Consumptive					
-SuburbanHousingDevelopment	Suburban Housing Development	Public Supply	SD			Consumptive					
-Urban	Urban	Public Supply	CA			Consumptive					
-UseInAMintStill	Use in a Mint Still	Public Supply	OR			Consumptive					
-UseWithinASchool	Use Within a School	Public Supply	OR			Consumptive					
-WaterSupplier	Water Supplier	Public Supply	UT			Consumptive					
-Campsite	Campsite	Recreation	OR			Consumptive					
-MaintainLevelLake	Maintain Level of a Lake	Recreation	NE			Non-consumptive					
-Recreation	Recreation	Recreation	AZ, ID, CO, KS, MT, NM, ND, OR, SD, WY	43, 5, RC		Consumptive					
-RecreationBeautification	Recreation - beautification	Recreation	WA			Consumptive					
-RecreationFishWildlife	Recreation Fish Wildlife	Recreation	OK			Consumptive					
-RecreationFromStorage	Recreation From Storage	Recreation	ID	45		Consumptive					
-RecreationStor	Recreation Storage	Recreation	ID	44		Consumptive					
-Recreational	Recreational	Recreation	CA, NV, TX			Consumptive					
-SWIMMING	SWIMMING	Recreation	OR			Consumptive					
-3STORAGE	3 STORAGE	Reservoir Storage	TX		Check with the state	Non-consumptive					
-DiversionToStorage	Diversion To Storage	Reservoir Storage	ID	52		Non-consumptive					
-US_MajorandMinorReservoirs	Major and Minor Reservoirs	Reservoir Storage	US			Non-consumptive					
-ReservoirSupply	Reservoir Supply	Reservoir Storage	WY			Non-consumptive					
-Storage	Storage	Reservoir Storage	CA, CO, MT, NE, NM, NV, OR, TX, WA	0, SG		Non-consumptive					
-StorageUseOnly	Storage Use-only	Reservoir Storage	NE			Non-consumptive					
-StrategicWaterReserve	Strategic water reserve	Reservoir Storage	NM			Non-consumptive					
-STREAMFLOWMAINTENANCESTORAGE	STREAMFLOW MAINTENANCE STORAGE	Reservoir Storage	ID			Non-consumptive					
-SupplementalStorage	Supplemental Storage	Reservoir Storage	NE			Non-consumptive					
-SnowMaking	Snow Making	Snow	CO, CA, WY	K		Unspecified					
-AirConditioningOrHeating	Air Conditioning or Heating	Thermoelectric Cooling	OR			Unspecified					
-Cooling	Cooling	Thermoelectric Cooling	ID, NE	25		Unspecified					
-CoolingForIndustProces	Cooling for indust proces	Thermoelectric Cooling	WA			Unspecified					
-CoolingFromStor	Cooling From Storage	Thermoelectric Cooling	ID	27		Unspecified					
-CoolingStor	Cooling Storage	Thermoelectric Cooling	ID	26		Unspecified					
-GeoThermalHeatingandCooling	Geo-Thermal (Heating & Cooling)	Thermoelectric Cooling	OR			Unspecified					
-GeoThermalEnergyProduction	Geo-Thermal(Energy Production)	Thermoelectric Cooling	OR			Unspecified					
-Geothermal	Geothermal	Thermoelectric Cooling	CO, MT, SD, UT	G, GE		Unspecified					
-GEO	Geothermal boreholes	Thermoelectric Cooling	NM			Unspecified					
-GeothermalHeating	Geothermal Heating	Thermoelectric Cooling	MT	GH		Unspecified					
-HeatControl	Heat Control	Thermoelectric Cooling	CA			Unspecified					
-HeatExchange	Heat Exchange	Thermoelectric Cooling	WA			Unspecified					
-HeatProtectionForCrops	Heat protection for crops	Thermoelectric Cooling	WA			Unspecified					
-Heating	Heating	Thermoelectric Cooling	ID	22		Unspecified					
-SupplementalCooling	Supplemental Cooling	Thermoelectric Cooling	NE			Unspecified					
-TemperatureControl	Temperature Control	Thermoelectric Cooling	OR			Unspecified					
-Reuse	Reuse	Treated Wastewater/Reuse	TX			Unspecified					
-SewageTreatment	Sewage Treatment	Treated Wastewater/Reuse	UT			Unspecified					
-WasteStorage	Waste Storage	Treated Wastewater/Reuse	NE			Unspecified					
-AllBeneficialUses	All Beneficial Uses	Unspecified	CO	X		Unspecified					
-AnyPurpose	Any Purpose	Unspecified	MT			Unspecified					
-AsDecreed	As Decreed	Unspecified	NV			Unspecified					
-Augmentation	Augmentation	Unspecified	CO, MT	A, AG		Unspecified					
-AugmentationWell	Augmentation well	Unspecified	NM			Unspecified					
-CathodicProtectionWell	Cathodic protection well	Unspecified	NM			Unspecified					
-CLS	Closed file	Unspecified	NM			Unspecified					
-CombinedUses	Combined Uses	Unspecified	WY			Unspecified					
-IncidentalPower	Incidental Power	Unspecified	CA			Unspecified					
-MiscellaneousGroundWater	Miscellaneous - Ground Water	Unspecified	WY			Unspecified					
-NoPurposeIdentified	No Purpose Identified	Unspecified	WA			Unspecified					
-NRT	No right	Unspecified	NM			Unspecified					
-NOT	No use of right or POD	Unspecified	NM			Unspecified					
-None	None	Unspecified	ID			Unspecified					
-NotClassified	Not Classified	Unspecified	NJ			Unspecified					
-StackedWaterRight	Stacked water right	Unspecified	NM			Unspecified					
-TBD	To be determined	Unspecified	NM			Unspecified					
-Total	Total	Unspecified	NE, UT			Unspecified					
-Undefined	Undefined	Unspecified	ND			Unspecified					
-UNDETERMINED	UNDETERMINED	Unspecified	AZ			Unspecified					
-Unknown	Unknown	Unspecified	MT, UT, CO, NM, NV, TX	XO		Unspecified					
-Unspecified	Unspecified	Unspecified	AK, AZ, CA, CO, ID, MT, ND, NE, NM, NV, SD, TX, UT, WY, WA			Unspecified					
+Term,Name,WaDEname,State,Abbreviation,Definition,Category,Provenance,Provenance_uri,Note,Provenance_uri,Note
+Required (unique),Required (unique),Required,Required,Optional,Optional,Optional,Optional,Optional,Optional,Optional,Optional
+Agricultural,Agricultural,Agriculture Irrigation,"AZ, CA, CO, NJ, UT",,,Consumptive,,,,,
+AgriculturalConsumptiveUse,Agricultural Consumptive Use,Agriculture Irrigation,WY,,,Consumptive,,,,,
+AgriculturalSpraying,Agricultural Spraying,Agriculture Irrigation,MT,,,Consumptive,,,,,
+Agriculture,Agriculture,Agriculture Irrigation,"CA, OK, TX, UT",,,Consumptive,,,,,
+AGRICULTUREWETLAND,AGRICULTURE - WETLAND,Agriculture Irrigation,TX,,,Consumptive,,,,,
+AGR,Agriculture other than irrigation,Agriculture Irrigation,NM,,,Consumptive,,,,,
+AgricultureUses,Agriculture Uses,Agriculture Irrigation,OR,,,Consumptive,,,,,
+Cranberry,Cranberry,Agriculture Irrigation,OR,,,Consumptive,,,,,
+HarvestingOFCranberries,Harvesting of Cranberries,Agriculture Irrigation,OR,,,Consumptive,,,,,
+US_IrrigatedAgriculture,Irrigated Agriculture,Agriculture Irrigation,"NM, US",,,Consumptive,,,,,
+Irrigation,Irrigation,Agriculture Irrigation,"AZ, CA, CO, ID, KS, MT, ND, NE, NJ, NM, NV, OK, OR, SD, TX, UT, WA","01, 1, IR, I",,Consumptive,,,,,
+IrrigationGroundWater,Irrigation - Ground Water,Agriculture Irrigation,WY,,,Consumptive,,,,,
+IrrigationSurfaceWater,Irrigation - Surface Water,Agriculture Irrigation,WY,,,Consumptive,,,,,
+IrrigationAndDomestic,Irrigation and Domestic,Agriculture Irrigation,OR,,,Consumptive,,,,,
+IrrigationIncidentalUndergroundStorage,Irrigation and Incidental Underground Storage,Agriculture Irrigation,NE,,,Consumptive,,,,,
+IrrigationStorage,Irrigation and Storage (an appropriation approved for both uses),Agriculture Irrigation,NE,,,Consumptive,,,,,
+IrrigationFromNaturalStream,Irrigation from Natural Stream,Agriculture Irrigation,NE,,,Consumptive,,,,,
+IrrigationFromStor,Irrigation From Storage,Agriculture Irrigation,ID,3,,Consumptive,,,,,
+IrrigationOFCranberries,Irrigation of Cranberries,Agriculture Irrigation,OR,,,Consumptive,,,,,
+IrrigationCareyAct,Irrigation-Carey Act,Agriculture Irrigation,NV,,,Consumptive,,,,,
+IrrigationDLE,Irrigation-DLE,Agriculture Irrigation,NV,,,Consumptive,,,,,
+NurseryUses,Nursery Uses,Agriculture Irrigation,OR,,,Consumptive,,,,,
+PracticablyIrrigableAcreage,PRACTICABLY IRRIGABLE ACREAGE,Agriculture Irrigation,OR,,,Consumptive,,,,,
+PrimaryAndSupplementalIrrigation,Primary and Supplemental Irrigation,Agriculture Irrigation,OR,,,Consumptive,,,,,
+SUBIRRIGATION,SUBIRRIGATION,Agriculture Irrigation,ID,,,Consumptive,,,,,
+SupplementalIrrigation,Supplemental Irrigation,Agriculture Irrigation,"NE, OR",,,Consumptive,,,,,
+SupplementalIrrigationIncidentalUndergroundStorage,Supplemental Irrigation and Incidental Underground Storage,Agriculture Irrigation,NE,,,Consumptive,,,,,
+Aquaculture,Aquaculture,Aquaculture,"AZ, CA, OR, TX",,,Non-consumptive,,,,,
+CULTIVATIONOFFISH,CULTIVATION OF FISH,Aquaculture,AZ,,,Non-consumptive,,,,,
+FishCulture,Fish Culture,Aquaculture,"NE, OR",,,Non-consumptive,,,,,
+FishHabitat,Fish Habitat,Aquaculture,ID,56,,Non-consumptive,,,,,
+FishHabitatStorage,Fish Habitat Storage,Aquaculture,ID,65,,Non-consumptive,,,,,
+FishPropagation,Fish Propagation,Aquaculture,"ID, WA, WY",19,,Non-consumptive,,,,,
+FishPropagationFromStor,Fish Propagation From Storage,Aquaculture,ID,,,Non-consumptive,,,,,
+FishPropagationStor,Fish Propagation Storage,Aquaculture,ID,20,,Non-consumptive,,,,,
+FishRaceways,Fish Raceways,Aquaculture,MT,FR,,Non-consumptive,,,,,
+Fishery,Fishery,Aquaculture,"CO, MT","6, FS",,Non-consumptive,,,,,
+InstreamFishery,Instream Fishery,Aquaculture,MT,,,Non-consumptive,,,,,
+OTHERFISHHATCHERY,OTHER (FISH HATCHERY),Aquaculture,TX,,,Non-consumptive,,,,,
+SupplementalFishCulture,Supplemental Fish Culture,Aquaculture,NE,,,Non-consumptive,,,,,
+AquiferRecharge,Aquifer Recharge,Aquifer Recharge,MT,,,Consumptive,,,,,
+GroundWaterRecharge,Ground Water Recharge,Aquifer Recharge,"ID, OR, WY",34,,Consumptive,,,,,
+GroundWaterRechargeFromStor,Ground Water Recharge From Storage,Aquifer Recharge,ID,36,,Consumptive,,,,,
+GroundWaterRechargeStor,Ground Water Recharge Storage,Aquifer Recharge,ID,35,,Consumptive,,,,,
+GroundWaterRemediation,Ground Water Remediation,Aquifer Recharge,SD,,,Consumptive,,,,,
+GroundwaterAquiferStorageRecovery,Groundwater Aquifer Storage & Recovery,Aquifer Recharge,OR,,,Consumptive,,,,,
+GroundwaterPreservation,Groundwater Preservation,Aquifer Recharge,WA,,,Consumptive,,,,,
+GroundwaterRechargeNE,Groundwater Recharge,Aquifer Recharge,NE,,,Consumptive,,,,,
+IncidentalUndergroundStorage,Incidental Underground Storage,Aquifer Recharge,NE,,,Consumptive,,,,,
+InducedGroundWaterRecharge,Induced Ground Water Recharge,Aquifer Recharge,NE,,,Consumptive,,,,,
+INJ,Injection,Aquifer Recharge,NM,,,Consumptive,,,,,
+IntentionalUndergroundStorage,Intentional Underground Storage,Aquifer Recharge,NE,,,Consumptive,,,,,
+MarketingForMitigationAquiferRecharge,Marketing For Mitigation/Aquifer Recharge,Aquifer Recharge,MT,,,Consumptive,,,,,
+Monitor,Monitor,Aquifer Recharge,WY,,,Consumptive,,,,,
+MON,Monitoring well,Aquifer Recharge,NM,,,Consumptive,,,,,
+Observation,Observation,Aquifer Recharge,"AZ, NM",,,Consumptive,,,,,
+ObservationAndTesting,Observation And Testing,Aquifer Recharge,MT,OT,,Consumptive,,,,,
+Recharge,Recharge,Aquifer Recharge,"CO, TX",R,,Consumptive,,,,,
+StorageIncidentalUndergroundStorage,Storage and Incidental Underground Storage,Aquifer Recharge,NE,,,Consumptive,,,,,
+PUB,72-12-1 Construction of public works,Commercial/Industrial,NM,,,Consumptive,,,,,
+SAN,72-12-1 Sanitary in conjunction with a commercial use,Commercial/Industrial,NM,,,Consumptive,,,,,
+AIRCONDITIONING,AIR CONDITIONING,Commercial/Industrial,AZ,,Check with the state,Consumptive,,,,,
+BOTTLING,BOTTLING,Commercial/Industrial,AZ,,,Consumptive,,,,,
+BrineProductionWell,Brine production well,Commercial/Industrial,NM,,,Consumptive,,,,,
+Chemical,Chemical,Commercial/Industrial,WY,,,Consumptive,,,,,
+Commercial,Commercial,Commercial/Industrial,"AK, AZ, CO, ID, MT, ND, NJ, NM, NV, OK, SD, TX, UT, WA, WY","10, 03, CM",,Consumptive,,,,,
+CommercialSelfSupplied,Commercial (self-supplied),Commercial/Industrial,NM,,,Consumptive,,,,,
+CommercialAndIndust,Commercial & indust,Commercial/Industrial,WA,,,Consumptive,,,,,
+CommercialFromStor,Commercial From Storage,Commercial/Industrial,ID,12,,Consumptive,,,,,
+CommercialInstitutional,Commercial Institutional,Commercial/Industrial,CA,,,Consumptive,,,,,
+CommercialStor,Commercial Storage,Commercial/Industrial,ID,11,,Consumptive,,,,,
+CommercialUses,Commercial Uses,Commercial/Industrial,OR,,,Consumptive,,,,,
+CON,Construction,Commercial/Industrial,"NM, NV",,,Consumptive,,,,,
+Highway,Highway,Commercial/Industrial,WA,,,Consumptive,,,,,
+HWY,Highway construction,Commercial/Industrial,NM,,,Consumptive,,,,,
+Industrial,Industrial,Commercial/Industrial,"AZ, CA, CO, ID, KS, MT, ND, NE, NJ, NM, NV, OK, SD, TX, UT","07, 04, IN",,Consumptive,,,,,
+IndustrialGroundWater,Industrial - Ground Water,Commercial/Industrial,WY,,,Consumptive,,,,,
+INDUSTRIALPOWERGENERATION,INDUSTRIAL - POWER GENERATION,Commercial/Industrial,TX,,,Consumptive,,,,,
+INDUSTRIALSALTWATER,INDUSTRIAL - SALT WATER,Commercial/Industrial,TX,,,Consumptive,,,,,
+IndustrialSurfaceWater,Industrial - Surface Water,Commercial/Industrial,WY,,,Consumptive,,,,,
+IndustrialSelfSupplied,Industrial (self-supplied),Commercial/Industrial,NM,,,Consumptive,,,,,
+INDUSTRIALCOOLING,INDUSTRIAL COOLING,Commercial/Industrial,AZ,,,Consumptive,,,,,
+IndustrialFromStor,Industrial From Storage,Commercial/Industrial,ID,9,,Consumptive,,,,,
+IndustrialStor,Industrial Storage,Commercial/Industrial,ID,8,,Consumptive,,,,,
+IndustrialUse,Industrial Use,Commercial/Industrial,WY,,,Consumptive,,,,,
+IndustrialManufacturingUses,Industrial/Manufacturing Uses,Commercial/Industrial,OR,,,Consumptive,,,,,
+Laboratory,Laboratory,Commercial/Industrial,OR,,,Consumptive,,,,,
+LogDeckSprinkling,Log Deck Sprinkling,Commercial/Industrial,OR,,,Consumptive,,,,,
+Manufacturing,Manufacturing,Commercial/Industrial,"NE, NM, TX, WY",,,Consumptive,,,,,
+MeatPackingPlant,Meat packing plant,Commercial/Industrial,NM,,,Consumptive,,,,,
+Mechanical,Mechanical,Commercial/Industrial,WY,,,Consumptive,,,,,
+MEDICINAL,MEDICINAL,Commercial/Industrial,AZ,,,Consumptive,,,,,
+MIL,Military - military installations,Commercial/Industrial,NM,,,Consumptive,,,,,
+Oil,Oil,Commercial/Industrial,WY,,,Consumptive,,,,,
+OFM,Oil field maintenance,Commercial/Industrial,NM,,,Consumptive,,,,,
+OilProduction,Oil production,Commercial/Industrial,NM,,,Consumptive,,,,,
+OilWellFlooding,Oil Well Flooding,Commercial/Industrial,MT,OF,,Consumptive,,,,,
+PetroleumProcessingPlant,Petroleum processing plant,Commercial/Industrial,NM,,,Consumptive,,,,,
+PoultryAndEggOperation,Poultry and egg operation,Commercial/Industrial,NM,,,Consumptive,,,,,
+Railroad,Railroad,Commercial/Industrial,WY,,,Consumptive,,,,,
+Railway,Railway,Commercial/Industrial,WA,,,Consumptive,,,,,
+Ram,Ram,Commercial/Industrial,OR,,,Consumptive,,,,,
+RoadqConstruction,Road Construction,Commercial/Industrial,OR,,,Consumptive,,,,,
+Sale,Sale,Commercial/Industrial,MT,SL,,Consumptive,,,,,
+Sawmill,Sawmill,Commercial/Industrial,OR,,,Consumptive,,,,,
+SRO,Secondary recovery of oil,Commercial/Industrial,NM,,,Consumptive,,,,,
+Shop,Shop,Commercial/Industrial,OR,,,Consumptive,,,,,
+Transportation,Transportation,Commercial/Industrial,WY,,,Consumptive,,,,,
+DOL,72-12-1 domestic and livestock watering,Domestic,NM,,,Consumptive,,,,,
+DOM,72-12-1 domestic one household,Domestic,NM,,,Consumptive,,,,,
+MUL,72-12-1 multiple domestic households,Domestic,NM,,,Consumptive,,,,,
+DCII,DCII,Domestic,UT,,,Consumptive,,,,,
+Domestic,Domestic,Domestic,"AZ, CA, CO, ID, KS, MT, NE, ND, NV, OR, SD, UT","40, 8, D, DM",,Consumptive,,,,,
+DomesticGroundWater,Domestic - Ground Water,Domestic,WY,,,Consumptive,,,,,
+DomesticSurfaceWater,Domestic - Surface Water,Domestic,WY,,,Consumptive,,,,,
+DomesticSelfSupplied,Domestic (self-supplied),Domestic,NM,,,Consumptive,,,,,
+DomesticAndLivestock,Domestic and Livestock,Domestic,"OR, TX",,,Consumptive,,,,,
+DOMESTICANDLIVESTOCKLIVESTOCK,DOMESTIC AND LIVESTOCK & LIVESTOCK,Domestic,TX,,,Consumptive,,,,,
+DCN,Domestic construction,Domestic,NM,,,Consumptive,,,,,
+DomesticExpanded,Domestic Expanded,Domestic,OR,,,Consumptive,,,,,
+DomesticFromStor,Domestic From Storage,Domestic,ID,42,,Consumptive,,,,,
+DomesticGeneral,Domestic general,Domestic,WA,,,Consumptive,,,,,
+DomesticIncludingLawnAndGarden,Domestic Including Lawn and Garden,Domestic,OR,,,Consumptive,,,,,
+DomesticMultiple,Domestic multiple,Domestic,WA,,,Consumptive,,,,,
+DomesticSingle,Domestic single,Domestic,WA,,,Consumptive,,,,,
+DomesticStor,Domestic Storage,Domestic,"ID, NE",41,,Consumptive,,,,,
+DomesticSupply,Domestic Supply,Domestic,WY,,,Consumptive,,,,,
+DomesticUse,Domestic Use,Domestic,WY,,,Consumptive,,,,,
+GroupDomestic,Group Domestic,Domestic,OR,,,Consumptive,,,,,
+HouseholdUseOnly,Household Use Only,Domestic,CO,H,,Consumptive,,,,,
+HumanConsumption,Human Consumption,Domestic,OR,,,Consumptive,,,,,
+HumanConsumptionAndLivestock,Human Consumption and Livestock,Domestic,OR,,,Consumptive,,,,,
+MOB,Mobile home parks,Domestic,NM,,,Consumptive,,,,,
+MultipleDomestic,Multiple Domestic,Domestic,MT,MD,,Consumptive,,,,,
+MultiplePurpose,MULTIPLE PURPOSE,Domestic,OR,,,Consumptive,,,,,
+MultipleUse,Multiple Use,Domestic,ND,,,Consumptive,,,,,
+MUNICIPALDOMESTICANDLIVESTOCK,MUNICIPAL/DOMESTIC AND LIVESTOCK,Domestic,TX,,,Consumptive,,,,,
+PDL,Non 72-12-1 domestic and livestock watering,Domestic,NM,,,Consumptive,,,,,
+PDM,Non 72-12-1 domestic one household,Domestic,NM,,,Consumptive,,,,,
+PMH,Non 72-12-1 multiple domestic households,Domestic,NM,,,Consumptive,,,,,
+QuasiMunicipal,Quasi-Municipal,Domestic,NV,,,Consumptive,,,,,
+QuasiMunicipalUses,Quasi-Municipal Uses,Domestic,OR,,,Consumptive,,,,,
+Restroom,Restroom,Domestic,OR,,,Consumptive,,,,,
+Fire,Fire,Fire,"AZ, CO",7,,Unspecified,,,,,
+FireProtection,Fire Protection,Fire,"AZ, CA, ID, KS, MT, OR, WA, WY","46, FC",,Unspecified,,,,,
+FireProtectionFromStor,Fire Protection From Storage,Fire,ID,48,,Unspecified,,,,,
+FireProtectionStor,Fire Protection Storage,Fire,ID,47,,Unspecified,,,,,
+HYDROELECTRIC,HYDROELECTRIC,Hydroelectric,TX,,,Non-consumptive,,,,,
+HYDROELECTRICPRIORITY,HYDROELECTRIC - PRIORITY,Hydroelectric,TX,,,Non-consumptive,,,,,
+Hydropower,Hydropower,Hydroelectric,WY,,,Non-consumptive,,,,,
+Power,Power,Hydroelectric,"AZ, ID, UT, CA, NE, NV, OK, TX, US, WA, WY","28, P",,Non-consumptive,,,,,
+PowerFossilFuel,Power (Fossil-Fuel),Hydroelectric,UT,,,Non-consumptive,,,,,
+PowerGeothermal,Power (Geothermal),Hydroelectric,UT,,,Non-consumptive,,,,,
+PowerHydroElec,Power (Hydro-Elec),Hydroelectric,UT,,,Non-consumptive,,,,,
+PowerSelfSupplied,Power (self-supplied),Hydroelectric,NM,,,Non-consumptive,,,,,
+PowerIncidentalUndergroundStorage,Power and Incidental Underground Storage,Hydroelectric,NE,,,Non-consumptive,,,,,
+PowerDevelopment,Power Development,Hydroelectric,OR,,,Non-consumptive,,,,,
+PowerFromStor,Power From Storage,Hydroelectric,ID,30,,Non-consumptive,,,,,
+PowerGeneration,Power Generation,Hydroelectric,"CO, MT, ND, NJ","P, PG",,Non-consumptive,,,,,
+PowerStor,Power Storage,Hydroelectric,ID,29,,Non-consumptive,,,,,
+RaiseDam,Raise Dam (for increase in head for power production),Hydroelectric,NE,,,Non-consumptive,,,,,
+SupplementalPower,Supplemental Power,Hydroelectric,NE,,,Non-consumptive,,,,,
+SupplementalPowerIncidentalUndergroundStorage,Supplemental Power and Incidental Underground Storage,Hydroelectric,NE,,,Non-consumptive,,,,,
+AnadromousAndResidentFishHabitatInstream,Anadromous and Resident Fish Habitat (Instream),In-stream Flow,OR,,,Non-consumptive,,,,,
+AquaticLifeInstream,AQUATIC LIFE (INSTREAM),In-stream Flow,OR,,,Non-consumptive,,,,,
+BEDANDBANKS,BED AND BANKS,In-stream Flow,TX,,,Non-consumptive,,,,,
+ConsumptiveInstreamFlow,Consumptive Instream Flow,In-stream Flow,WY,,,Non-consumptive,,,,,
+CumulativeAccretionToRiver,Cumulative Accretion To River,In-stream Flow,CO,C,,Non-consumptive,,,,,
+FireProtectionInstream,FIRE PROTECTION (INSTREAM),In-stream Flow,OR,,,Non-consumptive,,,,,
+US_FishWildlife,Fish & Wildlife,In-stream Flow,"AK, US",,,Non-consumptive,,,,,
+FGP,Fish and game propogation,In-stream Flow,NM,,,Non-consumptive,,,,,
+FishAndWildlife,Fish And Wildlife,In-stream Flow,"MT, NE, ND, OR",FW,,Non-consumptive,,,,,
+FishAndWildlifePreservationAndEnhancement,Fish and Wildlife Preservation and Enhancement,In-stream Flow,CA,,,Non-consumptive,,,,,
+FishAndWildlifePropagation,Fish And Wildlife Propagation,In-stream Flow,SD,,,Non-consumptive,,,,,
+FisheryEnhancementIinstream,Fishery Enhancement (Instream),In-stream Flow,OR,,,Non-consumptive,,,,,
+INSTREAM,INSTREAM,In-stream Flow,TX,,,Non-consumptive,,,,,
+InstreamFlow,Instream Flow,In-stream Flow,"MT, NE, WA, WY",,,Non-consumptive,,,,,
+InstreamFlowRequirements,Instream Flow Requirements,In-stream Flow,CA,,,Non-consumptive,,,,,
+IrrigationStor,Irrigation Storage,In-stream Flow,ID,2,,Non-consumptive,,,,,
+LakeLevelMaintenance,Lake Level Maintenance,In-stream Flow,ID,53,,Non-consumptive,,,,,
+ManagedWetlands,Managed Wetlands,In-stream Flow,CA,,,Non-consumptive,,,,,
+ID_MinimumStreamFlow,Minimum Stream Flow,In-stream Flow,ID,77,,Non-consumptive,,,,,
+MinimumStreamflow,Minimum Streamflow,In-stream Flow,CO,M,,Non-consumptive,,,,,
+MultipleInstreamUses,Multiple Instream Uses,In-stream Flow,OR,,,Non-consumptive,,,,,
+RequiredDeltaOutflow,Required Delta Outflow,In-stream Flow,CA,,,Non-consumptive,,,,,
+RiparianHabitatInstream,RIPARIAN HABITAT (INSTREAM),In-stream Flow,OR,,,Non-consumptive,,,,,
+RiparianHabitatRestorationProject,Riparian Habitat Restoration Project,In-stream Flow,OR,,,Non-consumptive,,,,,
+Stream,Stream,In-stream Flow,WY,,,Non-consumptive,,,,,
+StreamAugmentation,Stream augmentation,In-stream Flow,WA,,,Non-consumptive,,,,,
+STREAMFLOWMAINTENANCEFROMSTORAGE,STREAMFLOW MAINTENANCE FROM STORAGE,In-stream Flow,ID,,,Non-consumptive,,,,,
+STK,72-12-1 livestock watering,Livestock,NM,,,Consumptive,,,,,
+Dairy,Dairy,Livestock,WA,,,Consumptive,,,,,
+DairyBarnUses,Dairy Barn Uses,Livestock,OR,,,Consumptive,,,,,
+DAI,Dairy operation,Livestock,NM,,,Consumptive,,,,,
+FPO,Feed pen operation,Livestock,NM,,,Consumptive,,,,,
+Livestock,Livestock,Livestock,"OR, US",,,Consumptive,,,,,
+LivestockSelfSupplied,Livestock (self-supplied),Livestock,NM,,,Consumptive,,,,,
+PLS,Non 72-12-1 livestock watering,Livestock,NM,,,Consumptive,,,,,
+Stock,Stock,Livestock,"AZ, CO, MT, ND, WY","9, ST",,Consumptive,,,,,
+StockAndDomestic,Stock and Domestic,Livestock,WY,,,Consumptive,,,,,
+StockWater,Stock water,Livestock,"ID, KS, WA",,,Consumptive,,,,,
+Stock_Watering,Stock Watering,Livestock,WY,,,Consumptive,,,,,
+US_Stockpond,Stockpond,Livestock,US,,,Consumptive,,,,,
+STOCKRAISING,STOCKRAISING,Livestock,TX,,,Consumptive,,,,,
+Stockwater_ID,Stockwater,Livestock,ID,,,Consumptive,,,,,
+StockwaterFromStor,Stockwater From Storage,Livestock,ID,6,,Consumptive,,,,,
+StockwaterStor,Stockwater Storage,Livestock,ID,5,,Consumptive,,,,,
+Stockwatering,Stockwatering,Livestock,"UT, CA, NV",S,,Consumptive,,,,,
+CoalBedMethaneGroundWater,Coal Bed Methane - Ground Water,Mining,WY,,,Consumptive,,,,,
+CoalBedNaturalGas,Coal Bed Natural Gas,Mining,WY,,,Consumptive,,,,,
+Milling,Milling,Mining,"CA, WY",,,Consumptive,,,,,
+US_Minerals,Minerals,Mining,US,,,Consumptive,,,,,
+Mining,Mining,Mining,"AZ, CA, ID, MT, NJ, OK, OR, TX, UT, WA, WY","13, MN, x",,Consumptive,,,,,
+MiningSelfSupplied,Mining (self-supplied),Mining,NM,,,Consumptive,,,,,
+MiningAndMilling,Mining and Milling,Mining,NV,,,Consumptive,,,,,
+MiningFromStor,Mining From Storage,Mining,ID,15,,Consumptive,,,,,
+MiningMillingAndDewatering,Mining Milling and Dewatering,Mining,NV,,,Consumptive,,,,,
+MIN,Mining or milling or oil,Mining,NM,,,Consumptive,,,,,
+MiningStor,Mining Storage,Mining,ID,14,,Consumptive,,,,,
+Aesthetic,Aesthetic,Municipal Irrigation,"CA, ID",49,,Consumptive,,,,,
+AestheticFromStorage,Aesthetic From Storage,Municipal Irrigation,ID,51,,Consumptive,,,,,
+AestheticStor,Aesthetic Storage,Municipal Irrigation,ID,50,,Consumptive,,,,,
+Aesthetics,Aesthetics,Municipal Irrigation,OR,,,Consumptive,,,,,
+CEM,Cemetery,Municipal Irrigation,NM,,,Consumptive,,,,,
+INSTITUTION,INSTITUTION,Municipal Irrigation,AZ,,,Consumptive,,,,,
+Institutional,Institutional,Municipal Irrigation,"MT, SD, TX, UT",IS,,Consumptive,,,,,
+LandscapeIrrigation,Landscape Irrigation,Municipal Irrigation,CA,,,Consumptive,,,,,
+LawnAndGarden,Lawn And Garden,Municipal Irrigation,MT,LG,,Consumptive,,,,,
+MunicipalStorage,Municipal Storage,Municipal Irrigation,ID,38,,Consumptive,,,,,
+MunicipalIndustrial,Municipal/Industrial,Municipal Irrigation,UT,,,Consumptive,,,,,
+PondMaintenance,Pond Maintenance,Municipal Irrigation,OR,,,Consumptive,,,,,
+PUBLICPARKS,PUBLIC PARKS,Municipal Irrigation,TX,,,Consumptive,,,,,
+PublicSupply,Public Supply,Municipal Irrigation,"AZ, OK",,,Consumptive,,,,,
+UTL,Public utility,Municipal Irrigation,NM,,,Consumptive,,,,,
+PublicWaterSupply,Public Water Supply,Municipal Irrigation,NM,,,Consumptive,,,,,
+SchoolUse,School use,Municipal Irrigation,NM,,,Consumptive,,,,,
+0RELEASEFORENVIROMENT,0 RELEASE FOR ENVIROMENT,Other,TX,,,Non-consumptive,,,,,
+PRO,72-12-1 Prospecting or development of natural resource,Other,NM,,Check with the state,Consumptive,,,,,
+Administrative,Administrative,Other,ID,67,,Unspecified,,,,,
+Dewatering,Dewatering,Other,"AZ, KS, MT, NV",DE,,Unspecified,,,,,
+DEW,Dewatering well,Other,NM,,,Unspecified,,,,,
+Discharge,Discharge,Other,"MT, NV",,,Unspecified,,,,,
+DiversionOutOfBasin,DIVERSION OUT OF BASIN,Other,MT,,,Unspecified,,,,,
+DivTotal,DivTotal,Other,CO,,,Unspecified,,,,,
+DustControl,Dust Control,Other,"CA, WA",,,Unspecified,,,,,
+Environmental,Environmental,Other,NV,,,Unspecified,,,,,
+EnvironmentalQuality,Environmental quality,Other,WA,,,Unspecified,,,,,
+ErosionControl,Erosion Control,Other,"MT, WY",EC,,Unspecified,,,,,
+Evaporation,Evaporation,Other,"CO, NV",,,Unspecified,,,,,
+Evaporative,Evaporative,Other,CO,E,,Unspecified,,,,,
+EXP,Exploration,Other,NM,,,Unspecified,,,,,
+ExportFromBasin,Export From Basin,Other,CO,B,,Unspecified,,,,,
+ExportFromState,Export From State,Other,CO,S,,Unspecified,,,,,
+US_ExportsImports,Exports/Imports,Other,US,,,Unspecified,,,,,
+FederalReserved,Federal Reserved,Other,CO,F,,Unspecified,,,,,
+FederalReservedUse,Federal Reserved Use,Other,ID,,,Unspecified,,,,,
+FloodControl,Flood Control,Other,"MT, NE, NM, ND, TX, WY",FC,,Unspecified,,,,,
+FloodControlPermit,Flood Control Permit,Other,SD,,,Unspecified,,,,,
+FloodControlStorage,Flood Control Storage,Other,ID,,,Unspecified,,,,,
+FlowAugmentation,Flow Augmentation,Other,OR,,,Unspecified,,,,,
+FlowThrough,Flow Through,Other,WY,,,Unspecified,,,,,
+FlowThroughFishPond,Flow Through Fish Pond,Other,MT,FF,,Unspecified,,,,,
+ForestManagement,Forest Management,Other,OR,,,Unspecified,,,,,
+FrostProtection,Frost Protection,Other,"CA, OR, WA",,,Unspecified,,,,,
+GAMEPRESERVES,GAME PRESERVES,Other,TX,,,Unspecified,,,,,
+Greenhouse,Greenhouse,Other,OR,,,Unspecified,,,,,
+IceCutting,Ice Cutting,Other,WY,,,Unspecified,,,,,
+Indian,Indian,Other,AZ,,,Unspecified,,,,,
+Mitigation,Mitigation,Other,"ID, WA",70,,Unspecified,,,,,
+MITIGATIONBYNONUSE,MITIGATION BY NON-USE,Other,ID,,,Unspecified,,,,,
+MitigationWater,Mitigation Water,Other,MT,,,Unspecified,,,,,
+MULTIUSE,MULTI USE,Other,TX,,,Unspecified,,,,,
+Navigation,Navigation,Other,"MT, TX",NV,,Unspecified,,,,,
+NONCONSUMPTIVE,NON CONSUMPTIVE,Other,"MT, TX",,,Non-consumptive,,,,,
+NONCONSUMPTIVE2,NON-CONSUMPTIVE,Other,TX,,,Non-consumptive,,,,,
+NON,Non-profit organizational use,Other,NM,,,Unspecified,,,,,
+NONCONSUMPTIVE3,NONCONSUMPTIVE,Other,MT,,,Non-consumptive,,,,,
+Other,Other,Other,"AZ, CO, UT, CA, NV, OK, OR, TX, WA, WY","Q, O",,Unspecified,,,,,
+OtherPurpose,Other Purpose,Other,MT,XX,,Unspecified,,,,,
+OtherPWS,Other PWS,Other,CA,,,Unspecified,,,,,
+ParksAndRecreation,OTHER SPILLWAY/FLOODGAT,Other,TX,,,Unspecified,,,,,
+PollutionAbatement,Pollution Abatement,Other,"MT, OR",PA,,Unspecified,,,,,
+PollutionAbatementInstream,Pollution Abatement (Instream),Other,OR,,,Non-consumptive,,,,,
+POL,Pollution control well,Other,NM,,,Unspecified,,,,,
+ReservoirEvaporation,Reservoir Evaporation,Other,NM,,,Unspecified,,,,,
+SedimentControl,Sediment Control,Other,"MT, WY",SC,,Unspecified,,,,,
+Stage,Stage,Other,"CA, ID, MT",,,Unspecified,,,,,
+SupplementalFloodHarvesting,Supplemental Flood Harvesting,Other,OR,,,Unspecified,,,,,
+Temporary,Temporary,Other,WY,,,Unspecified,,,,,
+TemporaryTransferInStreamUse,Temporary Transfer to In-Stream Use,Other,NE,,,Unspecified,,,,,
+TransmountainExport,Transmountain Export,Other,CO,T,,Unspecified,,,,,
+UNUSED,UNUSED,Other,AZ,,,Unspecified,,,,,
+WaterMarketing,Water Marketing,Other,MT,,,Unspecified,,,,,
+WATERQUALITY,WATER QUALITY,Other,"CA, TX",,,Unspecified,,,,,
+WaterQualityImprov,Water Quality Improvement,Other,ID,31,,Unspecified,,,,,
+WaterQualityImprovementFromStorage,Water Quality Improvement From Storage,Other,ID,,,Unspecified,,,,,
+WaterQualityImprovStor,Water Quality Improvement Storage,Other,ID,32,,Unspecified,,,,,
+Waterfowl,Waterfowl,Other,MT,,,Unspecified,,,,,
+Wetland,Wetland,Other,MT,,,Unspecified,,,,,
+WetlandMitigationCredit,Wetland Mitigation Credit,Other,MT,,,Unspecified,,,,,
+Wetlands,Wetlands,Other,"NE, TX, WY",,,Unspecified,,,,,
+WildAndScenicRiver,Wild And Scenic River,Other,"CA, ID, WY",57,,Unspecified,,,,,
+Wildlife,Wildlife,Other,"AZ, ID, CO, MT, NV, OR, WY","16, W, WI",,Unspecified,,,,,
+WildlifeFromStor,Wildlife From Storage,Other,ID,18,,Unspecified,,,,,
+WildlifeHabitat,Wildlife Habitat,Other,MT,,,Unspecified,,,,,
+WildlifeHabitatMaintenanceAndEnhancement,Wildlife Habitat Maintenance And Enhancement,Other,MT,,,Unspecified,,,,,
+WILDLIFEMANAGEMENT,WILDLIFE MANAGEMENT,Other,TX,,,Unspecified,,,,,
+WildlifeRefuge,Wildlife refuge,Other,WA,,,Unspecified,,,,,
+WildlifeStor,Wildlife Storage,Other,ID,17,,Unspecified,,,,,
+WW,WILDLIFE/WATERFOWL,Other,MT,,,Unspecified,,,,,
+CommunityTypeUse,Community type use,Public Supply,NM,,,Consumptive,,,,,
+US_MI,M & I,Public Supply,US,,,Consumptive,,,,,
+MultiFamilyResidential,Multi Family Residential,Public Supply,CA,,,Consumptive,,,,,
+Municipal,Municipal,Public Supply,"AZ, CA, CO, ID, KS, MT, ND, NE, NV, SD, TX, UT, WA","37, MC, 2, M",,Consumptive,,,,,
+MUN,Municipal - city or county supplied water,Public Supply,NM,,,Consumptive,,,,,
+MunicipalGroundWater,Municipal - Ground Water,Public Supply,WY,,,Consumptive,,,,,
+MunicipalSurfaceWater,Municipal - Surface Water,Public Supply,WY,,,Consumptive,,,,,
+MunicipalFromStor,Municipal From Storage,Public Supply,ID,39,,Consumptive,,,,,
+MunicipalUse,Municipal Use,Public Supply,WY,,,Consumptive,,,,,
+MunicipalUses,Municipal Uses,Public Supply,OR,,,Consumptive,,,,,
+PotableSupply,Potable Supply,Public Supply,NJ,,,Consumptive,,,,,
+RuralWater,Rural Water,Public Supply,ND,,,Consumptive,,,,,
+RuralWaterSystem,Rural Water System,Public Supply,SD,,,Consumptive,,,,,
+SingleFamilyResidential,Single Family Residential,Public Supply,CA,,,Consumptive,,,,,
+SUB,Subdivision,Public Supply,NM,,,Consumptive,,,,,
+SuburbanHousingDevelopment,Suburban Housing Development,Public Supply,SD,,,Consumptive,,,,,
+Urban,Urban,Public Supply,CA,,,Consumptive,,,,,
+UseInAMintStill,Use in a Mint Still,Public Supply,OR,,,Consumptive,,,,,
+UseWithinASchool,Use Within a School,Public Supply,OR,,,Consumptive,,,,,
+WaterSupplier,Water Supplier,Public Supply,UT,,,Consumptive,,,,,
+Campsite,Campsite,Recreation,OR,,,Consumptive,,,,,
+MaintainLevelLake,Maintain Level of a Lake,Recreation,NE,,,Non-consumptive,,,,,
+Recreation,Recreation,Recreation,"AZ, ID, CO, KS, MT, NM, ND, OR, SD, WY","43, 5, RC",,Consumptive,,,,,
+RecreationBeautification,Recreation - beautification,Recreation,WA,,,Consumptive,,,,,
+RecreationFishWildlife,Recreation Fish Wildlife,Recreation,OK,,,Consumptive,,,,,
+RecreationFromStorage,Recreation From Storage,Recreation,ID,45,,Consumptive,,,,,
+RecreationStor,Recreation Storage,Recreation,ID,44,,Consumptive,,,,,
+Recreational,Recreational,Recreation,"CA, NV, TX",,,Consumptive,,,,,
+SWIMMING,SWIMMING,Recreation,OR,,,Consumptive,,,,,
+3STORAGE,3 STORAGE,Reservoir Storage,TX,,Check with the state,Non-consumptive,,,,,
+DiversionToStorage,Diversion To Storage,Reservoir Storage,ID,52,,Non-consumptive,,,,,
+US_MajorandMinorReservoirs,Major and Minor Reservoirs,Reservoir Storage,US,,,Non-consumptive,,,,,
+ReservoirSupply,Reservoir Supply,Reservoir Storage,WY,,,Non-consumptive,,,,,
+Storage,Storage,Reservoir Storage,"CA, CO, MT, NE, NM, NV, OR, TX, WA","0, SG",,Non-consumptive,,,,,
+StorageUseOnly,Storage Use-only,Reservoir Storage,NE,,,Non-consumptive,,,,,
+StrategicWaterReserve,Strategic water reserve,Reservoir Storage,NM,,,Non-consumptive,,,,,
+STREAMFLOWMAINTENANCESTORAGE,STREAMFLOW MAINTENANCE STORAGE,Reservoir Storage,ID,,,Non-consumptive,,,,,
+SupplementalStorage,Supplemental Storage,Reservoir Storage,NE,,,Non-consumptive,,,,,
+SnowMaking,Snow Making,Snow,"CO, CA, WY",K,,Unspecified,,,,,
+AirConditioningOrHeating,Air Conditioning or Heating,Thermoelectric Cooling,OR,,,Unspecified,,,,,
+Cooling,Cooling,Thermoelectric Cooling,"ID, NE",25,,Unspecified,,,,,
+CoolingForIndustProces,Cooling for indust proces,Thermoelectric Cooling,WA,,,Unspecified,,,,,
+CoolingFromStor,Cooling From Storage,Thermoelectric Cooling,ID,27,,Unspecified,,,,,
+CoolingStor,Cooling Storage,Thermoelectric Cooling,ID,26,,Unspecified,,,,,
+GeoThermalHeatingandCooling,Geo-Thermal (Heating & Cooling),Thermoelectric Cooling,OR,,,Unspecified,,,,,
+GeoThermalEnergyProduction,Geo-Thermal(Energy Production),Thermoelectric Cooling,OR,,,Unspecified,,,,,
+Geothermal,Geothermal,Thermoelectric Cooling,"CO, MT, SD, UT","G, GE",,Unspecified,,,,,
+GEO,Geothermal boreholes,Thermoelectric Cooling,NM,,,Unspecified,,,,,
+GeothermalHeating,Geothermal Heating,Thermoelectric Cooling,MT,GH,,Unspecified,,,,,
+HeatControl,Heat Control,Thermoelectric Cooling,CA,,,Unspecified,,,,,
+HeatExchange,Heat Exchange,Thermoelectric Cooling,WA,,,Unspecified,,,,,
+HeatProtectionForCrops,Heat protection for crops,Thermoelectric Cooling,WA,,,Unspecified,,,,,
+Heating,Heating,Thermoelectric Cooling,ID,22,,Unspecified,,,,,
+SupplementalCooling,Supplemental Cooling,Thermoelectric Cooling,NE,,,Unspecified,,,,,
+TemperatureControl,Temperature Control,Thermoelectric Cooling,OR,,,Unspecified,,,,,
+Reuse,Reuse,Treated Wastewater/Reuse,TX,,,Unspecified,,,,,
+SewageTreatment,Sewage Treatment,Treated Wastewater/Reuse,UT,,,Unspecified,,,,,
+WasteStorage,Waste Storage,Treated Wastewater/Reuse,NE,,,Unspecified,,,,,
+AllBeneficialUses,All Beneficial Uses,Unspecified,CO,X,,Unspecified,,,,,
+AnyPurpose,Any Purpose,Unspecified,MT,,,Unspecified,,,,,
+AsDecreed,As Decreed,Unspecified,NV,,,Unspecified,,,,,
+Augmentation,Augmentation,Unspecified,"CO, MT","A, AG",,Unspecified,,,,,
+AugmentationWell,Augmentation well,Unspecified,NM,,,Unspecified,,,,,
+CathodicProtectionWell,Cathodic protection well,Unspecified,NM,,,Unspecified,,,,,
+CLS,Closed file,Unspecified,NM,,,Unspecified,,,,,
+CombinedUses,Combined Uses,Unspecified,WY,,,Unspecified,,,,,
+IncidentalPower,Incidental Power,Unspecified,CA,,,Unspecified,,,,,
+MiscellaneousGroundWater,Miscellaneous - Ground Water,Unspecified,WY,,,Unspecified,,,,,
+NoPurposeIdentified,No Purpose Identified,Unspecified,WA,,,Unspecified,,,,,
+NRT,No right,Unspecified,NM,,,Unspecified,,,,,
+NOT,No use of right or POD,Unspecified,NM,,,Unspecified,,,,,
+None,None,Unspecified,ID,,,Unspecified,,,,,
+NotClassified,Not Classified,Unspecified,NJ,,,Unspecified,,,,,
+StackedWaterRight,Stacked water right,Unspecified,NM,,,Unspecified,,,,,
+TBD,To be determined,Unspecified,NM,,,Unspecified,,,,,
+Total,Total,Unspecified,"NE, UT",,,Unspecified,,,,,
+Undefined,Undefined,Unspecified,ND,,,Unspecified,,,,,
+UNDETERMINED,UNDETERMINED,Unspecified,AZ,,,Unspecified,,,,,
+Unknown,Unknown,Unspecified,"MT, UT, CO, NM, NV, TX",XO,,Unspecified,,,,,
+Unspecified,Unspecified,Unspecified,"AK, AZ, CA, CO, ID, MT, ND, NE, NM, NV, SD, TX, UT, WY, WA",,,Unspecified,,,,,
