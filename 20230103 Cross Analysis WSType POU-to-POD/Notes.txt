@@ -1,0 +1,9 @@
+297,195 unique WRs with a POU connected to a POD.
+
+333,003 unique POUs tied to a WR connected to a POD.
+
+360,886 unique WR and POD combos with a connected POD.
+
+Be aware of POU sites that may be part of multiple WRs.  
+
+We want to know the relationship between a POU's watersource type and a POD's watersource type of the same WR.
