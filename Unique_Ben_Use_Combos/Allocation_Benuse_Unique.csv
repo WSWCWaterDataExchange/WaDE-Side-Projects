@@ -1,0 +1,1864 @@
+WaDEBenUse,UniqueCount,len_WBU
+Agriculture Irrigation,285150,1
+Livestock,284228,1
+Domestic,228128,1
+Unspecified,59547,1
+"Domestic,Livestock",54524,2
+"Livestock,Other",42774,2
+"Agriculture Irrigation,Domestic,Livestock",41422,3
+Other,36466,1
+"Agriculture Irrigation,Domestic",31902,2
+"Agriculture Irrigation,Livestock",26338,2
+Public Supply,22407,1
+"Domestic,Municipal Irrigation",20138,2
+Commercial/Industrial,18506,1
+Mining,11781,1
+Municipal Irrigation,10254,1
+"Agriculture Irrigation,Unspecified",9673,2
+In-stream Flow,9368,1
+Recreation,6480,1
+"Domestic,Livestock,Municipal Irrigation",6428,3
+"Agriculture Irrigation,Commercial/Industrial,Domestic,Fire,Livestock,Unspecified",5753,6
+Reservoir Storage,4418,1
+Aquaculture,3299,1
+Fire,3205,1
+"Livestock,Unspecified",2644,2
+"Agriculture Irrigation,Other",2592,2
+"Public Supply,Unspecified",2517,2
+"Fire,Livestock",2479,2
+"Commercial/Industrial,Domestic",2424,2
+"Domestic,Unspecified",2403,2
+"Agriculture Irrigation,Public Supply",2037,2
+"Agriculture Irrigation,Livestock,Other",1596,3
+"Livestock,Other,Unspecified",1384,3
+"Agriculture Irrigation,Aquaculture,Commercial/Industrial,Domestic,Fire,Livestock,Public Supply,Recreation,Unspecified",1357,9
+Aquifer Recharge,1343,1
+"Domestic,Livestock,Other",1331,3
+"Agriculture Irrigation,Domestic,Livestock,Other",1283,4
+"Domestic,Fire",1184,2
+"Domestic,Other",1147,2
+"Agriculture Irrigation,Commercial/Industrial,Domestic",1078,3
+"Agriculture Irrigation,Domestic,Other",1039,3
+"Agriculture Irrigation,Aquaculture,Commercial/Industrial,Domestic,Fire,Livestock,Other,Public Supply,Recreation",1024,9
+"Domestic,Public Supply",975,2
+"Commercial/Industrial,Livestock",916,2
+"Agriculture Irrigation,Domestic,Fire,Livestock",886,4
+"Agriculture Irrigation,Commercial/Industrial,Domestic,Public Supply",882,4
+"Agriculture Irrigation,Commercial/Industrial",881,2
+"Agriculture Irrigation,Domestic,Livestock,Municipal Irrigation",866,4
+"Agriculture Irrigation,Domestic,Unspecified",821,3
+"Agriculture Irrigation,Aquaculture,Commercial/Industrial,Domestic,Livestock,Other,Public Supply,Recreation,Unspecified",776,9
+"Reservoir Storage,Unspecified",677,2
+"Aquaculture,Other,Recreation",645,3
+"Fire,Livestock,Other",635,3
+"In-stream Flow,Unspecified",625,2
+"Agriculture Irrigation,Aquaculture,Commercial/Industrial,Domestic,Public Supply,Recreation",602,6
+"Livestock,Municipal Irrigation",599,2
+"Aquaculture,Recreation",596,2
+"Agriculture Irrigation,Commercial/Industrial,Domestic,Fire,Public Supply,Recreation",546,6
+"Agriculture Irrigation,Domestic,Fire",542,3
+"Agriculture Irrigation,Domestic,Public Supply",536,3
+"Agriculture Irrigation,Aquaculture,Commercial/Industrial,Domestic,Other,Public Supply,Recreation,Unspecified",533,8
+"Domestic,Fire,Livestock",531,3
+"Agriculture Irrigation,Recreation",525,2
+Thermoelectric Cooling,520,1
+"Agriculture Irrigation,Aquaculture",513,2
+"Agriculture Irrigation,Livestock,Unspecified",512,3
+"Agriculture Irrigation,Commercial/Industrial,Domestic,Livestock",510,4
+"Agriculture Irrigation,Aquaculture,Commercial/Industrial,Domestic,Fire,Livestock,Other,Recreation,Unspecified",497,9
+"Agriculture Irrigation,Domestic,Municipal Irrigation",412,3
+"Agriculture Irrigation,Aquaculture,Commercial/Industrial,Domestic,Fire,Hydroelectric,Public Supply,Recreation,Unspecified",405,9
+"Agriculture Irrigation,Fire",405,2
+"Agriculture Irrigation,Aquaculture,Livestock",396,3
+Hydroelectric,391,1
+"Commercial/Industrial,Domestic,Livestock",381,3
+"In-stream Flow,Livestock",345,2
+"Agriculture Irrigation,In-stream Flow",344,2
+"Other,Unspecified",340,2
+"Aquaculture,Livestock",326,2
+"Agriculture Irrigation,Aquaculture,Domestic,Livestock",322,4
+"Agriculture Irrigation,Domestic,Livestock,Public Supply",318,4
+"Agriculture Irrigation,Domestic,Livestock,Unspecified",318,4
+"Aquaculture,Livestock,Other,Recreation",310,4
+"Agriculture Irrigation,Aquaculture,Commercial/Industrial,Domestic,Hydroelectric,Livestock,Public Supply",308,7
+"Agriculture Irrigation,Commercial/Industrial,Domestic,Livestock,Unspecified",296,5
+"Domestic,Recreation",294,2
+"Livestock,Other,Recreation",292,3
+"Agriculture Irrigation,Commercial/Industrial,Domestic,Fire,Other,Public Supply,Recreation",292,7
+"Commercial/Industrial,Municipal Irrigation",279,2
+"Aquaculture,Unspecified",271,2
+"Aquaculture,Domestic",266,2
+"Other,Recreation",265,2
+"Agriculture Irrigation,Aquaculture,Recreation",265,3
+"Aquaculture,Domestic,Livestock",262,3
+"Aquaculture,Fire,Livestock,Other,Recreation",259,5
+"Agriculture Irrigation,Fire,Livestock",258,3
+"Recreation,Unspecified",253,2
+"Agriculture Irrigation,Aquaculture,Commercial/Industrial,Domestic,Fire,In-stream Flow,Other,Public Supply,Recreation,Reservoir Storage,Unspecified",252,11
+"Commercial/Industrial,Unspecified",247,2
+"Agriculture Irrigation,Aquaculture,Commercial/Industrial,Domestic,Fire,Livestock,Public Supply,Recreation",247,8
+"Agriculture Irrigation,Aquaculture,Commercial/Industrial,Domestic,Livestock,Other,Public Supply,Recreation",244,8
+"Domestic,Livestock,Recreation",244,3
+"Agriculture Irrigation,Aquaculture,Commercial/Industrial,Domestic,Fire,Livestock,Other,Public Supply,Recreation,Unspecified",244,10
+"Fire,Livestock,Other,Recreation",240,4
+"Agriculture Irrigation,Aquaculture,Other,Recreation",235,4
+"Domestic,In-stream Flow",232,2
+"Livestock,Recreation",232,2
+"Agriculture Irrigation,Domestic,Livestock,Recreation",230,4
+"Domestic,Mining",228,2
+"Fire,Other",225,2
+"Aquaculture,Other",225,2
+"Domestic,Livestock,Unspecified",221,3
+"Commercial/Industrial,Public Supply",214,2
+"Agriculture Irrigation,Commercial/Industrial,Domestic,Fire",211,4
+"Aquaculture,Fire,Other,Recreation",210,4
+"Agriculture Irrigation,Livestock,Public Supply",208,3
+"Commercial/Industrial,Domestic,Public Supply",207,3
+"Agriculture Irrigation,Commercial/Industrial,Livestock",205,3
+"Agriculture Irrigation,Domestic,Recreation",204,3
+"Agriculture Irrigation,Commercial/Industrial,Domestic,Fire,Public Supply",202,5
+"In-stream Flow,Recreation",201,2
+"Agriculture Irrigation,Aquaculture,Livestock,Recreation",199,4
+"Aquifer Recharge,Unspecified",198,2
+"Agriculture Irrigation,Domestic,Fire,Livestock,Unspecified",197,5
+"Agriculture Irrigation,Municipal Irrigation",195,2
+"Commercial/Industrial,Fire",190,2
+"Agriculture Irrigation,Aquaculture,Commercial/Industrial,Domestic,Fire,Other,Public Supply,Recreation,Unspecified",187,9
+"Agriculture Irrigation,Aquifer Recharge",187,2
+"Commercial/Industrial,Other",186,2
+"Agriculture Irrigation,Aquaculture,Domestic",186,3
+"Agriculture Irrigation,Commercial/Industrial,Domestic,Livestock,Public Supply",181,5
+"Other,Public Supply",178,2
+"Agriculture Irrigation,Livestock,Recreation",172,3
+"Agriculture Irrigation,Aquaculture,Commercial/Industrial,Domestic,Livestock,Other,Recreation,Unspecified",171,8
+"Agriculture Irrigation,Aquaculture,Commercial/Industrial,Domestic,Other,Public Supply,Recreation",169,7
+"Agriculture Irrigation,Domestic,Livestock,Mining",168,4
+"Aquaculture,Livestock,Recreation",166,3
+"Agriculture Irrigation,Aquaculture,Commercial/Industrial,Domestic,Fire,Other,Public Supply,Recreation",164,8
+"Hydroelectric,Other,Public Supply,Unspecified",161,4
+"Agriculture Irrigation,Commercial/Industrial,Domestic,Fire,Livestock,Recreation,Unspecified",159,7
+"Agriculture Irrigation,In-stream Flow,Livestock",158,3
+"Commercial/Industrial,Domestic,Fire",156,3
+"Commercial/Industrial,Domestic,Municipal Irrigation",152,3
+"Agriculture Irrigation,Commercial/Industrial,Public Supply",151,3
+"In-stream Flow,Public Supply,Unspecified",150,3
+"Agriculture Irrigation,Commercial/Industrial,Fire,Hydroelectric,Reservoir Storage,Unspecified",149,6
+"Agriculture Irrigation,Aquaculture,Livestock,Other",148,4
+"Domestic,Fire,Public Supply",146,3
+"Agriculture Irrigation,Aquaculture,Domestic,Other,Public Supply,Recreation",140,6
+"Agriculture Irrigation,Commercial/Industrial,Domestic,Other,Public Supply",138,5
+"Agriculture Irrigation,Aquaculture,Fire,Livestock",135,4
+"Agriculture Irrigation,Aquaculture,Fire,Livestock,Other,Recreation",135,6
+"Agriculture Irrigation,Livestock,Municipal Irrigation",131,3
+"Agriculture Irrigation,Domestic,Fire,Public Supply",130,4
+"Agriculture Irrigation,Aquaculture,Livestock,Other,Recreation",130,5
+"Agriculture Irrigation,Commercial/Industrial,Domestic,Public Supply,Recreation",126,5
+"Agriculture Irrigation,Aquaculture,Commercial/Industrial,Domestic,Other,Public Supply,Recreation,Reservoir Storage,Unspecified",124,9
+"Aquaculture,Livestock,Other",123,3
+"Mining,Other",123,2
+"Agriculture Irrigation,Aquaculture,Domestic,Recreation",123,4
+"Agriculture Irrigation,Aquaculture,Domestic,Fire,Livestock,Public Supply,Recreation",122,7
+"In-stream Flow,Other",121,2
+"Aquaculture,Aquifer Recharge,Other",119,3
+"Aquifer Recharge,Commercial/Industrial",119,2
+"Aquaculture,Other,Recreation,Unspecified",119,4
+"Agriculture Irrigation,Commercial/Industrial,Domestic,Fire,Other,Public Supply,Recreation,Unspecified",118,8
+"Commercial/Industrial,Domestic,Fire,Public Supply",115,4
+"Agriculture Irrigation,Aquaculture,Fire,Livestock,Other",112,5
+"Agriculture Irrigation,Public Supply,Unspecified",111,3
+"Agriculture Irrigation,Aquaculture,Domestic,Livestock,Recreation",111,5
+"Domestic,Thermoelectric Cooling",111,2
+"Agriculture Irrigation,Reservoir Storage",110,2
+"Agriculture Irrigation,Aquaculture,Commercial/Industrial,Domestic,Fire,Public Supply,Recreation",108,7
+"Agriculture Irrigation,Domestic,Fire,Public Supply,Recreation",107,5
+"Aquaculture,Fire,Recreation",106,3
+"Agriculture Irrigation,Commercial/Industrial,Domestic,Livestock,Public Supply,Recreation",106,6
+"Agriculture Irrigation,Aquaculture,Commercial/Industrial,Domestic,Public Supply,Recreation,Unspecified",105,7
+"Agriculture Irrigation,Aquaculture,Commercial/Industrial,Domestic,Livestock,Recreation,Unspecified",104,7
+"Agriculture Irrigation,Other,Public Supply",103,3
+"Livestock,Public Supply",103,2
+"Agriculture Irrigation,Aquaculture,Aquifer Recharge,Commercial/Industrial,Domestic,Livestock,Public Supply,Recreation,Unspecified",103,9
+"Municipal Irrigation,Other",102,2
+"Agriculture Irrigation,Commercial/Industrial,Domestic,Fire,Livestock,Recreation",99,6
+"Aquaculture,Fire,Livestock,Other",97,4
+"Aquaculture,Fire",97,2
+"Agriculture Irrigation,Aquaculture,Fire,Other,Recreation",96,5
+"Domestic,In-stream Flow,Recreation",96,3
+"Agriculture Irrigation,Commercial/Industrial,Domestic,Public Supply,Unspecified",96,5
+"Agriculture Irrigation,Commercial/Industrial,Domestic,Unspecified",96,4
+"Agriculture Irrigation,Commercial/Industrial,Domestic,Fire,Livestock",95,5
+"Agriculture Irrigation,Aquaculture,Fire,Livestock,Recreation",93,5
+"Agriculture Irrigation,Commercial/Industrial,Domestic,Other",92,4
+"Agriculture Irrigation,Commercial/Industrial,Domestic,Fire,Livestock,Other,Recreation,Reservoir Storage,Unspecified",92,9
+"Public Supply,Reservoir Storage,Unspecified",91,3
+"Agriculture Irrigation,Livestock,Other,Recreation",90,4
+"Agriculture Irrigation,Aquaculture,Fire,Recreation",90,4
+"Agriculture Irrigation,Other,Unspecified",90,3
+"Agriculture Irrigation,Commercial/Industrial,Domestic,Fire,Livestock,Public Supply,Unspecified",88,7
+"Agriculture Irrigation,Commercial/Industrial,Domestic,Livestock,Recreation",88,5
+"Agriculture Irrigation,Other,Thermoelectric Cooling",87,3
+"Agriculture Irrigation,Commercial/Industrial,Domestic,Public Supply,Recreation,Unspecified",86,6
+"Agriculture Irrigation,Aquaculture,Other",85,3
+"Aquaculture,Recreation,Unspecified",85,3
+"Agriculture Irrigation,Commercial/Industrial,Domestic,Fire,Livestock,Reservoir Storage,Unspecified",85,7
+"Agriculture Irrigation,Commercial/Industrial,Domestic,Hydroelectric,Public Supply,Recreation,Unspecified",83,7
+"Aquaculture,Domestic,Livestock,Recreation",82,4
+"Agriculture Irrigation,Commercial/Industrial,Domestic,Fire,Other,Public Supply",80,6
+"Agriculture Irrigation,Aquaculture,Domestic,Fire,Livestock,Other,Recreation",80,7
+"Agriculture Irrigation,Commercial/Industrial,Domestic,Fire,Public Supply,Unspecified",79,6
+"Agriculture Irrigation,Domestic,Livestock,Other,Public Supply",79,5
+"Agriculture Irrigation,Commercial/Industrial,Unspecified",78,3
+"Aquaculture,Commercial/Industrial,Domestic,Livestock,Recreation",76,5
+Snow,74,1
+"Aquaculture,Fire,Other",74,3
+"Commercial/Industrial,Domestic,Hydroelectric,Other,Unspecified",74,5
+"Agriculture Irrigation,Commercial/Industrial,Domestic,Other,Public Supply,Recreation",72,6
+"Agriculture Irrigation,Commercial/Industrial,Domestic,Livestock,Other,Public Supply,Recreation",72,7
+"Domestic,Livestock,Municipal Irrigation,Other",72,4
+"Commercial/Industrial,Domestic,Unspecified",71,3
+"Fire,Unspecified",70,2
+"Commercial/Industrial,Fire,Livestock",69,3
+"Other,Reservoir Storage",69,2
+"Agriculture Irrigation,Fire,Livestock,Other",69,4
+"Agriculture Irrigation,Domestic,Public Supply,Recreation",68,4
+"Agriculture Irrigation,Commercial/Industrial,Domestic,Recreation",68,4
+"Fire,Recreation",67,2
+"Agriculture Irrigation,Aquaculture,Commercial/Industrial,Domestic,Fire,In-stream Flow,Livestock,Other,Public Supply,Recreation,Unspecified",66,11
+"Agriculture Irrigation,Aquaculture,Domestic,Fire,Livestock",65,5
+"Domestic,Municipal Irrigation,Other",64,3
+"Agriculture Irrigation,Commercial/Industrial,Domestic,Fire,Livestock,Other,Recreation,Unspecified",64,8
+"Agriculture Irrigation,Aquaculture,Commercial/Industrial,Domestic,Livestock",64,5
+"Aquaculture,Fire,Livestock,Recreation",63,4
+"Aquifer Recharge,In-stream Flow",62,2
+"Agriculture Irrigation,Commercial/Industrial,Domestic,Hydroelectric,Other,Unspecified",62,6
+"Agriculture Irrigation,Commercial/Industrial,Domestic,Fire,Public Supply,Recreation,Unspecified",62,7
+"Agriculture Irrigation,Commercial/Industrial,Other",61,3
+"Agriculture Irrigation,Other,Recreation",61,3
+"Commercial/Industrial,Domestic,Livestock,Municipal Irrigation",61,4
+"Agriculture Irrigation,Domestic,Other,Public Supply",60,4
+"Agriculture Irrigation,Thermoelectric Cooling,Unspecified",60,3
+"Domestic,Livestock,Public Supply",60,3
+"Thermoelectric Cooling,Unspecified",59,2
+"Agriculture Irrigation,Domestic,Fire,Livestock,Other",59,5
+"Domestic,Other,Public Supply",58,3
+"Agriculture Irrigation,Aquaculture,Fire,Other,Recreation,Unspecified",58,6
+"Agriculture Irrigation,Aquaculture,Other,Recreation,Unspecified",58,5
+"Agriculture Irrigation,Commercial/Industrial,Domestic,Fire,Hydroelectric,Public Supply",57,6
+"Aquaculture,Fire,Other,Recreation,Unspecified",57,5
+"In-stream Flow,Municipal Irrigation",57,2
+"Agriculture Irrigation,Commercial/Industrial,Domestic,Fire,Livestock,Other,Public Supply,Recreation",56,8
+"Agriculture Irrigation,Commercial/Industrial,Public Supply,Recreation",56,4
+"Agriculture Irrigation,Aquaculture,Commercial/Industrial,Domestic,Livestock,Public Supply,Recreation",56,7
+"Agriculture Irrigation,Aquifer Recharge,Commercial/Industrial,Fire,Livestock,Other,Public Supply,Unspecified",54,8
+"Fire,Livestock,Recreation",54,3
+"Agriculture Irrigation,Aquaculture,Commercial/Industrial,Domestic,Hydroelectric,Public Supply",53,6
+"Agriculture Irrigation,Aquaculture,Commercial/Industrial,Domestic",53,4
+"Commercial/Industrial,Domestic,Other",53,3
+"Agriculture Irrigation,Domestic,Livestock,Public Supply,Unspecified",52,5
+"Domestic,Livestock,Mining",51,3
+"Agriculture Irrigation,Aquaculture,Commercial/Industrial,Domestic,Fire,In-stream Flow,Other,Public Supply,Recreation",51,9
+"Agriculture Irrigation,Domestic,In-stream Flow",50,3
+"Commercial/Industrial,Domestic,Recreation",50,3
+"Commercial/Industrial,Recreation",50,2
+"Municipal Irrigation,Unspecified",49,2
+"Agriculture Irrigation,Commercial/Industrial,Other,Public Supply,Reservoir Storage,Unspecified",48,6
+"Agriculture Irrigation,Aquaculture,Fire,Livestock,Other,Recreation,Unspecified",48,7
+"Agriculture Irrigation,Aquaculture,Domestic,Unspecified",48,4
+"Municipal Irrigation,Recreation",48,2
+"Domestic,Fire,Livestock,Other",48,4
+"Agriculture Irrigation,Aquaculture,Commercial/Industrial,Domestic,Fire,Other,Public Supply,Recreation,Reservoir Storage,Unspecified",48,10
+"Agriculture Irrigation,Commercial/Industrial,Domestic,Other,Public Supply,Recreation,Snow",48,7
+"Agriculture Irrigation,Hydroelectric,Other,Public Supply,Unspecified",47,5
+"Aquaculture,Domestic,Recreation",47,3
+"Agriculture Irrigation,Aquifer Recharge,Unspecified",47,3
+"Commercial/Industrial,Domestic,Public Supply,Recreation",46,4
+"Aquifer Recharge,In-stream Flow,Unspecified",46,3
+"Agriculture Irrigation,Aquaculture,Commercial/Industrial,Domestic,Fire,Livestock,Recreation,Unspecified",46,8
+"Agriculture Irrigation,Aquaculture,Commercial/Industrial,Domestic,Other,Recreation,Unspecified",46,7
+"Agriculture Irrigation,Aquaculture,Unspecified",46,3
+"Commercial/Industrial,Fire,Public Supply",46,3
+"Aquaculture,Commercial/Industrial,Domestic,Fire,Other,Public Supply,Recreation",45,7
+"Agriculture Irrigation,Domestic,Fire,Livestock,Public Supply",44,5
+"In-stream Flow,Other,Unspecified",44,3
+"Agriculture Irrigation,Commercial/Industrial,Other,Public Supply,Unspecified",44,5
+"Agriculture Irrigation,Commercial/Industrial,Fire",44,3
+"Domestic,Livestock,Public Supply,Recreation",44,4
+"Agriculture Irrigation,Aquaculture,Domestic,Livestock,Other",43,5
+"Agriculture Irrigation,Commercial/Industrial,Domestic,Other,Public Supply,Recreation,Unspecified",43,7
+"Agriculture Irrigation,Aquaculture,Domestic,Fire,Livestock,Other",43,6
+"Fire,Other,Recreation",43,3
+"Domestic,Fire,Livestock,Recreation",43,4
+"Agriculture Irrigation,Aquaculture,Commercial/Industrial,Domestic,Fire,Livestock,Other,Recreation,Reservoir Storage,Unspecified",43,10
+"Mining,Unspecified",42,2
+"Aquaculture,Reservoir Storage",42,2
+"Domestic,Other,Recreation",42,3
+"Agriculture Irrigation,Aquaculture,Commercial/Industrial,Domestic,Fire,Other,Recreation,Unspecified",42,8
+"Commercial/Industrial,Fire,Unspecified",42,3
+"Agriculture Irrigation,Thermoelectric Cooling",42,2
+"Commercial/Industrial,Mining",42,2
+"Domestic,Livestock,Other,Recreation,Unspecified",42,5
+"Aquaculture,Commercial/Industrial",42,2
+"Commercial/Industrial,Thermoelectric Cooling",42,2
+"Agriculture Irrigation,Aquaculture,Commercial/Industrial,Domestic,Fire,Recreation,Unspecified",41,7
+"Agriculture Irrigation,Commercial/Industrial,Domestic,Fire,Public Supply,Recreation,Reservoir Storage,Snow",41,8
+"Agriculture Irrigation,Aquaculture,Commercial/Industrial",41,3
+"Livestock,Mining",41,2
+"Livestock,Other,Reservoir Storage",41,3
+"Agriculture Irrigation,Municipal Irrigation,Other,Recreation",41,4
+"Agriculture Irrigation,Aquaculture,Fire,Livestock,Other,Unspecified",41,6
+"Agriculture Irrigation,Fire,Recreation",41,3
+"Agriculture Irrigation,Domestic,Thermoelectric Cooling",41,3
+"Public Supply,Recreation",41,2
+"Domestic,Livestock,Other,Recreation",40,4
+"Aquaculture,Fire,Livestock,Other,Recreation,Unspecified",40,6
+"Agriculture Irrigation,Aquaculture,Commercial/Industrial,Domestic,Fire,Other,Public Supply,Recreation,Snow,Unspecified",40,10
+"Commercial/Industrial,Domestic,Hydroelectric,Unspecified",40,4
+"Agriculture Irrigation,Commercial/Industrial,Domestic,Hydroelectric,Livestock,Unspecified",39,6
+"Agriculture Irrigation,Domestic,Fire,Recreation",39,4
+"Aquaculture,Fire,Livestock",39,3
+"Agriculture Irrigation,Commercial/Industrial,Domestic,Fire,Other,Unspecified",39,6
+"Agriculture Irrigation,Commercial/Industrial,Domestic,Fire,Livestock,Public Supply,Recreation,Unspecified",39,8
+"Livestock,Reservoir Storage",38,2
+"Agriculture Irrigation,Aquaculture,Domestic,Fire,Livestock,Other,Unspecified",38,7
+"Agriculture Irrigation,Commercial/Industrial,Domestic,Fire,Livestock,Other,Unspecified",37,7
+"Agriculture Irrigation,Domestic,Livestock,Other,Public Supply,Unspecified",37,6
+"Aquaculture,Domestic,Fire,Livestock",37,4
+"Domestic,Fire,Recreation",36,3
+"Agriculture Irrigation,In-stream Flow,Recreation",36,3
+"Domestic,Mining,Other",36,3
+"Agriculture Irrigation,Fire,Other",36,3
+"Agriculture Irrigation,Commercial/Industrial,Domestic,Public Supply,Recreation,Snow",36,6
+"Aquaculture,Commercial/Industrial,Domestic,Fire,Other,Public Supply,Recreation,Unspecified",35,8
+"Aquaculture,Fire,Recreation,Unspecified",35,4
+"Aquaculture,In-stream Flow,Recreation",35,3
+"Aquaculture,Commercial/Industrial,Domestic,Other,Public Supply,Recreation",35,6
+"Aquaculture,Livestock,Other,Recreation,Unspecified",35,5
+"Domestic,Public Supply,Unspecified",35,3
+"Agriculture Irrigation,Hydroelectric",35,2
+"Agriculture Irrigation,Domestic,Fire,Livestock,Recreation",34,5
+"Agriculture Irrigation,Aquaculture,Commercial/Industrial,Domestic,Fire,Public Supply,Recreation,Reservoir Storage,Unspecified",34,9
+"Aquaculture,Other,Unspecified",34,3
+"Agriculture Irrigation,Aquaculture,Commercial/Industrial,Fire,Livestock,Other,Recreation,Unspecified",34,8
+"Agriculture Irrigation,Commercial/Industrial,Domestic,Livestock,Public Supply,Unspecified",34,6
+"Agriculture Irrigation,Commercial/Industrial,Domestic,Fire,Recreation",34,5
+"Aquaculture,Domestic,Fire,Livestock,Other",34,5
+"Agriculture Irrigation,Aquaculture,Aquifer Recharge,Livestock,Other,Recreation,Reservoir Storage,Unspecified",34,8
+"Agriculture Irrigation,Aquaculture,Aquifer Recharge,Domestic,Livestock,Other,Recreation,Unspecified",34,8
+"Aquaculture,Domestic,Fire,Livestock,Recreation",33,5
+"Domestic,Fire,Other",33,3
+"Agriculture Irrigation,Commercial/Industrial,Other,Public Supply",33,4
+"Agriculture Irrigation,Aquaculture,Recreation,Unspecified",33,4
+"Livestock,Reservoir Storage,Unspecified",33,3
+"Other,Recreation,Unspecified",33,3
+"Commercial/Industrial,In-stream Flow,Livestock",32,3
+"Agriculture Irrigation,Aquaculture,Domestic,Livestock,Other,Recreation",32,6
+"Agriculture Irrigation,Reservoir Storage,Unspecified",32,3
+"Commercial/Industrial,Domestic,Livestock,Recreation",31,4
+"Agriculture Irrigation,Aquifer Recharge,Commercial/Industrial,Fire,Livestock,Public Supply,Unspecified",31,7
+"Agriculture Irrigation,Commercial/Industrial,Domestic,Fire,Livestock,Other",31,6
+"Agriculture Irrigation,Aquaculture,Commercial/Industrial,Domestic,Fire,Livestock,Other,Public Supply,Recreation,Reservoir Storage,Unspecified",31,11
+"Agriculture Irrigation,Aquaculture,Commercial/Industrial,Domestic,In-stream Flow,Other,Recreation",31,7
+"Aquaculture,Livestock,Unspecified",31,3
+"Agriculture Irrigation,Aquaculture,Domestic,Fire,Livestock,Recreation,Unspecified",31,7
+"Agriculture Irrigation,Aquaculture,Commercial/Industrial,Domestic,Fire,Recreation,Reservoir Storage,Unspecified",30,8
+"Agriculture Irrigation,Mining",30,2
+"Agriculture Irrigation,Aquaculture,Fire",30,3
+"Agriculture Irrigation,Other,Recreation,Unspecified",30,4
+"Agriculture Irrigation,Commercial/Industrial,Domestic,Livestock,Other",30,5
+"Agriculture Irrigation,Fire,Other,Recreation",29,4
+"Agriculture Irrigation,Livestock,Mining",29,3
+"Commercial/Industrial,Other,Recreation",29,3
+"Agriculture Irrigation,Aquaculture,Commercial/Industrial,Domestic,Fire,Hydroelectric,Other,Public Supply,Recreation",29,9
+"Agriculture Irrigation,Domestic,Public Supply,Unspecified",29,4
+"Agriculture Irrigation,Aquaculture,Aquifer Recharge,Other,Recreation,Unspecified",29,6
+"Agriculture Irrigation,Commercial/Industrial,Domestic,Hydroelectric,Livestock,Public Supply",29,6
+"Agriculture Irrigation,Aquaculture,Commercial/Industrial,Domestic,Fire,Hydroelectric,Other,Public Supply,Recreation,Unspecified",29,10
+"Agriculture Irrigation,Commercial/Industrial,Domestic,Fire,Unspecified",29,5
+"Agriculture Irrigation,Aquaculture,Commercial/Industrial,Other,Public Supply,Recreation,Unspecified",28,7
+"Agriculture Irrigation,Aquaculture,Fire,Livestock,Recreation,Unspecified",28,6
+"Commercial/Industrial,Domestic,Fire,Public Supply,Unspecified",28,5
+"Agriculture Irrigation,Public Supply,Recreation",28,3
+"Aquaculture,Reservoir Storage,Unspecified",28,3
+"Agriculture Irrigation,Commercial/Industrial,Domestic,Fire,Livestock,Public Supply",27,6
+"Agriculture Irrigation,Aquaculture,Commercial/Industrial,Domestic,Fire,Livestock,Other,Recreation",27,8
+"Agriculture Irrigation,Aquaculture,Domestic,Livestock,Public Supply,Recreation",27,6
+"Agriculture Irrigation,Aquaculture,Commercial/Industrial,Domestic,Public Supply",27,5
+"Commercial/Industrial,Livestock,Other",27,3
+"Agriculture Irrigation,Aquaculture,Commercial/Industrial,Domestic,Other,Public Supply,Recreation,Snow,Unspecified",27,9
+"Agriculture Irrigation,Aquaculture,Domestic,Other",27,4
+"Agriculture Irrigation,Aquaculture,Commercial/Industrial,Domestic,Fire,In-stream Flow,Other,Public Supply,Recreation,Unspecified",27,10
+"Agriculture Irrigation,Domestic,Hydroelectric,Public Supply",27,4
+"Aquaculture,Commercial/Industrial,Domestic,Public Supply,Recreation,Unspecified",27,6
+"Agriculture Irrigation,Aquaculture,Commercial/Industrial,Domestic,Fire,Livestock,Recreation,Reservoir Storage,Unspecified",27,9
+"Agriculture Irrigation,Aquaculture,Commercial/Industrial,Domestic,Fire,In-stream Flow,Livestock,Other,Public Supply,Recreation",27,10
+"Agriculture Irrigation,Aquifer Recharge,Commercial/Industrial,Domestic,Fire,Public Supply,Recreation,Unspecified",26,8
+"Agriculture Irrigation,Aquifer Recharge,Commercial/Industrial,Domestic,Fire,Other,Public Supply,Unspecified",26,8
+"Aquaculture,Domestic,Other",26,3
+"Aquaculture,Livestock,Other,Reservoir Storage",26,4
+"Agriculture Irrigation,Commercial/Industrial,Domestic,Fire,Livestock,Public Supply,Recreation",26,7
+"Domestic,Fire,Unspecified",26,3
+"Agriculture Irrigation,Aquaculture,Commercial/Industrial,Domestic,Fire,Livestock,Recreation",25,7
+"Aquaculture,Municipal Irrigation",25,2
+"Aquaculture,Commercial/Industrial,Recreation",25,3
+"Domestic,Recreation,Thermoelectric Cooling",25,3
+"Agriculture Irrigation,Aquaculture,Commercial/Industrial,Domestic,Fire,Hydroelectric,Other,Public Supply,Recreation,Reservoir Storage,Unspecified",25,11
+"Agriculture Irrigation,Domestic,Livestock,Other,Unspecified",25,5
+"Domestic,In-stream Flow,Livestock",25,3
+"Agriculture Irrigation,Aquaculture,Commercial/Industrial,Recreation",25,4
+"Commercial/Industrial,Domestic,Hydroelectric",25,3
+"Agriculture Irrigation,Aquaculture,Livestock,Other,Recreation,Unspecified",25,6
+"Agriculture Irrigation,Aquaculture,Domestic,Recreation,Unspecified",25,5
+"Commercial/Industrial,Domestic,Fire,Livestock",25,4
+"Domestic,Public Supply,Recreation",25,3
+"Agriculture Irrigation,Livestock,Other,Public Supply",25,4
+"Aquaculture,Fire,Other,Recreation,Reservoir Storage",25,5
+"Domestic,In-stream Flow,Municipal Irrigation",24,3
+"Agriculture Irrigation,Aquaculture,Commercial/Industrial,Domestic,Livestock,Other,Public Supply,Recreation,Snow,Unspecified",24,10
+"Agriculture Irrigation,Fire,Unspecified",24,3
+"Agriculture Irrigation,Aquaculture,Domestic,Fire,Other,Recreation,Unspecified",24,7
+"Agriculture Irrigation,Fire,Livestock,Other,Recreation",23,5
+"Agriculture Irrigation,Aquaculture,Domestic,Fire,Livestock,Recreation",23,6
+"Agriculture Irrigation,Aquaculture,Commercial/Industrial,Domestic,Livestock,Other,Public Supply,Recreation,Reservoir Storage",23,9
+"Commercial/Industrial,Domestic,Other,Public Supply",23,4
+"Recreation,Thermoelectric Cooling",23,2
+"Domestic,Other,Unspecified",23,3
+"Agriculture Irrigation,Aquaculture,Domestic,Livestock,Unspecified",23,5
+"Agriculture Irrigation,Domestic,Livestock,Other,Recreation",23,5
+"Fire,Municipal Irrigation",23,2
+"Agriculture Irrigation,Aquaculture,Commercial/Industrial,Domestic,Fire,Livestock,Unspecified",23,7
+"Agriculture Irrigation,Aquaculture,Domestic,Fire,Livestock,Other,Recreation,Unspecified",23,8
+"Agriculture Irrigation,Aquaculture,Commercial/Industrial,Domestic,Fire,Hydroelectric,In-stream Flow,Other,Public Supply,Recreation,Reservoir Storage,Snow,Unspecified",23,13
+"Agriculture Irrigation,Commercial/Industrial,Fire,Public Supply",23,4
+"Agriculture Irrigation,Domestic,Mining",23,3
+"Municipal Irrigation,Other,Recreation",22,3
+"Aquaculture,Other,Public Supply",22,3
+"Agriculture Irrigation,Livestock,Other,Unspecified",22,4
+"Agriculture Irrigation,Commercial/Industrial,Domestic,In-stream Flow,Other,Public Supply",22,6
+"Agriculture Irrigation,Aquaculture,Other,Recreation,Reservoir Storage,Unspecified",22,6
+"Agriculture Irrigation,Commercial/Industrial,Fire,Livestock,Other",22,5
+"Agriculture Irrigation,Aquaculture,Domestic,Fire",22,4
+"Agriculture Irrigation,Commercial/Industrial,Domestic,Livestock,Reservoir Storage,Unspecified",22,6
+"Agriculture Irrigation,Other,Public Supply,Unspecified",22,4
+"Fire,In-stream Flow,Livestock,Other,Recreation",22,5
+"Livestock,Public Supply,Recreation",22,3
+"Other,Public Supply,Unspecified",22,3
+"Agriculture Irrigation,Recreation,Unspecified",22,3
+"Aquaculture,Other,Recreation,Reservoir Storage",21,4
+"Livestock,Municipal Irrigation,Other",21,3
+"Agriculture Irrigation,Aquaculture,Domestic,Fire,Hydroelectric,Livestock,Other,Recreation,Reservoir Storage",21,9
+"Hydroelectric,Public Supply",21,2
+"Agriculture Irrigation,Commercial/Industrial,Fire,Unspecified",21,4
+"Fire,Livestock,Other,Unspecified",21,4
+"Agriculture Irrigation,Aquaculture,Domestic,Other,Recreation,Unspecified",21,6
+"Agriculture Irrigation,Aquaculture,Aquifer Recharge,Commercial/Industrial,Domestic,Fire,Livestock,Other,Public Supply,Recreation,Unspecified",21,11
+"Agriculture Irrigation,Municipal Irrigation,Other",21,3
+"Aquifer Recharge,Other",21,2
+"Aquaculture,Domestic,Unspecified",20,3
+"Fire,Public Supply",20,2
+"Agriculture Irrigation,Commercial/Industrial,Domestic,Fire,Livestock,Other,Recreation",20,7
+"Agriculture Irrigation,Aquaculture,Commercial/Industrial,Other,Recreation,Unspecified",20,6
+"Agriculture Irrigation,Aquaculture,Fire,Other",20,4
+"Aquaculture,Fire,Other,Public Supply,Recreation",20,5
+"Agriculture Irrigation,Aquaculture,Commercial/Industrial,Domestic,Public Supply,Recreation,Snow,Unspecified",20,8
+"Agriculture Irrigation,Aquaculture,Commercial/Industrial,Domestic,Fire,Livestock,Other,Public Supply,Unspecified",20,9
+"Agriculture Irrigation,Aquaculture,Domestic,Fire,Other,Recreation",20,6
+"Agriculture Irrigation,Aquaculture,Fire,Recreation,Unspecified",19,5
+"Agriculture Irrigation,Commercial/Industrial,Domestic,Hydroelectric",19,4
+"Aquifer Recharge,Public Supply",19,2
+"Aquaculture,Domestic,Livestock,Other,Recreation",19,5
+"In-stream Flow,Livestock,Municipal Irrigation",19,3
+"Domestic,Mining,Public Supply",19,3
+"Aquaculture,Commercial/Industrial,Domestic,Livestock",19,4
+"Agriculture Irrigation,Aquaculture,Commercial/Industrial,Domestic,Other,Public Supply,Recreation,Reservoir Storage",19,8
+"Fire,Other,Unspecified",18,3
+"Agriculture Irrigation,Commercial/Industrial,Domestic,Livestock,Other,Public Supply,Recreation,Unspecified",18,8
+"Livestock,Recreation,Unspecified",18,3
+"Commercial/Industrial,Domestic,Fire,Reservoir Storage,Snow",18,5
+"Agriculture Irrigation,Domestic,Other,Unspecified",18,4
+"Agriculture Irrigation,Aquaculture,Commercial/Industrial,Livestock,Other,Public Supply,Recreation",18,7
+"Commercial/Industrial,Public Supply,Unspecified",18,3
+"Agriculture Irrigation,Commercial/Industrial,Domestic,Hydroelectric,Unspecified",18,5
+"Agriculture Irrigation,Fire,Municipal Irrigation",18,3
+"Agriculture Irrigation,Domestic,In-stream Flow,Livestock",18,4
+"Agriculture Irrigation,Domestic,Fire,Unspecified",17,4
+"Agriculture Irrigation,Aquaculture,Commercial/Industrial,Other,Recreation",17,5
+"Agriculture Irrigation,In-stream Flow,Other",17,3
+"Agriculture Irrigation,Commercial/Industrial,Domestic,Hydroelectric,Public Supply",17,5
+"Agriculture Irrigation,Domestic,Other,Recreation",17,4
+"Agriculture Irrigation,Aquaculture,In-stream Flow,Other,Public Supply,Reservoir Storage,Unspecified",17,7
+"Agriculture Irrigation,Aquaculture,Commercial/Industrial,Domestic,Livestock,Public Supply",17,6
+"Agriculture Irrigation,Commercial/Industrial,Domestic,Fire,Other,Public Supply,Unspecified",17,7
+"Aquaculture,Domestic,Livestock,Other",17,4
+"Agriculture Irrigation,Aquaculture,Domestic,Fire,Livestock,Other,Reservoir Storage,Unspecified",17,8
+"Agriculture Irrigation,Domestic,In-stream Flow,Public Supply,Reservoir Storage,Unspecified",17,6
+"Agriculture Irrigation,Commercial/Industrial,Public Supply,Unspecified",17,4
+"Agriculture Irrigation,Commercial/Industrial,Domestic,Public Supply,Snow",17,5
+"Agriculture Irrigation,Aquaculture,Commercial/Industrial,Domestic,Fire,Public Supply,Recreation,Unspecified",17,8
+"Domestic,Municipal Irrigation,Thermoelectric Cooling",17,3
+"Agriculture Irrigation,Aquaculture,Commercial/Industrial,Fire,Recreation",17,5
+"Agriculture Irrigation,Aquaculture,Commercial/Industrial,Domestic,Livestock,Other,Public Supply,Recreation,Reservoir Storage,Unspecified",17,10
+"Commercial/Industrial,Domestic,Thermoelectric Cooling",17,3
+"Agriculture Irrigation,Aquifer Recharge,Commercial/Industrial,Domestic,Fire,Hydroelectric,Reservoir Storage,Unspecified",17,8
+"Agriculture Irrigation,Aquifer Recharge,Commercial/Industrial,Domestic,Fire,Hydroelectric,Public Supply,Recreation,Unspecified",16,9
+"Agriculture Irrigation,Aquifer Recharge,Livestock",16,3
+"Commercial/Industrial,Domestic,Fire,Other,Public Supply",16,5
+"Agriculture Irrigation,Aquaculture,Domestic,Fire,Recreation",16,5
+"Agriculture Irrigation,Aquaculture,Livestock,Unspecified",16,4
+"Agriculture Irrigation,Domestic,Mining,Other",16,4
+"Other,Reservoir Storage,Unspecified",16,3
+"Agriculture Irrigation,Municipal Irrigation,Recreation",16,3
+"Domestic,Fire,Livestock,Public Supply",15,4
+"Agriculture Irrigation,Domestic,Public Supply,Recreation,Unspecified",15,5
+"Agriculture Irrigation,Hydroelectric,Public Supply,Unspecified",15,4
+"Agriculture Irrigation,Domestic,Fire,Other",15,4
+"Domestic,Hydroelectric",15,2
+"Fire,Livestock,Other,Reservoir Storage",15,4
+"Agriculture Irrigation,Domestic,Fire,Livestock,Other,Recreation",15,6
+"Agriculture Irrigation,Aquaculture,Commercial/Industrial,Domestic,Livestock,Other,Recreation",15,7
+"Agriculture Irrigation,Aquaculture,Fire,Livestock,Unspecified",15,5
+"Agriculture Irrigation,Commercial/Industrial,Domestic,Fire,Livestock,Recreation,Reservoir Storage,Unspecified",15,8
+"Agriculture Irrigation,Aquaculture,Commercial/Industrial,Domestic,Recreation",15,5
+"Fire,Livestock,Unspecified",15,3
+"Agriculture Irrigation,Aquaculture,Commercial/Industrial,Domestic,Livestock,Recreation,Reservoir Storage,Unspecified",15,8
+"Agriculture Irrigation,Aquaculture,Fire,Other,Recreation,Reservoir Storage",15,6
+"Agriculture Irrigation,Aquaculture,Commercial/Industrial,Domestic,Fire,Recreation",15,6
+"Aquaculture,In-stream Flow",15,2
+"Aquaculture,Domestic,Fire,Other,Recreation",15,5
+"Agriculture Irrigation,Aquaculture,Commercial/Industrial,Fire,Other,Public Supply,Recreation,Unspecified",14,8
+"Agriculture Irrigation,Commercial/Industrial,Domestic,Mining,Recreation",14,5
+"Agriculture Irrigation,Aquaculture,Domestic,Other,Recreation",14,5
+"Agriculture Irrigation,Commercial/Industrial,Domestic,Mining",14,4
+"Agriculture Irrigation,Aquaculture,Commercial/Industrial,Livestock,Other",14,5
+"Aquaculture,Other,Recreation,Reservoir Storage,Unspecified",14,5
+"Agriculture Irrigation,Snow",14,2
+"Agriculture Irrigation,Domestic,Hydroelectric",14,3
+"Agriculture Irrigation,Commercial/Industrial,Recreation,Unspecified",14,4
+"Fire,Recreation,Unspecified",14,3
+"Domestic,In-stream Flow,Livestock,Municipal Irrigation",14,4
+"Agriculture Irrigation,In-stream Flow,Municipal Irrigation",14,3
+"Aquifer Recharge,Other,Recreation",14,3
+"Agriculture Irrigation,Public Supply,Reservoir Storage,Unspecified",14,4
+"Agriculture Irrigation,Aquaculture,Commercial/Industrial,Domestic,Recreation,Unspecified",14,6
+"Commercial/Industrial,Other,Unspecified",14,3
+"Agriculture Irrigation,Aquifer Recharge,Commercial/Industrial,Public Supply,Unspecified",14,5
+"Aquaculture,Domestic,Fire,Livestock,Other,Recreation",14,6
+"Agriculture Irrigation,Commercial/Industrial,Public Supply,Recreation,Unspecified",14,5
+"Agriculture Irrigation,Domestic,Fire,Other,Public Supply,Recreation",14,6
+"Agriculture Irrigation,Aquaculture,Domestic,Public Supply,Recreation",14,5
+"Commercial/Industrial,Domestic,Livestock,Public Supply",14,4
+"Aquifer Recharge,In-stream Flow,Other",14,3
+"Agriculture Irrigation,Aquaculture,Domestic,Livestock,Other,Recreation,Unspecified",14,7
+"Agriculture Irrigation,Commercial/Industrial,Recreation",14,3
+"Aquaculture,Commercial/Industrial,Domestic,Other,Public Supply,Unspecified",14,6
+"Recreation,Reservoir Storage,Unspecified",14,3
+Treated Wastewater/Reuse,14,1
+"Agriculture Irrigation,Aquaculture,Livestock,Other,Reservoir Storage",13,5
+"Agriculture Irrigation,Commercial/Industrial,Domestic,Other,Unspecified",13,5
+"Domestic,Reservoir Storage",13,2
+"Aquifer Recharge,Livestock",13,2
+"Agriculture Irrigation,Domestic,Livestock,Thermoelectric Cooling",13,4
+"In-stream Flow,Livestock,Other",13,3
+"Agriculture Irrigation,Aquaculture,Commercial/Industrial,Domestic,Fire,Hydroelectric,Livestock,Other,Public Supply,Recreation,Unspecified",13,11
+"Agriculture Irrigation,Domestic,Livestock,Municipal Irrigation,Other",13,5
+"Agriculture Irrigation,Commercial/Industrial,Livestock,Public Supply",13,4
+"Livestock,Other,Recreation,Unspecified",13,4
+"Agriculture Irrigation,Livestock,Other,Reservoir Storage",13,4
+"Aquifer Recharge,Reservoir Storage",13,2
+"Agriculture Irrigation,Commercial/Industrial,Fire,Livestock,Recreation",13,5
+"Agriculture Irrigation,In-stream Flow,Unspecified",13,3
+"Commercial/Industrial,Domestic,Fire,Public Supply,Recreation",13,5
+"Agriculture Irrigation,Commercial/Industrial,Domestic,Other,Public Supply,Unspecified",13,6
+"Agriculture Irrigation,Aquaculture,Other,Reservoir Storage",13,4
+"Agriculture Irrigation,Commercial/Industrial,Other,Public Supply,Recreation",13,5
+"Agriculture Irrigation,Aquifer Recharge,Livestock,Other",13,4
+"Agriculture Irrigation,Commercial/Industrial,Domestic,Fire,Other",13,5
+"Agriculture Irrigation,Aquifer Recharge,Commercial/Industrial,Domestic,Public Supply,Recreation,Unspecified",13,7
+"Agriculture Irrigation,Aquaculture,Other,Public Supply,Recreation,Unspecified",13,6
+"Commercial/Industrial,Public Supply,Thermoelectric Cooling",13,3
+"Commercial/Industrial,Livestock,Mining,Public Supply",13,4
+"Domestic,Municipal Irrigation,Recreation",13,3
+"Commercial/Industrial,Hydroelectric",13,2
+"Aquaculture,Commercial/Industrial,Domestic,Fire,Other,Public Supply",13,6
+"Agriculture Irrigation,Aquaculture,Commercial/Industrial,Fire,Other,Recreation,Unspecified",13,7
+"Agriculture Irrigation,Aquaculture,Commercial/Industrial,Public Supply,Recreation",13,5
+"Agriculture Irrigation,Aquaculture,Livestock,Recreation,Unspecified",13,5
+"Commercial/Industrial,Domestic,Mining,Public Supply",13,4
+"Agriculture Irrigation,Aquaculture,Commercial/Industrial,Domestic,Livestock,Other,Recreation,Reservoir Storage,Unspecified",12,9
+"Agriculture Irrigation,Fire,Livestock,Unspecified",12,4
+"Agriculture Irrigation,Aquaculture,Other,Recreation,Reservoir Storage",12,5
+"Aquaculture,Fire,Livestock,Recreation,Unspecified",12,5
+"Aquifer Recharge,Public Supply,Unspecified",12,3
+"Agriculture Irrigation,Aquifer Recharge,Commercial/Industrial,Domestic,Livestock,Other,Public Supply,Recreation",12,8
+"Commercial/Industrial,Livestock,Municipal Irrigation",12,3
+"Agriculture Irrigation,Aquaculture,Commercial/Industrial,Domestic,Fire,Livestock",12,6
+"Commercial/Industrial,Domestic,Livestock,Unspecified",12,4
+"Agriculture Irrigation,Other,Reservoir Storage",12,3
+"Commercial/Industrial,Domestic,Fire,Public Supply,Snow,Unspecified",12,6
+"Commercial/Industrial,Domestic,Other,Recreation",12,4
+"Commercial/Industrial,Public Supply,Recreation",12,3
+"Agriculture Irrigation,Commercial/Industrial,Domestic,Fire,Hydroelectric",12,5
+"Other,Recreation,Reservoir Storage",12,3
+"Agriculture Irrigation,Commercial/Industrial,Domestic,Public Supply,Reservoir Storage,Unspecified",12,6
+"Agriculture Irrigation,Aquifer Recharge,Commercial/Industrial,Domestic,Fire,Livestock,Other,Recreation,Unspecified",11,9
+"Commercial/Industrial,Domestic,Fire,Unspecified",11,4
+"Agriculture Irrigation,Aquaculture,Commercial/Industrial,Domestic,Fire,Unspecified",11,6
+"Aquaculture,Commercial/Industrial,Livestock",11,3
+"Agriculture Irrigation,Aquaculture,Fire,Other,Unspecified",11,5
+"Mining,Other,Unspecified",11,3
+"Agriculture Irrigation,Commercial/Industrial,Domestic,Fire,Livestock,Recreation,Snow",11,7
+"Agriculture Irrigation,Aquaculture,Livestock,Other,Recreation,Reservoir Storage",11,6
+"Agriculture Irrigation,Aquaculture,Domestic,Livestock,Other,Public Supply,Recreation",11,7
+"Aquaculture,Domestic,Fire",11,3
+"Commercial/Industrial,Domestic,Mining",11,3
+"Domestic,Recreation,Unspecified",11,3
+"Aquaculture,Commercial/Industrial,Other,Recreation",11,4
+"Aquaculture,Other,Reservoir Storage",11,3
+"In-stream Flow,Livestock,Recreation",11,3
+"Agriculture Irrigation,Aquaculture,Commercial/Industrial,Fire,Public Supply,Recreation,Unspecified",11,7
+"Agriculture Irrigation,Aquaculture,Aquifer Recharge,Commercial/Industrial,Domestic,Fire,Livestock,Other,Public Supply,Recreation",11,10
+"Agriculture Irrigation,Aquaculture,Fire,Public Supply,Recreation,Unspecified",11,6
+"Agriculture Irrigation,Aquaculture,Commercial/Industrial,Domestic,Fire,Other,Recreation,Reservoir Storage,Unspecified",11,9
+"Agriculture Irrigation,Fire,Livestock,Recreation",11,4
+"Agriculture Irrigation,Aquaculture,Commercial/Industrial,Domestic,Other,Recreation",11,6
+"Aquaculture,Commercial/Industrial,Domestic",11,3
+"Agriculture Irrigation,Aquaculture,Commercial/Industrial,Domestic,Fire,Livestock,Other,Unspecified",11,8
+"Agriculture Irrigation,Aquaculture,Aquifer Recharge,Commercial/Industrial,Domestic,Fire,Livestock,Other,Public Supply,Recreation,Reservoir Storage,Unspecified",11,12
+"Agriculture Irrigation,Aquaculture,Commercial/Industrial,Domestic,Hydroelectric,Livestock,Public Supply,Recreation",11,8
+"Commercial/Industrial,Public Supply,Reservoir Storage",11,3
+"Agriculture Irrigation,Municipal Irrigation,Unspecified",11,3
+"Aquaculture,Other,Public Supply,Recreation,Unspecified",11,5
+"Aquaculture,Domestic,Fire,Other,Recreation,Unspecified",11,6
+"Aquaculture,Aquifer Recharge,Livestock,Other,Recreation",11,5
+"Agriculture Irrigation,Aquaculture,Livestock,Other,Unspecified",11,5
+"Agriculture Irrigation,Aquaculture,Aquifer Recharge,Commercial/Industrial,Other,Recreation,Unspecified",11,7
+"Aquaculture,Commercial/Industrial,Domestic,Recreation",10,4
+"Domestic,Fire,Livestock,Unspecified",10,4
+"Aquaculture,Commercial/Industrial,Domestic,Recreation,Unspecified",10,5
+"Agriculture Irrigation,Fire,Municipal Irrigation,Recreation",10,4
+"Commercial/Industrial,Domestic,Fire,Public Supply,Recreation,Unspecified",10,6
+"Agriculture Irrigation,Aquaculture,Domestic,Livestock,Other,Recreation,Reservoir Storage",10,7
+"Agriculture Irrigation,In-stream Flow,Municipal Irrigation,Recreation",10,4
+"Agriculture Irrigation,Aquaculture,Aquifer Recharge,Commercial/Industrial,Domestic,Fire,In-stream Flow,Livestock,Other,Public Supply,Recreation,Unspecified",10,12
+"Agriculture Irrigation,Commercial/Industrial,Domestic,Fire,Other,Public Supply,Recreation,Reservoir Storage,Unspecified",10,9
+"Agriculture Irrigation,Domestic,Livestock,Reservoir Storage",10,4
+"Agriculture Irrigation,Aquaculture,Commercial/Industrial,Other,Public Supply,Recreation",10,6
+"Agriculture Irrigation,Other,Recreation,Reservoir Storage,Unspecified",10,5
+"Aquaculture,Commercial/Industrial,Domestic,Fire,Other,Recreation,Reservoir Storage,Unspecified",10,8
+"Agriculture Irrigation,Aquaculture,Commercial/Industrial,Domestic,Fire,Livestock,Other",10,7
+"Aquaculture,Fire,Livestock,Other,Recreation,Reservoir Storage",10,6
+"Agriculture Irrigation,Aquaculture,Commercial/Industrial,Public Supply,Recreation,Unspecified",10,6
+"Agriculture Irrigation,Domestic,Other,Thermoelectric Cooling",10,4
+"Agriculture Irrigation,Commercial/Industrial,Domestic,Public Supply,Recreation,Reservoir Storage,Unspecified",10,7
+"Agriculture Irrigation,Aquaculture,Commercial/Industrial,Domestic,Other,Public Supply",10,6
+"Agriculture Irrigation,Aquifer Recharge,Recreation,Unspecified",10,4
+"Aquaculture,Commercial/Industrial,Domestic,Fire,Livestock,Recreation",10,6
+"Agriculture Irrigation,Aquifer Recharge,Commercial/Industrial,Fire,Public Supply,Unspecified",10,6
+"Aquaculture,Public Supply,Recreation",10,3
+"Agriculture Irrigation,Aquifer Recharge,Public Supply,Unspecified",10,4
+"Agriculture Irrigation,Aquaculture,Commercial/Industrial,Domestic,Livestock,Other,Recreation,Snow,Unspecified",10,9
+"Agriculture Irrigation,Commercial/Industrial,Domestic,Recreation,Unspecified",10,5
+"Commercial/Industrial,Livestock,Public Supply",10,3
+"Aquaculture,Commercial/Industrial,Domestic,Fire,Livestock,Other,Recreation,Unspecified",10,8
+"Domestic,Livestock,Mining,Other",10,4
+"Commercial/Industrial,Domestic,Livestock,Public Supply,Recreation,Unspecified",10,6
+"Agriculture Irrigation,Commercial/Industrial,Domestic,Other,Recreation",10,5
+"Agriculture Irrigation,Fire,In-stream Flow",10,3
+"Agriculture Irrigation,Aquaculture,Domestic,Hydroelectric,Livestock,Other,Recreation",10,7
+"Agriculture Irrigation,Commercial/Industrial,Other,Unspecified",10,4
+"Agriculture Irrigation,Commercial/Industrial,Livestock,Other,Public Supply,Recreation",10,6
+"Agriculture Irrigation,Aquaculture,Commercial/Industrial,Domestic,Livestock,Recreation",10,6
+"Agriculture Irrigation,Aquifer Recharge,Commercial/Industrial,Public Supply",10,4
+"Aquaculture,Livestock,Recreation,Unspecified",10,4
+"Agriculture Irrigation,Commercial/Industrial,Domestic,Hydroelectric,Public Supply,Recreation",9,6
+"Agriculture Irrigation,In-stream Flow,Livestock,Other",9,4
+"Fire,Reservoir Storage,Unspecified",9,3
+"Agriculture Irrigation,Aquaculture,Domestic,Fire,Public Supply,Recreation",9,6
+"Agriculture Irrigation,Aquaculture,Commercial/Industrial,Domestic,Fire,Livestock,Other,Public Supply,Reservoir Storage,Unspecified",9,10
+"Recreation,Reservoir Storage",9,2
+"Agriculture Irrigation,Commercial/Industrial,Domestic,Fire,Public Supply,Recreation,Snow,Unspecified",9,8
+"Agriculture Irrigation,Commercial/Industrial,Domestic,Livestock,Other,Public Supply",9,6
+"Agriculture Irrigation,Aquaculture,Commercial/Industrial,Domestic,Fire,Livestock,Public Supply,Unspecified",9,8
+"Agriculture Irrigation,Mining,Other",9,3
+"Agriculture Irrigation,Livestock,Public Supply,Unspecified",9,4
+"Other,Thermoelectric Cooling",9,2
+"Agriculture Irrigation,Commercial/Industrial,Fire,Livestock",9,4
+"Agriculture Irrigation,Aquaculture,Domestic,Fire,Recreation,Unspecified",9,6
+"Aquaculture,Commercial/Industrial,Domestic,Fire,Other,Recreation",9,6
+"Commercial/Industrial,Fire,Livestock,Other,Unspecified",9,5
+"Aquaculture,Domestic,Fire,Livestock,Other,Unspecified",9,6
+"Aquaculture,Fire,Other,Unspecified",9,4
+"Commercial/Industrial,Fire,Other,Unspecified",9,4
+"Livestock,Mining,Other",9,3
+"Aquaculture,Commercial/Industrial,Domestic,Fire,Livestock,Recreation,Unspecified",9,7
+"Agriculture Irrigation,Other,Thermoelectric Cooling,Unspecified",9,4
+"Municipal Irrigation,Other,Unspecified",9,3
+"In-stream Flow,Public Supply",9,2
+"Agriculture Irrigation,Domestic,Livestock,Other,Public Supply,Recreation",9,6
+"Agriculture Irrigation,Aquaculture,Commercial/Industrial,Fire,Livestock,Other,Recreation",9,7
+"Agriculture Irrigation,Aquaculture,Commercial/Industrial,Domestic,Other,Public Supply,Recreation,Snow",9,8
+"Aquaculture,Domestic,Municipal Irrigation",9,3
+"Agriculture Irrigation,Aquaculture,Commercial/Industrial,Domestic,Fire,Other,Public Supply,Recreation,Reservoir Storage,Snow,Unspecified",9,11
+"Agriculture Irrigation,Aquifer Recharge,Other,Reservoir Storage,Unspecified",9,5
+"Agriculture Irrigation,Aquaculture,Commercial/Industrial,Livestock,Other,Unspecified",9,6
+"Agriculture Irrigation,Aquaculture,Commercial/Industrial,Fire,Livestock",8,5
+"Agriculture Irrigation,Domestic,Fire,Livestock,Other,Unspecified",8,6
+"Aquaculture,Commercial/Industrial,Domestic,Fire,Livestock",8,5
+"Agriculture Irrigation,Fire,Livestock,Other,Reservoir Storage",8,5
+"Agriculture Irrigation,Commercial/Industrial,Domestic,Municipal Irrigation",8,4
+"Mining,Other,Public Supply",8,3
+"Agriculture Irrigation,Domestic,Fire,Other,Public Supply",8,5
+"Agriculture Irrigation,Domestic,Other,Public Supply,Recreation",8,5
+"Agriculture Irrigation,Aquaculture,Aquifer Recharge,Other,Recreation,Reservoir Storage",8,6
+"Agriculture Irrigation,Aquaculture,Commercial/Industrial,Fire,In-stream Flow,Recreation,Reservoir Storage",8,7
+"Aquaculture,Domestic,Fire,Other,Public Supply,Recreation",8,6
+"Fire,Other,Recreation,Unspecified",8,4
+"Agriculture Irrigation,Aquaculture,Commercial/Industrial,Domestic,Fire,Other,Public Supply,Recreation,Snow",8,9
+"Agriculture Irrigation,Aquifer Recharge,Reservoir Storage,Unspecified",8,4
+"Agriculture Irrigation,Aquaculture,Domestic,Fire,Other,Public Supply,Recreation,Unspecified",8,8
+"Agriculture Irrigation,Aquaculture,Domestic,Fire,Livestock,Other,Recreation,Reservoir Storage",8,8
+"Agriculture Irrigation,Aquaculture,Other,Public Supply,Snow,Unspecified",8,6
+"Municipal Irrigation,Thermoelectric Cooling",8,2
+"Agriculture Irrigation,Commercial/Industrial,Reservoir Storage,Unspecified",8,4
+"Aquaculture,Commercial/Industrial,Domestic,Fire,Livestock,Other,Recreation",8,7
+"Agriculture Irrigation,Domestic,Livestock,Mining,Other",8,5
+"Public Supply,Thermoelectric Cooling",8,2
+"Aquifer Recharge,Other,Recreation,Unspecified",8,4
+"Agriculture Irrigation,Aquaculture,Commercial/Industrial,Domestic,Hydroelectric,Livestock,Other,Public Supply,Recreation,Unspecified",8,10
+"Agriculture Irrigation,Mining,Unspecified",8,3
+"Agriculture Irrigation,Aquaculture,Commercial/Industrial,Domestic,Hydroelectric,Public Supply,Recreation,Unspecified",8,8
+"Agriculture Irrigation,Aquaculture,Commercial/Industrial,Domestic,Livestock,Public Supply,Recreation,Unspecified",8,8
+"Aquaculture,Domestic,Livestock,Municipal Irrigation",8,4
+"Livestock,Mining,Public Supply",8,3
+"Agriculture Irrigation,Domestic,Livestock,Other,Thermoelectric Cooling",8,5
+"Domestic,Fire,Municipal Irrigation",8,3
+"Agriculture Irrigation,Commercial/Industrial,Domestic,Thermoelectric Cooling",7,4
+"Domestic,Hydroelectric,Public Supply",7,3
+"Agriculture Irrigation,Domestic,Other,Public Supply,Unspecified",7,5
+"Agriculture Irrigation,Aquaculture,Domestic,Fire,Livestock,Unspecified",7,6
+"Aquaculture,Commercial/Industrial,Domestic,Fire,Recreation,Unspecified",7,6
+"Agriculture Irrigation,Commercial/Industrial,Fire,Other",7,4
+"Agriculture Irrigation,Other,Public Supply,Reservoir Storage,Unspecified",7,5
+"In-stream Flow,Livestock,Unspecified",7,3
+"Livestock,Municipal Irrigation,Recreation",7,3
+"Aquaculture,Aquifer Recharge,Commercial/Industrial,In-stream Flow,Recreation,Unspecified",7,6
+"Agriculture Irrigation,Livestock,Reservoir Storage",7,3
+"Agriculture Irrigation,Domestic,Fire,Livestock,Other,Reservoir Storage",7,6
+"Aquaculture,Commercial/Industrial,Domestic,Public Supply,Recreation",7,5
+"Agriculture Irrigation,In-stream Flow,Other,Recreation",7,4
+"Agriculture Irrigation,Commercial/Industrial,Domestic,In-stream Flow,Public Supply,Recreation,Unspecified",7,7
+"Domestic,Fire,Other,Public Supply",7,4
+"Agriculture Irrigation,Domestic,Municipal Irrigation,Other",7,4
+"Agriculture Irrigation,Commercial/Industrial,Domestic,Livestock,Public Supply,Reservoir Storage,Unspecified",7,7
+"Agriculture Irrigation,Domestic,Recreation,Unspecified",7,4
+"Agriculture Irrigation,Aquaculture,Commercial/Industrial,Domestic,Fire,Other,Recreation",7,7
+"Agriculture Irrigation,Commercial/Industrial,Domestic,Hydroelectric,Livestock,Public Supply,Recreation",7,7
+"Agriculture Irrigation,Aquaculture,Public Supply,Recreation,Unspecified",7,5
+"Agriculture Irrigation,Aquaculture,Other,Unspecified",7,4
+"Agriculture Irrigation,In-stream Flow,Livestock,Recreation",7,4
+"Commercial/Industrial,Domestic,Fire,Other",7,4
+"Agriculture Irrigation,Livestock,Other,Thermoelectric Cooling",7,4
+"Agriculture Irrigation,Aquaculture,Domestic,Livestock,Recreation,Unspecified",7,6
+"Domestic,Mining,Unspecified",7,3
+"Commercial/Industrial,Other,Public Supply",7,3
+"Agriculture Irrigation,Aquaculture,Aquifer Recharge,Other,Recreation",7,5
+"Domestic,Other,Reservoir Storage",7,3
+"Agriculture Irrigation,Domestic,Livestock,Reservoir Storage,Unspecified",7,5
+"Agriculture Irrigation,Livestock,Mining,Other",7,4
+"Aquaculture,Fire,Other,Recreation,Reservoir Storage,Unspecified",7,6
+"Agriculture Irrigation,Aquaculture,Commercial/Industrial,Fire,Other,Recreation",7,6
+"Commercial/Industrial,Domestic,Fire,Livestock,Unspecified",7,5
+"Agriculture Irrigation,Aquaculture,Commercial/Industrial,Domestic,Fire,Livestock,Public Supply,Recreation,Snow",7,9
+"Agriculture Irrigation,Aquaculture,Livestock,Recreation,Reservoir Storage,Unspecified",7,6
+"Agriculture Irrigation,Commercial/Industrial,Public Supply,Reservoir Storage,Unspecified",7,5
+"Agriculture Irrigation,Aquaculture,Domestic,Fire,Livestock,Other,Public Supply,Recreation,Reservoir Storage,Unspecified",7,10
+"Aquaculture,Hydroelectric,Livestock,Other,Recreation,Unspecified",7,6
+"Agriculture Irrigation,Aquaculture,Commercial/Industrial,Domestic,Fire,Other,Public Supply,Recreation,Reservoir Storage",7,9
+"Commercial/Industrial,Livestock,Other,Unspecified",7,4
+"Aquaculture,Hydroelectric,Livestock,Other,Recreation",7,5
+"Agriculture Irrigation,Livestock,Municipal Irrigation,Recreation",7,4
+"Agriculture Irrigation,Commercial/Industrial,Domestic,Hydroelectric,Public Supply,Unspecified",7,6
+"Agriculture Irrigation,Other,Recreation,Reservoir Storage",7,4
+"Agriculture Irrigation,Commercial/Industrial,Fire,Livestock,Public Supply,Recreation",7,6
+"Agriculture Irrigation,Aquaculture,Domestic,Reservoir Storage,Unspecified",7,5
+"Agriculture Irrigation,Commercial/Industrial,Domestic,Hydroelectric,Livestock,Other,Unspecified",7,7
+"Agriculture Irrigation,Aquaculture,Public Supply,Recreation",7,4
+"Agriculture Irrigation,Commercial/Industrial,Domestic,Reservoir Storage,Unspecified",7,5
+"Agriculture Irrigation,Other,Public Supply,Recreation",7,4
+"Aquaculture,Commercial/Industrial,Other,Recreation,Unspecified",7,5
+"Agriculture Irrigation,Aquaculture,Domestic,Other,Public Supply,Recreation,Unspecified",7,7
+"Agriculture Irrigation,Aquifer Recharge,Commercial/Industrial,Unspecified",7,4
+"Agriculture Irrigation,Aquaculture,Aquifer Recharge,Recreation,Unspecified",7,5
+"Agriculture Irrigation,Commercial/Industrial,Domestic,Mining,Public Supply,Recreation",6,6
+"Agriculture Irrigation,Domestic,Livestock,Public Supply,Recreation,Unspecified",6,6
+"Agriculture Irrigation,Aquaculture,Commercial/Industrial,Domestic,In-stream Flow,Public Supply,Recreation,Unspecified",6,8
+"Agriculture Irrigation,Aquaculture,Fire,Hydroelectric,Livestock,Other,Recreation,Unspecified",6,8
+"Agriculture Irrigation,Aquaculture,Commercial/Industrial,Domestic,Other,Public Supply,Unspecified",6,7
+"Agriculture Irrigation,Aquaculture,Aquifer Recharge,Commercial/Industrial,Domestic,Fire,Other,Public Supply,Recreation,Reservoir Storage,Unspecified",6,11
+"Agriculture Irrigation,Aquaculture,Aquifer Recharge,Commercial/Industrial,Domestic,Fire,In-stream Flow,Other,Public Supply,Recreation,Unspecified",6,11
+"Domestic,Snow",6,2
+"Agriculture Irrigation,Domestic,Fire,Thermoelectric Cooling",6,4
+"Agriculture Irrigation,Aquifer Recharge,Domestic",6,3
+"Commercial/Industrial,Recreation,Thermoelectric Cooling",6,3
+"Agriculture Irrigation,Domestic,Fire,Public Supply,Recreation,Snow,Unspecified",6,7
+"Agriculture Irrigation,Domestic,Fire,Livestock,Other,Recreation,Reservoir Storage,Unspecified",6,8
+"Agriculture Irrigation,Domestic,Other,Reservoir Storage",6,4
+"Agriculture Irrigation,Aquaculture,Aquifer Recharge,Commercial/Industrial,Domestic,Fire,Livestock,Public Supply,Recreation,Reservoir Storage,Unspecified",6,11
+"Municipal Irrigation,Reservoir Storage",6,2
+"Livestock,Other,Recreation,Reservoir Storage",6,4
+"Agriculture Irrigation,Commercial/Industrial,Fire,Other,Public Supply",6,5
+"Agriculture Irrigation,Aquifer Recharge,Other",6,3
+"Agriculture Irrigation,Commercial/Industrial,Public Supply,Reservoir Storage",6,4
+"Aquaculture,Commercial/Industrial,Livestock,Other",6,4
+"Municipal Irrigation,Recreation,Unspecified",6,3
+"Agriculture Irrigation,Commercial/Industrial,Domestic,Other,Reservoir Storage,Unspecified",6,6
+"Agriculture Irrigation,Aquaculture,Domestic,Fire,Livestock,Other,Recreation,Reservoir Storage,Unspecified",6,9
+"Aquaculture,Livestock,Other,Unspecified",6,4
+"Agriculture Irrigation,Aquaculture,Commercial/Industrial,Domestic,Fire,Livestock,Other,Recreation,Reservoir Storage",6,9
+"Agriculture Irrigation,Aquaculture,Aquifer Recharge,Commercial/Industrial,Domestic,Fire,Livestock,Public Supply,Reservoir Storage,Thermoelectric Cooling,Unspecified",6,11
+"Agriculture Irrigation,Commercial/Industrial,Livestock,Other",6,4
+"Agriculture Irrigation,Commercial/Industrial,Livestock,Reservoir Storage,Unspecified",6,5
+"Agriculture Irrigation,Commercial/Industrial,Livestock,Unspecified",6,4
+"Agriculture Irrigation,Domestic,Hydroelectric,Other,Recreation",6,5
+"Domestic,Fire,Recreation,Unspecified",6,4
+"Agriculture Irrigation,Aquifer Recharge,In-stream Flow,Recreation,Unspecified",6,5
+"Agriculture Irrigation,Aquifer Recharge,Commercial/Industrial,Domestic,Livestock,Public Supply,Recreation,Unspecified",6,8
+"Aquaculture,Commercial/Industrial,Domestic,Fire,Livestock,Other,Public Supply,Recreation,Unspecified",6,9
+"Commercial/Industrial,Fire,Livestock,Other,Reservoir Storage,Unspecified",6,6
+"Agriculture Irrigation,Aquaculture,Commercial/Industrial,Domestic,Fire,Other,Public Supply,Unspecified",6,8
+"Agriculture Irrigation,Aquaculture,Commercial/Industrial,Domestic,Fire,Hydroelectric,In-stream Flow,Public Supply,Recreation,Unspecified",6,10
+"Aquaculture,Commercial/Industrial,Recreation,Thermoelectric Cooling",6,4
+"Hydroelectric,In-stream Flow,Other,Recreation,Unspecified",6,5
+"Agriculture Irrigation,Commercial/Industrial,Domestic,Other,Public Supply,Recreation,Snow,Unspecified",6,8
+"Aquaculture,Domestic,Other,Recreation",6,4
+"Aquaculture,Livestock,Other,Recreation,Reservoir Storage",6,5
+"Commercial/Industrial,Hydroelectric,Reservoir Storage,Unspecified",6,4
+"Aquaculture,Commercial/Industrial,Domestic,Livestock,Other,Public Supply,Recreation,Unspecified",6,8
+"Agriculture Irrigation,Aquaculture,Livestock,Recreation,Thermoelectric Cooling",6,5
+"Agriculture Irrigation,Aquifer Recharge,Domestic,Unspecified",6,4
+"Agriculture Irrigation,Commercial/Industrial,Municipal Irrigation",6,3
+"Agriculture Irrigation,Commercial/Industrial,Domestic,Fire,Livestock,Other,Public Supply,Recreation,Unspecified",6,9
+"Agriculture Irrigation,Fire,Livestock,Other,Recreation,Unspecified",6,6
+"Agriculture Irrigation,Aquaculture,Domestic,Livestock,Other,Unspecified",6,6
+"Aquaculture,Domestic,Recreation,Unspecified",6,4
+"Agriculture Irrigation,Aquaculture,Commercial/Industrial,Recreation,Unspecified",6,5
+"Domestic,Livestock,Other,Reservoir Storage",6,4
+"Domestic,Mining,Other,Public Supply",6,4
+"Mining,Public Supply",6,2
+"Fire,Mining",6,2
+"Agriculture Irrigation,Domestic,Livestock,Mining,Other,Public Supply",6,6
+"Agriculture Irrigation,Aquaculture,Domestic,Livestock,Other,Reservoir Storage",6,6
+"Domestic,Recreation,Reservoir Storage",6,3
+"Agriculture Irrigation,Aquaculture,Commercial/Industrial,Domestic,Hydroelectric,Recreation",6,6
+"Aquaculture,Thermoelectric Cooling",6,2
+"Agriculture Irrigation,Aquaculture,Commercial/Industrial,Domestic,Fire,Livestock,Other,Public Supply,Recreation,Reservoir Storage,Snow,Unspecified",6,12
+"Hydroelectric,Other,Unspecified",6,3
+"Agriculture Irrigation,Livestock,Thermoelectric Cooling",6,3
+"Agriculture Irrigation,Other,Public Supply,Recreation,Reservoir Storage",6,5
+"Agriculture Irrigation,Aquifer Recharge,Commercial/Industrial,Domestic,Fire,Hydroelectric,Recreation,Unspecified",6,8
+"Aquaculture,Commercial/Industrial,Domestic,Fire,Other,Public Supply,Recreation,Reservoir Storage",6,8
+"Municipal Irrigation,Public Supply",6,2
+"Commercial/Industrial,Domestic,Fire,Snow",5,4
+"Agriculture Irrigation,Commercial/Industrial,Domestic,Other,Public Supply,Snow,Unspecified",5,7
+"Agriculture Irrigation,Commercial/Industrial,Domestic,Livestock,Other,Reservoir Storage,Unspecified",5,7
+"Commercial/Industrial,In-stream Flow",5,2
+"Agriculture Irrigation,Aquaculture,Commercial/Industrial,Livestock",5,4
+"Agriculture Irrigation,Domestic,Reservoir Storage",5,3
+"Agriculture Irrigation,Domestic,Snow",5,3
+"Domestic,Hydroelectric,Other",5,3
+"Fire,In-stream Flow",5,2
+"Commercial/Industrial,Domestic,Recreation,Thermoelectric Cooling",5,4
+"Agriculture Irrigation,Livestock,Public Supply,Recreation",5,4
+"Agriculture Irrigation,Fire,Recreation,Unspecified",5,4
+"Agriculture Irrigation,Aquaculture,Aquifer Recharge,Commercial/Industrial,Domestic,Livestock,Other,Public Supply,Recreation,Unspecified",5,10
+"Agriculture Irrigation,Fire,Hydroelectric,Unspecified",5,4
+"Agriculture Irrigation,Fire,Public Supply,Recreation",5,4
+"Agriculture Irrigation,Livestock,Reservoir Storage,Unspecified",5,4
+"Domestic,Livestock,Other,Public Supply",5,4
+"Commercial/Industrial,Mining,Other",5,3
+"In-stream Flow,Municipal Irrigation,Recreation",5,3
+"Agriculture Irrigation,Aquaculture,Domestic,Livestock,Other,Public Supply,Recreation,Unspecified",5,8
+"Agriculture Irrigation,Domestic,Hydroelectric,Livestock",5,4
+"Aquaculture,Other,Public Supply,Recreation",5,4
+"Agriculture Irrigation,Aquifer Recharge,Recreation",5,3
+"Aquaculture,Domestic,Livestock,Unspecified",5,4
+"Agriculture Irrigation,Aquaculture,Commercial/Industrial,Livestock,Recreation",5,5
+"Agriculture Irrigation,Aquaculture,Commercial/Industrial,Domestic,Fire,Hydroelectric,Livestock,Public Supply,Unspecified",5,9
+"Domestic,Reservoir Storage,Unspecified",5,3
+"Agriculture Irrigation,Aquaculture,Domestic,Other,Unspecified",5,5
+"Aquaculture,Fire,Unspecified",5,3
+"Aquaculture,Domestic,Livestock,Other,Recreation,Unspecified",5,6
+"Agriculture Irrigation,Aquifer Recharge,Other,Unspecified",5,4
+"Agriculture Irrigation,Aquaculture,Commercial/Industrial,Domestic,Hydroelectric,Livestock,Other,Public Supply,Recreation,Reservoir Storage,Unspecified",5,11
+"Commercial/Industrial,Domestic,Reservoir Storage,Unspecified",5,4
+"Agriculture Irrigation,Domestic,Livestock,Mining,Public Supply,Recreation",5,6
+"Agriculture Irrigation,Aquaculture,Commercial/Industrial,Domestic,Hydroelectric,Livestock,Public Supply,Recreation,Unspecified",5,9
+"Commercial/Industrial,Domestic,Public Supply,Unspecified",5,4
+"Commercial/Industrial,Domestic,Fire,Hydroelectric,Public Supply,Unspecified",5,6
+"Commercial/Industrial,Domestic,Public Supply,Recreation,Snow,Unspecified",5,6
+"Commercial/Industrial,Domestic,Snow",5,3
+"Commercial/Industrial,Domestic,Other,Public Supply,Recreation",5,5
+"Commercial/Industrial,Public Supply,Recreation,Snow",5,4
+"Domestic,Hydroelectric,Other,Public Supply",5,4
+"Agriculture Irrigation,Aquaculture,Livestock,Other,Recreation,Reservoir Storage,Unspecified",5,7
+"Agriculture Irrigation,Aquaculture,Domestic,Fire,Livestock,Other,Public Supply,Recreation,Unspecified",5,9
+"Aquaculture,Commercial/Industrial,Domestic,Fire,In-stream Flow,Other,Public Supply,Recreation",5,8
+"Agriculture Irrigation,Aquifer Recharge,Commercial/Industrial,Domestic,Fire,In-stream Flow,Livestock,Unspecified",5,8
+"Aquifer Recharge,Reservoir Storage,Unspecified",5,3
+"Aquaculture,Commercial/Industrial,Fire,Livestock,Other,Recreation",5,6
+"Commercial/Industrial,Domestic,Fire,Hydroelectric",5,4
+"Agriculture Irrigation,Commercial/Industrial,Domestic,Fire,Recreation,Reservoir Storage,Unspecified",5,7
+"Aquifer Recharge,Livestock,Reservoir Storage",5,3
+"Aquaculture,Domestic,Other,Public Supply,Recreation,Reservoir Storage,Unspecified",5,7
+"Agriculture Irrigation,Commercial/Industrial,Domestic,Livestock,Municipal Irrigation",5,5
+"Aquaculture,Domestic,Fire,Livestock,Other,Recreation,Unspecified",5,7
+"Agriculture Irrigation,Commercial/Industrial,Domestic,Fire,Livestock,Other,Recreation,Reservoir Storage",5,8
+"Agriculture Irrigation,Aquifer Recharge,Commercial/Industrial,Domestic,Fire,Other,Public Supply",5,7
+"Agriculture Irrigation,Aquaculture,Commercial/Industrial,Unspecified",5,4
+"Agriculture Irrigation,Domestic,Fire,Recreation,Unspecified",5,5
+"Agriculture Irrigation,Livestock,Recreation,Unspecified",4,4
+"Agriculture Irrigation,Aquaculture,Commercial/Industrial,Domestic,Livestock,Other,Public Supply,Unspecified",4,8
+"Hydroelectric,Livestock",4,2
+"Commercial/Industrial,Domestic,Livestock,Other",4,4
+"Agriculture Irrigation,Commercial/Industrial,Domestic,Fire,Public Supply,Reservoir Storage,Unspecified",4,7
+"Agriculture Irrigation,Aquaculture,Commercial/Industrial,Domestic,Unspecified",4,5
+"Agriculture Irrigation,Aquaculture,Domestic,Livestock,Public Supply,Recreation,Unspecified",4,7
+"Agriculture Irrigation,Recreation,Thermoelectric Cooling",4,3
+"Agriculture Irrigation,Aquaculture,Commercial/Industrial,Fire,Other,Public Supply,Recreation,Snow,Unspecified",4,9
+"Aquifer Recharge,Fire,Other,Unspecified",4,4
+"Commercial/Industrial,Domestic,Fire,Hydroelectric,Public Supply",4,5
+"Agriculture Irrigation,Commercial/Industrial,Domestic,Fire,Hydroelectric,Public Supply,Recreation",4,7
+"Agriculture Irrigation,Aquaculture,Domestic,Fire,Other",4,5
+"Agriculture Irrigation,Aquaculture,Commercial/Industrial,Domestic,Fire,Other",4,6
+"Commercial/Industrial,Domestic,Fire,Livestock,Other",4,5
+"Agriculture Irrigation,Livestock,Mining,Other,Unspecified",4,5
+"Agriculture Irrigation,In-stream Flow,Livestock,Municipal Irrigation",4,4
+"Aquaculture,Commercial/Industrial,Domestic,Fire,Hydroelectric,Other,Public Supply,Recreation,Reservoir Storage,Unspecified",4,10
+"In-stream Flow,Mining",4,2
+"Livestock,Other,Reservoir Storage,Unspecified",4,4
+"Livestock,Thermoelectric Cooling",4,2
+"Agriculture Irrigation,Aquaculture,Commercial/Industrial,Domestic,Livestock,Other,Recreation,Reservoir Storage",4,8
+"Agriculture Irrigation,Commercial/Industrial,Domestic,Fire,Other,Reservoir Storage,Unspecified",4,7
+"Agriculture Irrigation,Aquaculture,Commercial/Industrial,Recreation,Reservoir Storage,Unspecified",4,6
+"Agriculture Irrigation,Commercial/Industrial,Domestic,Fire,Snow",4,5
+"Agriculture Irrigation,Domestic,Fire,Public Supply,Recreation,Unspecified",4,6
+"Agriculture Irrigation,Commercial/Industrial,Domestic,In-stream Flow",4,4
+"Agriculture Irrigation,Commercial/Industrial,Domestic,Fire,Recreation,Reservoir Storage,Snow,Unspecified",4,8
+"Agriculture Irrigation,Aquaculture,Commercial/Industrial,Domestic,Hydroelectric,Livestock,Other,Public Supply,Recreation",4,9
+"Aquaculture,Recreation,Reservoir Storage,Unspecified",4,4
+"Agriculture Irrigation,Commercial/Industrial,Domestic,Fire,Recreation,Reservoir Storage,Snow",4,7
+"Commercial/Industrial,Domestic,Fire,Reservoir Storage,Unspecified",4,5
+"Agriculture Irrigation,Aquaculture,Fire,Livestock,Other,Recreation,Reservoir Storage",4,7
+"Commercial/Industrial,Other,Public Supply,Unspecified",4,4
+"Mining,Recreation",4,2
+"Agriculture Irrigation,Domestic,Reservoir Storage,Unspecified",4,4
+"Agriculture Irrigation,Livestock,Municipal Irrigation,Other",4,4
+"Agriculture Irrigation,Aquaculture,Domestic,Public Supply,Recreation,Unspecified",4,6
+"Agriculture Irrigation,Commercial/Industrial,Domestic,Fire,Recreation,Unspecified",4,6
+"Agriculture Irrigation,Aquaculture,Aquifer Recharge,Commercial/Industrial,Domestic,Other,Recreation,Unspecified",4,8
+"Agriculture Irrigation,Aquaculture,Commercial/Industrial,Domestic,Livestock,Other,Unspecified",4,7
+"Aquaculture,Hydroelectric",4,2
+"Agriculture Irrigation,Aquaculture,Commercial/Industrial,Livestock,Other,Public Supply,Recreation,Unspecified",4,8
+"Agriculture Irrigation,Fire,Municipal Irrigation,Other",4,4
+"Agriculture Irrigation,Fire,In-stream Flow,Municipal Irrigation,Other,Recreation",4,6
+"Aquaculture,Livestock,Reservoir Storage,Unspecified",4,4
+"Agriculture Irrigation,Aquaculture,Aquifer Recharge,Commercial/Industrial,In-stream Flow,Recreation,Unspecified",4,7
+"Agriculture Irrigation,Aquaculture,Commercial/Industrial,Domestic,Fire,Livestock,Other,Public Supply,Recreation,Reservoir Storage",4,10
+"Agriculture Irrigation,Aquaculture,Domestic,Hydroelectric,Livestock,Other,Reservoir Storage",4,7
+"Agriculture Irrigation,Commercial/Industrial,Domestic,Livestock,Public Supply,Recreation,Unspecified",4,7
+"Agriculture Irrigation,Commercial/Industrial,Fire,Public Supply,Recreation,Unspecified",4,6
+"Agriculture Irrigation,Commercial/Industrial,Fire,Livestock,Recreation,Unspecified",4,6
+"Aquaculture,Domestic,Fire,Recreation",4,4
+"Agriculture Irrigation,Aquaculture,Aquifer Recharge,Commercial/Industrial,Domestic,Fire,Hydroelectric,Other,Public Supply,Recreation,Reservoir Storage,Snow,Unspecified",4,13
+"Aquaculture,Fire,Livestock,Other,Unspecified",4,5
+"Domestic,Mining,Recreation",4,3
+"Agriculture Irrigation,Commercial/Industrial,Domestic,Public Supply,Recreation,Snow,Unspecified",4,7
+"Agriculture Irrigation,Commercial/Industrial,Domestic,Fire,Hydroelectric,Public Supply,Reservoir Storage",4,7
+"Agriculture Irrigation,Commercial/Industrial,In-stream Flow,Public Supply",4,4
+"Agriculture Irrigation,Aquaculture,Commercial/Industrial,Reservoir Storage,Unspecified",4,5
+"Agriculture Irrigation,Aquaculture,Aquifer Recharge,Commercial/Industrial,Domestic,Public Supply,Recreation,Reservoir Storage,Unspecified",4,9
+"Agriculture Irrigation,Aquaculture,Commercial/Industrial,Hydroelectric,Public Supply,Recreation",4,6
+"Agriculture Irrigation,Commercial/Industrial,Domestic,Fire,Livestock,Other,Reservoir Storage,Unspecified",4,8
+"Commercial/Industrial,Fire,Thermoelectric Cooling",4,3
+"Domestic,Fire,Livestock,Other,Recreation,Reservoir Storage,Unspecified",4,7
+"Agriculture Irrigation,Aquaculture,Aquifer Recharge,Commercial/Industrial,Domestic,Fire,Hydroelectric,Livestock,Other,Recreation,Reservoir Storage,Snow,Unspecified",4,13
+"Agriculture Irrigation,Aquifer Recharge,Hydroelectric,Other,Public Supply,Unspecified",4,6
+"Agriculture Irrigation,Aquaculture,Domestic,Fire,Livestock,Public Supply,Recreation,Unspecified",4,8
+"Agriculture Irrigation,Fire,In-stream Flow,Other,Recreation",4,5
+"Agriculture Irrigation,Domestic,In-stream Flow,Livestock,Municipal Irrigation",4,5
+"Agriculture Irrigation,Aquaculture,Commercial/Industrial,Domestic,Fire",4,5
+"Agriculture Irrigation,Domestic,Livestock,Recreation,Reservoir Storage,Unspecified",4,6
+"Agriculture Irrigation,Aquaculture,Commercial/Industrial,Domestic,Public Supply,Recreation,Reservoir Storage,Unspecified",4,8
+"Domestic,Fire,Thermoelectric Cooling",4,3
+"Agriculture Irrigation,Fire,Thermoelectric Cooling",4,3
+"Domestic,Livestock,Thermoelectric Cooling",4,3
+"Aquaculture,Commercial/Industrial,Other,Public Supply,Recreation",4,5
+"Domestic,Fire,Public Supply,Recreation",4,4
+"Agriculture Irrigation,Domestic,Fire,Livestock,Municipal Irrigation",4,5
+"Agriculture Irrigation,Aquaculture,Aquifer Recharge,Commercial/Industrial,Domestic,Fire,Hydroelectric,In-stream Flow,Livestock,Other,Recreation,Reservoir Storage,Snow,Thermoelectric Cooling,Unspecified",4,15
+"Agriculture Irrigation,Aquaculture,Commercial/Industrial,Domestic,Public Supply,Unspecified",4,6
+"Agriculture Irrigation,Commercial/Industrial,Domestic,Fire,Other,Recreation,Reservoir Storage,Unspecified",4,8
+"Agriculture Irrigation,Aquaculture,Aquifer Recharge,Fire,Other,Recreation",4,6
+"Commercial/Industrial,Reservoir Storage,Unspecified",4,3
+"Agriculture Irrigation,Aquaculture,Domestic,Hydroelectric,Livestock,Recreation",4,6
+"Domestic,Livestock,Other,Unspecified",4,4
+"Agriculture Irrigation,Commercial/Industrial,Domestic,Hydroelectric,Other,Public Supply,Recreation",4,7
+"Commercial/Industrial,Livestock,Unspecified",4,3
+"Agriculture Irrigation,Commercial/Industrial,Domestic,Fire,Other,Public Supply,Reservoir Storage,Unspecified",4,8
+"Agriculture Irrigation,Livestock,Mining,Other,Public Supply,Recreation,Unspecified",4,7
+"Aquifer Recharge,Other,Unspecified",4,3
+"Agriculture Irrigation,Aquifer Recharge,Commercial/Industrial,Domestic,Public Supply,Recreation,Reservoir Storage,Unspecified",4,8
+"Agriculture Irrigation,Commercial/Industrial,Mining,Other",4,4
+"Fire,Livestock,Public Supply",4,3
+"Commercial/Industrial,Domestic,Livestock,Mining,Public Supply",4,5
+"Aquaculture,Commercial/Industrial,Domestic,Fire,Other,Recreation,Unspecified",4,7
+"Agriculture Irrigation,Aquaculture,Domestic,Fire,Unspecified",3,5
+"Agriculture Irrigation,Aquaculture,Domestic,Other,Public Supply,Recreation,Reservoir Storage",3,7
+"Agriculture Irrigation,Aquaculture,Hydroelectric,Public Supply,Unspecified",3,5
+"Aquaculture,Livestock,Municipal Irrigation",3,3
+"Agriculture Irrigation,Aquaculture,Commercial/Industrial,Hydroelectric,Livestock,Public Supply",3,6
+"Agriculture Irrigation,Aquaculture,Domestic,Other,Public Supply,Unspecified",3,6
+"In-stream Flow,Livestock,Recreation,Unspecified",3,4
+"Commercial/Industrial,Domestic,Hydroelectric,Public Supply",3,4
+"Agriculture Irrigation,Commercial/Industrial,Fire,Public Supply,Unspecified",3,5
+"Hydroelectric,In-stream Flow",3,2
+"Agriculture Irrigation,Aquifer Recharge,Domestic,Fire,Livestock,Unspecified",3,6
+"Livestock,Other,Public Supply",3,3
+"Agriculture Irrigation,Commercial/Industrial,Hydroelectric,Public Supply",3,4
+"Fire,Municipal Irrigation,Other,Recreation",3,4
+"In-stream Flow,Livestock,Other,Recreation",3,4
+"Aquifer Recharge,Domestic,Livestock",3,3
+"Commercial/Industrial,Domestic,Fire,Hydroelectric,Other",3,5
+"Aquaculture,Commercial/Industrial,Domestic,Other,Public Supply,Recreation,Unspecified",3,7
+"Fire,Hydroelectric",3,2
+"Municipal Irrigation,Reservoir Storage,Unspecified",3,3
+"Domestic,Mining,Other,Unspecified",3,4
+"Agriculture Irrigation,Commercial/Industrial,Domestic,Fire,Public Supply,Snow",3,6
+"Domestic,Fire,Livestock,Municipal Irrigation",3,4
+"Agriculture Irrigation,Commercial/Industrial,Domestic,Fire,Public Supply,Recreation,Snow",3,7
+"Reservoir Storage,Thermoelectric Cooling",3,2
+"Agriculture Irrigation,In-stream Flow,Livestock,Other,Reservoir Storage",3,5
+"Agriculture Irrigation,Aquaculture,Commercial/Industrial,Domestic,Fire,Hydroelectric,Livestock,Other,Public Supply,Recreation",3,10
+"Agriculture Irrigation,Commercial/Industrial,Fire,Hydroelectric",3,4
+"Agriculture Irrigation,Aquaculture,Commercial/Industrial,Other,Public Supply,Snow,Unspecified",3,7
+"Agriculture Irrigation,Aquaculture,Recreation,Reservoir Storage,Unspecified",3,5
+"Agriculture Irrigation,Domestic,Fire,Other,Public Supply,Reservoir Storage",3,6
+"Aquaculture,Domestic,Thermoelectric Cooling",3,3
+"Livestock,Public Supply,Unspecified",3,3
+"Fire,Other,Reservoir Storage",3,3
+"Agriculture Irrigation,Aquifer Recharge,Commercial/Industrial,Domestic,Fire,Livestock,Other,Reservoir Storage,Unspecified",3,9
+"Agriculture Irrigation,Domestic,Fire,In-stream Flow",3,4
+"Public Supply,Reservoir Storage",3,2
+"Aquaculture,Domestic,Fire,Livestock,Recreation,Unspecified",3,6
+"Domestic,Mining,Municipal Irrigation",3,3
+"Hydroelectric,Reservoir Storage",3,2
+"Agriculture Irrigation,Commercial/Industrial,Fire,Other,Reservoir Storage,Unspecified",3,6
+"Agriculture Irrigation,Commercial/Industrial,Domestic,Livestock,Recreation,Unspecified",3,6
+"Agriculture Irrigation,Domestic,Livestock,Mining,Public Supply,Unspecified",3,6
+"Domestic,Fire,Livestock,Other,Public Supply",3,5
+"Agriculture Irrigation,Domestic,Fire,Hydroelectric,Livestock",3,5
+"Agriculture Irrigation,Fire,Public Supply",3,3
+"Domestic,Fire,Livestock,Other,Recreation",3,5
+"Fire,Municipal Irrigation,Recreation",3,3
+"Agriculture Irrigation,Aquaculture,Aquifer Recharge,Commercial/Industrial,Fire,Other,Recreation,Unspecified",3,8
+"Agriculture Irrigation,Aquaculture,Fire,Unspecified",3,4
+"Domestic,Other,Public Supply,Recreation",3,4
+"Agriculture Irrigation,Commercial/Industrial,Mining,Recreation",3,4
+"Agriculture Irrigation,Aquifer Recharge,Commercial/Industrial,In-stream Flow,Public Supply,Unspecified",3,6
+"Agriculture Irrigation,Aquaculture,Commercial/Industrial,Domestic,Other",3,5
+"Agriculture Irrigation,Aquifer Recharge,Commercial/Industrial,Fire,Reservoir Storage,Unspecified",3,6
+"Commercial/Industrial,Hydroelectric,Unspecified",3,3
+"Other,Public Supply,Recreation",3,3
+"Agriculture Irrigation,Aquaculture,Domestic,Other,Recreation,Reservoir Storage,Unspecified",3,7
+"Agriculture Irrigation,Hydroelectric,Livestock",3,3
+"Agriculture Irrigation,Commercial/Industrial,Domestic,Fire,Hydroelectric,Other,Public Supply,Recreation",3,8
+"Agriculture Irrigation,Commercial/Industrial,Domestic,Hydroelectric,Other,Recreation",3,6
+"Agriculture Irrigation,Commercial/Industrial,Domestic,Other,Reservoir Storage",3,5
+"Commercial/Industrial,Domestic,Livestock,Public Supply,Unspecified",3,5
+"Agriculture Irrigation,Fire,Livestock,Other,Unspecified",3,5
+"Agriculture Irrigation,Commercial/Industrial,Domestic,Fire,Other,Public Supply,Recreation,Reservoir Storage",3,8
+"Agriculture Irrigation,Aquaculture,Commercial/Industrial,Domestic,Hydroelectric,Livestock,Public Supply,Recreation,Reservoir Storage,Unspecified",3,10
+"Agriculture Irrigation,Commercial/Industrial,Domestic,Hydroelectric,Mining,Recreation",3,6
+"Agriculture Irrigation,Livestock,Other,Recreation,Reservoir Storage",3,5
+"Agriculture Irrigation,Aquaculture,Commercial/Industrial,Fire,Other,Recreation,Reservoir Storage,Unspecified",3,8
+"Commercial/Industrial,Fire,Other",3,3
+"Commercial/Industrial,Domestic,Hydroelectric,Other",3,4
+"Agriculture Irrigation,Aquaculture,Other,Public Supply,Recreation",3,5
+"Aquaculture,Fire,Livestock,Other,Public Supply,Recreation",3,6
+"Aquifer Recharge,Domestic",3,2
+"Aquaculture,Aquifer Recharge,Fire,Livestock,Other,Recreation,Unspecified",3,7
+"Agriculture Irrigation,Domestic,Recreation,Thermoelectric Cooling",3,4
+"Commercial/Industrial,Domestic,Public Supply,Snow,Unspecified",3,5
+"Aquaculture,Aquifer Recharge,Recreation,Unspecified",3,4
+"Agriculture Irrigation,Aquaculture,Aquifer Recharge,Commercial/Industrial,Domestic,Fire,Other,Public Supply,Recreation",3,9
+"Agriculture Irrigation,Commercial/Industrial,Thermoelectric Cooling",3,3
+"Domestic,Fire,Livestock,Other,Public Supply,Unspecified",3,6
+"Agriculture Irrigation,Aquaculture,Commercial/Industrial,Fire,Livestock,Recreation,Unspecified",3,7
+"Agriculture Irrigation,Aquaculture,Commercial/Industrial,Domestic,Hydroelectric,Livestock,Public Supply,Recreation,Reservoir Storage",3,9
+"Agriculture Irrigation,Commercial/Industrial,Other,Recreation",3,4
+"Agriculture Irrigation,Aquaculture,Aquifer Recharge,Commercial/Industrial,Domestic,Fire,In-stream Flow,Other,Public Supply,Recreation,Reservoir Storage,Unspecified",3,12
+"Aquaculture,Commercial/Industrial,Domestic,Fire,Livestock,Other,Recreation,Reservoir Storage",3,8
+"Domestic,Fire,Mining",3,3
+"Domestic,Livestock,Municipal Irrigation,Thermoelectric Cooling",3,4
+"Agriculture Irrigation,Aquaculture,Domestic,Fire,Hydroelectric",3,5
+"Commercial/Industrial,Domestic,Fire,Livestock,Public Supply",3,5
+"Agriculture Irrigation,Aquifer Recharge,Other,Recreation",3,4
+"Agriculture Irrigation,Aquaculture,Fire,In-stream Flow,Livestock,Other,Recreation",3,7
+"Agriculture Irrigation,Aquifer Recharge,Commercial/Industrial,Fire,Livestock,Other,Unspecified",3,7
+"Agriculture Irrigation,Commercial/Industrial,Domestic,Fire,Other,Recreation,Snow",3,7
+"Agriculture Irrigation,Commercial/Industrial,Domestic,Hydroelectric,Livestock,Public Supply,Reservoir Storage,Unspecified",3,8
+"Agriculture Irrigation,Aquifer Recharge,Fire,Livestock,Other,Unspecified",3,6
+"Fire,Livestock,Recreation,Unspecified",3,4
+"Aquaculture,Commercial/Industrial,Fire,Livestock",3,4
+"Agriculture Irrigation,Commercial/Industrial,Domestic,Fire,Livestock,Other,Public Supply,Recreation,Reservoir Storage,Unspecified",3,10
+"Commercial/Industrial,Livestock,Other,Reservoir Storage",3,4
+"Agriculture Irrigation,Commercial/Industrial,Domestic,Livestock,Other,Recreation",3,6
+"Fire,Other,Reservoir Storage,Unspecified",3,4
+"Agriculture Irrigation,Commercial/Industrial,In-stream Flow",3,3
+"Hydroelectric,Recreation",3,2
+"Agriculture Irrigation,Commercial/Industrial,Domestic,Fire,Other,Public Supply,Recreation,Snow",3,8
+"Commercial/Industrial,Domestic,Fire,Livestock,Other,Public Supply",3,6
+"Agriculture Irrigation,Domestic,In-stream Flow,Recreation",3,4
+"Agriculture Irrigation,Aquaculture,Aquifer Recharge,Commercial/Industrial,Other,Recreation,Reservoir Storage,Unspecified",3,8
+"Agriculture Irrigation,Aquaculture,Fire,Livestock,Other,Reservoir Storage",3,6
+"Aquaculture,Commercial/Industrial,Other,Public Supply,Recreation,Unspecified",3,6
+"Agriculture Irrigation,Commercial/Industrial,Domestic,Fire,Hydroelectric,Other,Public Supply,Recreation,Unspecified",3,9
+"Agriculture Irrigation,Aquaculture,Commercial/Industrial,Domestic,Hydroelectric,Other,Public Supply,Recreation,Unspecified",3,9
+"Agriculture Irrigation,Aquaculture,Commercial/Industrial,Domestic,Hydroelectric,Public Supply,Recreation",3,7
+"Commercial/Industrial,Domestic,Other,Reservoir Storage",3,4
+"Aquaculture,Commercial/Industrial,Domestic,Other,Recreation,Unspecified",3,6
+"Agriculture Irrigation,Aquaculture,Commercial/Industrial,Domestic,Fire,Hydroelectric,Livestock,Other,Public Supply,Recreation,Reservoir Storage,Unspecified",3,12
+"Aquaculture,In-stream Flow,Livestock,Other,Recreation",3,5
+"Agriculture Irrigation,Domestic,Fire,Livestock,Other,Public Supply",3,6
+"Agriculture Irrigation,Aquaculture,Commercial/Industrial,Domestic,Fire,Livestock,Other,Public Supply",3,8
+"Aquaculture,Commercial/Industrial,Fire,Livestock,Other,Recreation,Unspecified",3,7
+"Agriculture Irrigation,Aquaculture,Domestic,Hydroelectric,Other,Recreation",3,6
+"Agriculture Irrigation,Aquaculture,Aquifer Recharge,Commercial/Industrial,Domestic,Other,Public Supply,Recreation,Reservoir Storage,Unspecified",3,10
+"Agriculture Irrigation,Aquaculture,Commercial/Industrial,Domestic,Fire,Hydroelectric,Public Supply,Recreation,Reservoir Storage,Unspecified",3,10
+"Agriculture Irrigation,Commercial/Industrial,Domestic,Other,Thermoelectric Cooling",3,5
+"Agriculture Irrigation,Aquaculture,Domestic,Fire,Livestock,Other,Public Supply,Recreation",3,8
+"Agriculture Irrigation,Aquifer Recharge,Other,Public Supply,Unspecified",3,5
+"Agriculture Irrigation,Aquifer Recharge,In-stream Flow,Unspecified",3,4
+"Agriculture Irrigation,Domestic,Livestock,Other,Reservoir Storage,Unspecified",3,6
+"Agriculture Irrigation,Aquaculture,Commercial/Industrial,Fire,Livestock,Recreation",3,6
+"Agriculture Irrigation,Aquifer Recharge,Commercial/Industrial,Domestic,Fire,Hydroelectric,Unspecified",3,7
+"Agriculture Irrigation,Commercial/Industrial,Domestic,Fire,Hydroelectric,Livestock,Other",3,7
+"Agriculture Irrigation,Domestic,Hydroelectric,Livestock,Unspecified",3,5
+"Aquaculture,Public Supply",3,2
+"In-stream Flow,Recreation,Unspecified",3,3
+"Hydroelectric,Other",3,2
+"Aquaculture,Commercial/Industrial,Domestic,Fire,Public Supply",3,5
+"Hydroelectric,Unspecified",3,2
+"Agriculture Irrigation,Aquaculture,Commercial/Industrial,Domestic,Fire,Other,Public Supply",3,7
+"Agriculture Irrigation,In-stream Flow,Municipal Irrigation,Other,Recreation",3,5
+"Agriculture Irrigation,Public Supply,Snow,Unspecified",3,4
+"Agriculture Irrigation,Aquaculture,Commercial/Industrial,Domestic,Fire,Hydroelectric,Livestock,Other,Recreation",3,9
+"Commercial/Industrial,Reservoir Storage",3,2
+"Agriculture Irrigation,Aquaculture,Hydroelectric,Other,Recreation",3,5
+"Agriculture Irrigation,Aquifer Recharge,Fire,Livestock,Unspecified",2,5
+"Agriculture Irrigation,Commercial/Industrial,Fire,Other,Unspecified",2,5
+"Agriculture Irrigation,Domestic,Fire,Livestock,Reservoir Storage,Unspecified",2,6
+"Agriculture Irrigation,Aquaculture,Commercial/Industrial,Domestic,In-stream Flow,Livestock,Other,Public Supply,Recreation,Reservoir Storage,Unspecified",2,11
+"Aquifer Recharge,Commercial/Industrial,Livestock,Public Supply",2,4
+"Agriculture Irrigation,Aquaculture,Commercial/Industrial,Domestic,Fire,Livestock,Reservoir Storage,Unspecified",2,8
+"Agriculture Irrigation,Domestic,Mining,Municipal Irrigation",2,4
+"Agriculture Irrigation,Aquaculture,Commercial/Industrial,Fire,Livestock,Public Supply,Recreation,Unspecified",2,8
+"Agriculture Irrigation,Aquaculture,Aquifer Recharge,In-stream Flow,Other,Recreation,Reservoir Storage,Unspecified",2,8
+"Commercial/Industrial,Fire,Public Supply,Unspecified",2,4
+"Aquaculture,Commercial/Industrial,Fire,Other,Recreation",2,5
+"Agriculture Irrigation,Fire,In-stream Flow,Livestock,Recreation",2,5
+"Agriculture Irrigation,Domestic,Municipal Irrigation,Recreation",2,4
+"Agriculture Irrigation,Livestock,Mining,Recreation",2,4
+"Aquifer Recharge,Domestic,Unspecified",2,3
+"Agriculture Irrigation,Aquaculture,Aquifer Recharge,Other",2,4
+"Agriculture Irrigation,Domestic,In-stream Flow,Livestock,Recreation",2,5
+"Agriculture Irrigation,Domestic,Mining,Unspecified",2,4
+"Fire,Public Supply,Recreation,Reservoir Storage,Unspecified",2,5
+"Agriculture Irrigation,Domestic,Livestock,Other,Recreation,Unspecified",2,6
+"Commercial/Industrial,Fire,Public Supply,Recreation,Reservoir Storage,Unspecified",2,6
+"Domestic,Hydroelectric,Other,Public Supply,Unspecified",2,5
+"Livestock,Recreation,Reservoir Storage",2,3
+"Agriculture Irrigation,In-stream Flow,Recreation,Reservoir Storage",2,4
+"Agriculture Irrigation,Fire,In-stream Flow,Livestock",2,4
+"Agriculture Irrigation,Aquaculture,Livestock,Municipal Irrigation",2,4
+"Aquaculture,Domestic,Other,Recreation,Unspecified",2,5
+"Agriculture Irrigation,Commercial/Industrial,Domestic,Reservoir Storage,Snow,Unspecified",2,6
+"Agriculture Irrigation,Commercial/Industrial,Domestic,Snow,Unspecified",2,5
+"Agriculture Irrigation,Commercial/Industrial,Domestic,Hydroelectric,Livestock",2,5
+"Aquaculture,Commercial/Industrial,Livestock,Other,Reservoir Storage,Unspecified",2,6
+"Agriculture Irrigation,Aquaculture,In-stream Flow",2,3
+"Agriculture Irrigation,Municipal Irrigation,Reservoir Storage",2,3
+"Aquifer Recharge,Livestock,Unspecified",2,3
+"Agriculture Irrigation,Domestic,Livestock,Other,Reservoir Storage",2,5
+"Agriculture Irrigation,Aquaculture,Aquifer Recharge,Commercial/Industrial,Other,Reservoir Storage,Unspecified",2,7
+"Agriculture Irrigation,Commercial/Industrial,Fire,Recreation",2,4
+"Agriculture Irrigation,Commercial/Industrial,Domestic,In-stream Flow,Public Supply",2,5
+"Agriculture Irrigation,Domestic,Hydroelectric,Livestock,Other,Unspecified",2,6
+"Aquaculture,Fire,Hydroelectric,Livestock,Other",2,5
+"Municipal Irrigation,Other,Recreation,Reservoir Storage",2,4
+"Commercial/Industrial,Public Supply,Recreation,Reservoir Storage,Unspecified",2,5
+"Fire,Reservoir Storage",2,2
+"Agriculture Irrigation,In-stream Flow,Livestock,Municipal Irrigation,Other",2,5
+"Agriculture Irrigation,Aquaculture,Commercial/Industrial,Domestic,Fire,In-stream Flow,Livestock,Public Supply,Recreation",2,9
+"Agriculture Irrigation,Domestic,Fire,Reservoir Storage",2,4
+"Agriculture Irrigation,Fire,Hydroelectric,Livestock",2,4
+"Domestic,Livestock,Mining,Municipal Irrigation",2,4
+"Agriculture Irrigation,Aquaculture,Commercial/Industrial,Domestic,Other,Recreation,Reservoir Storage,Thermoelectric Cooling",2,8
+"Agriculture Irrigation,Commercial/Industrial,Domestic,Livestock,Other,Unspecified",2,6
+"Agriculture Irrigation,Commercial/Industrial,Fire,Livestock,Other,Reservoir Storage",2,6
+"Agriculture Irrigation,Domestic,Livestock,Mining,Municipal Irrigation",2,5
+"Agriculture Irrigation,Domestic,Fire,Livestock,Thermoelectric Cooling",2,5
+"Aquaculture,Commercial/Industrial,Fire,Livestock,Other,Recreation,Reservoir Storage",2,7
+"Agriculture Irrigation,Aquaculture,Commercial/Industrial,Domestic,Livestock,Other,Public Supply,Recreation,Thermoelectric Cooling",2,9
+"Agriculture Irrigation,Commercial/Industrial,Domestic,Livestock,Recreation,Thermoelectric Cooling",2,6
+"Agriculture Irrigation,Domestic,Fire,Livestock,Municipal Irrigation,Other",2,6
+"Aquaculture,Recreation,Thermoelectric Cooling",2,3
+"Commercial/Industrial,Municipal Irrigation,Other,Recreation",2,4
+"Agriculture Irrigation,Fire,In-stream Flow,Livestock,Other,Recreation",2,6
+"Fire,Thermoelectric Cooling",2,2
+"Commercial/Industrial,Livestock,Recreation",2,3
+"Agriculture Irrigation,Domestic,Livestock,Mining,Other,Public Supply,Recreation,Unspecified",2,8
+"Aquaculture,Fire,Other,Reservoir Storage",2,4
+"Agriculture Irrigation,Commercial/Industrial,Domestic,Livestock,Thermoelectric Cooling",2,5
+"Commercial/Industrial,Domestic,Fire,Livestock,Public Supply,Unspecified",2,6
+"Agriculture Irrigation,Aquifer Recharge,Commercial/Industrial,Domestic,In-stream Flow,Reservoir Storage,Unspecified",2,7
+"Agriculture Irrigation,Commercial/Industrial,Fire,Recreation,Snow",2,5
+"Agriculture Irrigation,Commercial/Industrial,Domestic,Recreation,Snow,Unspecified",2,6
+"Commercial/Industrial,Domestic,Mining,Other",2,4
+"Agriculture Irrigation,Aquifer Recharge,Commercial/Industrial,Domestic,Fire,Reservoir Storage",2,6
+"Agriculture Irrigation,Commercial/Industrial,Domestic,Fire,Reservoir Storage,Snow",2,6
+"Agriculture Irrigation,Aquaculture,Municipal Irrigation,Recreation",2,4
+"Domestic,Municipal Irrigation,Other,Recreation",2,4
+"Agriculture Irrigation,Aquaculture,Commercial/Industrial,Livestock,Other,Public Supply",2,6
+"Domestic,Livestock,Mining,Recreation",2,4
+"Agriculture Irrigation,Commercial/Industrial,Livestock,Municipal Irrigation",2,4
+"Agriculture Irrigation,Commercial/Industrial,Other,Thermoelectric Cooling",2,4
+"Domestic,Livestock,Municipal Irrigation,Recreation",2,4
+"Agriculture Irrigation,Aquifer Recharge,In-stream Flow,Public Supply,Unspecified",2,5
+"Agriculture Irrigation,Fire,In-stream Flow,Recreation",2,4
+"Commercial/Industrial,Domestic,Livestock,Mining",2,4
+"Aquaculture,Fire,Recreation,Reservoir Storage,Unspecified",2,5
+"Agriculture Irrigation,Domestic,Fire,Livestock,Other,Recreation,Reservoir Storage",2,7
+"Aquaculture,Hydroelectric,Other,Unspecified",2,4
+"Agriculture Irrigation,Domestic,Municipal Irrigation,Other,Recreation",2,5
+"Agriculture Irrigation,Aquaculture,Commercial/Industrial,Fire,Hydroelectric,Livestock,Recreation,Unspecified",2,8
+"Commercial/Industrial,Livestock,Mining",2,3
+"Domestic,Fire,In-stream Flow,Livestock",2,4
+"Agriculture Irrigation,Domestic,In-stream Flow,Municipal Irrigation",2,4
+"Domestic,Mining,Other,Recreation",2,4
+"Fire,Thermoelectric Cooling,Unspecified",2,3
+"Domestic,In-stream Flow,Other",2,3
+"Commercial/Industrial,Livestock,Public Supply,Unspecified",2,4
+"Commercial/Industrial,Domestic,Livestock,Other,Recreation",2,5
+"Agriculture Irrigation,Domestic,Livestock,Public Supply,Recreation",2,5
+"Agriculture Irrigation,Aquaculture,Domestic,Hydroelectric,Livestock,Other,Public Supply,Recreation,Reservoir Storage",2,9
+"Agriculture Irrigation,Commercial/Industrial,Domestic,Livestock,Public Supply,Recreation,Reservoir Storage,Unspecified",2,8
+"Agriculture Irrigation,Aquaculture,Commercial/Industrial,Livestock,Other,Recreation,Reservoir Storage",2,7
+"Agriculture Irrigation,Commercial/Industrial,Domestic,Hydroelectric,Recreation",2,5
+"Agriculture Irrigation,Aquaculture,Commercial/Industrial,Domestic,Hydroelectric,Livestock",2,6
+"Agriculture Irrigation,Aquaculture,Domestic,Fire,Livestock,Other,Public Supply,Recreation,Reservoir Storage",2,9
+"Agriculture Irrigation,Aquaculture,Domestic,Fire,Livestock,Other,Public Supply,Unspecified",2,8
+"Agriculture Irrigation,Commercial/Industrial,Fire,Snow",2,4
+"Agriculture Irrigation,Commercial/Industrial,Domestic,Mining,Other,Recreation,Reservoir Storage",2,7
+"Agriculture Irrigation,Hydroelectric,Recreation",2,3
+"Agriculture Irrigation,Commercial/Industrial,Domestic,Mining,Reservoir Storage",2,5
+"Agriculture Irrigation,Commercial/Industrial,Domestic,Mining,Other",2,5
+"Agriculture Irrigation,Aquaculture,Commercial/Industrial,Domestic,Public Supply,Recreation,Reservoir Storage,Snow",2,8
+"Agriculture Irrigation,Aquaculture,Commercial/Industrial,Domestic,Other,Public Supply,Snow",2,7
+"Agriculture Irrigation,Aquaculture,Commercial/Industrial,Fire,Other,Public Supply,Recreation",2,7
+"Agriculture Irrigation,Commercial/Industrial,Domestic,Fire,Hydroelectric,Public Supply,Recreation,Snow,Unspecified",2,9
+"Agriculture Irrigation,Domestic,Livestock,Recreation,Unspecified",2,5
+"Domestic,Fire,Other,Unspecified",2,4
+"Agriculture Irrigation,Aquaculture,Commercial/Industrial,Domestic,Public Supply,Recreation,Snow",2,7
+"Agriculture Irrigation,Aquifer Recharge,Domestic,Livestock",2,4
+"Agriculture Irrigation,Aquaculture,Commercial/Industrial,Domestic,Fire,Other,Unspecified",2,7
+"Fire,Recreation,Reservoir Storage,Unspecified",2,4
+"Livestock,Municipal Irrigation,Unspecified",2,3
+"Commercial/Industrial,Domestic,Other,Public Supply,Unspecified",2,5
+"Agriculture Irrigation,Aquaculture,Domestic,Fire,Livestock,Other,Public Supply,Reservoir Storage,Unspecified",2,9
+"Agriculture Irrigation,Aquaculture,Commercial/Industrial,Domestic,Fire,Hydroelectric,Livestock,Public Supply,Recreation,Unspecified",2,10
+"Other,Recreation,Thermoelectric Cooling",2,3
+"Fire,Livestock,Other,Reservoir Storage,Unspecified",2,5
+"Agriculture Irrigation,Reservoir Storage,Snow",2,3
+"Agriculture Irrigation,In-stream Flow,Livestock,Unspecified",2,4
+"Aquaculture,Domestic,Fire,Hydroelectric",2,4
+"Agriculture Irrigation,Aquaculture,Commercial/Industrial,Public Supply,Recreation,Reservoir Storage,Unspecified",2,7
+"Agriculture Irrigation,In-stream Flow,Livestock,Recreation,Unspecified",2,5
+"Fire,In-stream Flow,Recreation,Reservoir Storage,Unspecified",2,5
+"Agriculture Irrigation,Aquifer Recharge,Domestic,Public Supply,Unspecified",2,5
+"Agriculture Irrigation,Aquaculture,Commercial/Industrial,Domestic,Fire,Other,Snow",2,7
+"Agriculture Irrigation,Aquaculture,Commercial/Industrial,Domestic,Other,Public Supply,Reservoir Storage",2,7
+"Fire,In-stream Flow,Recreation,Unspecified",2,4
+"Agriculture Irrigation,Domestic,Public Supply,Reservoir Storage,Unspecified",2,5
+"Agriculture Irrigation,Commercial/Industrial,Hydroelectric,Other,Reservoir Storage",2,5
+"Agriculture Irrigation,Aquifer Recharge,Commercial/Industrial,Domestic,Fire,Public Supply,Recreation,Reservoir Storage,Unspecified",2,9
+"Agriculture Irrigation,Commercial/Industrial,Domestic,Mining,Other,Public Supply,Recreation",2,7
+"Agriculture Irrigation,Aquaculture,Aquifer Recharge,Commercial/Industrial,Domestic,Fire,Hydroelectric,Livestock,Other,Public Supply,Recreation,Reservoir Storage,Unspecified",2,13
+"Agriculture Irrigation,Aquaculture,Domestic,Hydroelectric,Livestock",2,5
+"Aquaculture,Domestic,Other,Public Supply,Recreation",2,5
+"Agriculture Irrigation,Public Supply,Thermoelectric Cooling",2,3
+"Commercial/Industrial,Domestic,Public Supply,Snow",2,4
+"Agriculture Irrigation,Aquaculture,Fire,Reservoir Storage",2,4
+"Commercial/Industrial,Domestic,Fire,Recreation",2,4
+"Agriculture Irrigation,Livestock,Other,Public Supply,Unspecified",2,5
+"Aquifer Recharge,Commercial/Industrial,Domestic",2,3
+"Agriculture Irrigation,Aquaculture,Commercial/Industrial,Domestic,Hydroelectric",2,5
+"Agriculture Irrigation,Domestic,Fire,Other,Recreation",2,5
+"Aquaculture,Commercial/Industrial,Domestic,Other,Recreation",2,5
+"Commercial/Industrial,Domestic,Fire,Thermoelectric Cooling",2,4
+"Agriculture Irrigation,Public Supply,Reservoir Storage",2,3
+"Agriculture Irrigation,Aquaculture,Domestic,Livestock,Other,Public Supply,Recreation,Reservoir Storage",2,8
+"Agriculture Irrigation,Aquaculture,Commercial/Industrial,Domestic,Livestock,Other,Public Supply,Recreation,Snow",2,9
+"Aquaculture,Commercial/Industrial,Domestic,Livestock,Other,Public Supply,Recreation",2,7
+"Agriculture Irrigation,Aquaculture,Commercial/Industrial,Domestic,Fire,Hydroelectric,Livestock,Public Supply,Recreation",2,9
+"Fire,In-stream Flow,Other,Recreation",2,4
+"Snow,Unspecified",2,2
+"Agriculture Irrigation,Aquaculture,Commercial/Industrial,Domestic,Other,Recreation,Reservoir Storage",2,7
+"Agriculture Irrigation,Domestic,Livestock,Mining,Unspecified",2,5
+"Agriculture Irrigation,Aquaculture,Aquifer Recharge,Commercial/Industrial,In-stream Flow,Other,Recreation,Reservoir Storage,Unspecified",2,9
+"Domestic,Livestock,Mining,Other,Public Supply",2,5
+"Agriculture Irrigation,Aquaculture,Aquifer Recharge,Commercial/Industrial,Domestic,Livestock,Other,Recreation,Unspecified",2,9
+"Agriculture Irrigation,Domestic,Fire,Public Supply,Recreation,Snow",2,6
+"Agriculture Irrigation,Aquaculture,Aquifer Recharge,Commercial/Industrial,Domestic,Livestock,Other,Public Supply,Recreation",2,9
+"Agriculture Irrigation,Aquaculture,Commercial/Industrial,Other,Public Supply,Reservoir Storage",2,6
+"Commercial/Industrial,Domestic,Public Supply,Recreation,Reservoir Storage,Unspecified",2,6
+"Aquaculture,Commercial/Industrial,Domestic,Fire,Recreation",2,5
+"Domestic,Fire,Other,Recreation",2,4
+"Agriculture Irrigation,In-stream Flow,Reservoir Storage,Unspecified",2,4
+"Aquaculture,Public Supply,Recreation,Unspecified",2,4
+"Agriculture Irrigation,Commercial/Industrial,Livestock,Recreation",2,4
+"Agriculture Irrigation,Domestic,Fire,Public Supply,Unspecified",2,5
+"Agriculture Irrigation,Fire,Livestock,Snow",2,4
+"Agriculture Irrigation,Aquifer Recharge,Livestock,Unspecified",2,4
+"Agriculture Irrigation,Domestic,Livestock,Mining,Other,Public Supply,Unspecified",2,7
+"Agriculture Irrigation,Domestic,Mining,Other,Public Supply",2,5
+"Agriculture Irrigation,Aquaculture,Commercial/Industrial,Livestock,Public Supply,Recreation",2,6
+"Agriculture Irrigation,Commercial/Industrial,Domestic,Other,Public Supply,Recreation,Reservoir Storage",2,7
+"Aquaculture,Commercial/Industrial,Domestic,Public Supply",2,4
+"Agriculture Irrigation,Aquaculture,Reservoir Storage",2,3
+"Domestic,Fire,Livestock,Other,Public Supply,Reservoir Storage",2,6
+"Agriculture Irrigation,Aquaculture,Domestic,Hydroelectric,In-stream Flow,Livestock,Other,Public Supply,Recreation,Unspecified",2,10
+"Livestock,Recreation,Reservoir Storage,Unspecified",2,4
+"Commercial/Industrial,Hydroelectric,Other,Reservoir Storage,Unspecified",2,5
+"Agriculture Irrigation,Aquaculture,Commercial/Industrial,Fire,Livestock,Other",2,6
+"Aquaculture,Domestic,Fire,Livestock,Other,Reservoir Storage",2,6
+"In-stream Flow,Other,Recreation",2,3
+"Domestic,Livestock,Recreation,Reservoir Storage,Unspecified",2,5
+"Aquaculture,Fire,Public Supply,Recreation,Unspecified",2,5
+"Aquaculture,Aquifer Recharge,Fire,Other,Unspecified",2,5
+"Commercial/Industrial,In-stream Flow,Public Supply",2,3
+"Fire,Public Supply,Unspecified",2,3
+"Aquaculture,Commercial/Industrial,Domestic,Fire,Unspecified",2,5
+"Agriculture Irrigation,Commercial/Industrial,Domestic,Fire,Recreation,Snow",2,6
+"Aquaculture,Aquifer Recharge,Fire,Other,Recreation,Reservoir Storage",2,6
+"Aquaculture,Aquifer Recharge,Livestock,Other",2,4
+"Agriculture Irrigation,Domestic,Fire,Other,Reservoir Storage",2,5
+"Agriculture Irrigation,Aquaculture,Domestic,Livestock,Municipal Irrigation",2,5
+"Commercial/Industrial,Domestic,Public Supply,Reservoir Storage,Unspecified",2,5
+"Agriculture Irrigation,Commercial/Industrial,Domestic,Fire,Public Supply,Recreation,Reservoir Storage,Unspecified",2,8
+"Agriculture Irrigation,Fire,Public Supply,Unspecified",2,4
+"Agriculture Irrigation,Aquaculture,Domestic,Fire,Other,Public Supply,Recreation,Reservoir Storage,Unspecified",2,9
+"Agriculture Irrigation,Aquaculture,Aquifer Recharge,Commercial/Industrial,Domestic,Fire,Other,Public Supply,Recreation,Unspecified",2,10
+"Agriculture Irrigation,Aquaculture,Fire,Public Supply,Recreation",2,5
+"Commercial/Industrial,Domestic,Fire,Livestock,Recreation",2,5
+"Aquaculture,Aquifer Recharge,Other,Recreation",2,4
+"Aquaculture,Other,Reservoir Storage,Unspecified",2,4
+"Aquaculture,Livestock,Other,Recreation,Reservoir Storage,Unspecified",2,6
+"Agriculture Irrigation,Aquaculture,Commercial/Industrial,Fire,Livestock,Unspecified",2,6
+"Aquaculture,Domestic,Fire,Other,Unspecified",2,5
+"Aquaculture,Commercial/Industrial,Fire,Other,Recreation,Unspecified",2,6
+"Agriculture Irrigation,Aquaculture,Fire,Hydroelectric,Livestock,Other",2,6
+"Aquaculture,Domestic,Hydroelectric",2,3
+"Commercial/Industrial,Domestic,Hydroelectric,Livestock",2,4
+"Agriculture Irrigation,Aquaculture,Aquifer Recharge,Fire,Other,Recreation,Unspecified",2,7
+"Agriculture Irrigation,Fire,Livestock,Recreation,Unspecified",2,5
+"Agriculture Irrigation,Aquaculture,Aquifer Recharge,Commercial/Industrial,Domestic,Fire,Public Supply,Recreation",2,8
+"Agriculture Irrigation,Aquaculture,Domestic,Fire,Livestock,Other,Reservoir Storage",2,7
+"Domestic,Livestock,Reservoir Storage",2,3
+"Aquaculture,Hydroelectric,Other,Recreation",2,4
+"Agriculture Irrigation,Aquaculture,Domestic,Hydroelectric,Livestock,Unspecified",2,6
+"Reservoir Storage,Thermoelectric Cooling,Unspecified",2,3
+"Aquaculture,Municipal Irrigation,Other,Recreation,Reservoir Storage,Unspecified",2,6
+"Agriculture Irrigation,Commercial/Industrial,Domestic,Recreation,Snow",2,5
+"Agriculture Irrigation,Domestic,Livestock,Municipal Irrigation,Unspecified",2,5
+"Aquaculture,Fire,Livestock,Unspecified",2,4
+"Aquaculture,Municipal Irrigation,Unspecified",2,3
+"Hydroelectric,Public Supply,Reservoir Storage",2,3
+"Agriculture Irrigation,Aquaculture,Commercial/Industrial,Domestic,Fire,Other,Reservoir Storage,Unspecified",2,8
+"Agriculture Irrigation,Municipal Irrigation,Recreation,Unspecified",2,4
+"Agriculture Irrigation,Aquifer Recharge,Commercial/Industrial,Fire,Livestock,Other,Public Supply",2,7
+"Agriculture Irrigation,Public Supply,Recreation,Unspecified",2,4
+"Commercial/Industrial,Domestic,In-stream Flow",1,3
+"Aquaculture,Fire,In-stream Flow,Livestock,Recreation",1,5
+"Commercial/Industrial,Municipal Irrigation,Thermoelectric Cooling",1,3
+"Agriculture Irrigation,Mining,Public Supply",1,3
+"Aquifer Recharge,Municipal Irrigation",1,2
+"Agriculture Irrigation,Commercial/Industrial,Domestic,In-stream Flow,Livestock",1,5
+"Agriculture Irrigation,Domestic,Hydroelectric,Livestock,Municipal Irrigation",1,5
+"In-stream Flow,Livestock,Municipal Irrigation,Recreation",1,4
+"Hydroelectric,Municipal Irrigation",1,2
+"Agriculture Irrigation,Commercial/Industrial,Hydroelectric",1,3
+"Domestic,Fire,In-stream Flow",1,3
+"Domestic,Hydroelectric,Municipal Irrigation",1,3
+"Agriculture Irrigation,Commercial/Industrial,Fire,In-stream Flow,Municipal Irrigation",1,5
+"Aquaculture,Domestic,Municipal Irrigation,Recreation",1,4
+"Commercial/Industrial,Domestic,In-stream Flow,Other,Recreation",1,5
+"Agriculture Irrigation,Aquaculture,Commercial/Industrial,Other",1,4
+"Agriculture Irrigation,Domestic,Fire,Livestock,Mining,Other,Unspecified",1,7
+"Fire,In-stream Flow,Livestock,Mining,Recreation",1,5
+"Agriculture Irrigation,Aquaculture,Domestic,Municipal Irrigation",1,4
+"Aquifer Recharge,Mining",1,2
+"Mining,Municipal Irrigation,Other,Recreation",1,4
+"Agriculture Irrigation,Domestic,Livestock,Mining,Other,Unspecified",1,6
+"Agriculture Irrigation,Commercial/Industrial,Domestic,Treated Wastewater/Reuse",1,4
+"Aquaculture,Fire,In-stream Flow,Livestock,Other,Recreation",1,6
+"Agriculture Irrigation,Fire,Mining",1,3
+"Agriculture Irrigation,Domestic,Fire,Municipal Irrigation",1,4
+"Agriculture Irrigation,Livestock,Mining,Other,Public Supply",1,5
+"Agriculture Irrigation,Domestic,Fire,In-stream Flow,Livestock,Other",1,6
+"Agriculture Irrigation,Domestic,Fire,In-stream Flow,Livestock,Recreation",1,6
+"Domestic,Fire,Reservoir Storage",1,3
+"Agriculture Irrigation,Commercial/Industrial,Domestic,Fire,Livestock,Thermoelectric Cooling",1,6
+"Agriculture Irrigation,Fire,In-stream Flow,Municipal Irrigation",1,4
+"Commercial/Industrial,Fire,Mining,Other",1,4
+"Aquaculture,Commercial/Industrial,Domestic,Thermoelectric Cooling",1,4
+"Agriculture Irrigation,Fire,Reservoir Storage",1,3
+"Aquaculture,Fire,Municipal Irrigation",1,3
+"Domestic,Public Supply,Reservoir Storage",1,3
+"Agriculture Irrigation,Commercial/Industrial,Fire,Mining,Other",1,5
+"Agriculture Irrigation,Aquaculture,Livestock,Recreation,Reservoir Storage",1,5
+"Aquaculture,Fire,Reservoir Storage",1,3
+"Commercial/Industrial,Livestock,Municipal Irrigation,Recreation",1,4
+"Agriculture Irrigation,Domestic,Fire,Other,Thermoelectric Cooling",1,5
+"Agriculture Irrigation,In-stream Flow,Livestock,Municipal Irrigation,Other,Recreation",1,6
+"Fire,Livestock,Other,Recreation,Reservoir Storage",1,5
+"Agriculture Irrigation,Aquaculture,Other,Thermoelectric Cooling",1,4
+"Livestock,Other,Thermoelectric Cooling",1,3
+"Agriculture Irrigation,Livestock,Other,Recreation,Thermoelectric Cooling",1,5
+"Agriculture Irrigation,Commercial/Industrial,Livestock,Other,Thermoelectric Cooling",1,5
+"Agriculture Irrigation,Domestic,Other,Recreation,Thermoelectric Cooling",1,5
+"Commercial/Industrial,In-stream Flow,Municipal Irrigation",1,3
+"Agriculture Irrigation,Aquifer Recharge,Municipal Irrigation",1,3
+"Aquaculture,Domestic,Fire,Unspecified",1,4
+"Domestic,Livestock,Municipal Irrigation,Other,Recreation",1,5
+"Agriculture Irrigation,Aquaculture,In-stream Flow,Livestock,Other,Recreation",1,6
+"Municipal Irrigation,Recreation,Reservoir Storage",1,3
+"Aquaculture,Municipal Irrigation,Other",1,3
+"Agriculture Irrigation,Domestic,Fire,In-stream Flow,Recreation",1,5
+"Agriculture Irrigation,In-stream Flow,Reservoir Storage",1,3
+"Commercial/Industrial,Domestic,Livestock,Thermoelectric Cooling",1,4
+"Agriculture Irrigation,Domestic,In-stream Flow,Public Supply",1,4
+"Agriculture Irrigation,Aquaculture,Domestic,Livestock,Mining",1,5
+"Commercial/Industrial,Fire,Other,Thermoelectric Cooling",1,4
+"Aquaculture,Commercial/Industrial,Fire,Livestock,Other,Unspecified",1,6
+"Domestic,Livestock,Other,Thermoelectric Cooling",1,4
+"Agriculture Irrigation,Domestic,Livestock,Recreation,Thermoelectric Cooling",1,5
+"Domestic,In-stream Flow,Thermoelectric Cooling",1,3
+"Domestic,Other,Public Supply,Unspecified",1,4
+"Agriculture Irrigation,Domestic,Other,Public Supply,Thermoelectric Cooling",1,5
+"Agriculture Irrigation,Mining,Other,Unspecified",1,4
+"Aquaculture,Domestic,Livestock,Recreation,Unspecified",1,5
+"Agriculture Irrigation,Commercial/Industrial,Domestic,Recreation,Reservoir Storage",1,5
+"Aquaculture,In-stream Flow,Livestock,Other,Unspecified",1,5
+"Agriculture Irrigation,Domestic,Livestock,Other,Recreation,Thermoelectric Cooling",1,6
+"Mining,Public Supply,Unspecified",1,3
+"Fire,In-stream Flow,Unspecified",1,3
+"Domestic,Livestock,Municipal Irrigation,Recreation,Unspecified",1,5
+"Commercial/Industrial,Fire,In-stream Flow,Other",1,4
+"Domestic,Fire,Livestock,Recreation,Reservoir Storage,Unspecified",1,6
+"Fire,In-stream Flow,Other,Reservoir Storage,Unspecified",1,5
+"Domestic,In-stream Flow,Municipal Irrigation,Recreation",1,4
+"Commercial/Industrial,Fire,Municipal Irrigation",1,3
+"Commercial/Industrial,Mining,Recreation",1,3
+"In-stream Flow,Recreation,Reservoir Storage,Unspecified",1,4
+"Domestic,Municipal Irrigation,Unspecified",1,3
+"Aquifer Recharge,Commercial/Industrial,Public Supply",1,3
+"Fire,Other,Recreation,Reservoir Storage,Unspecified",1,5
+"Aquaculture,Livestock,Other,Reservoir Storage,Unspecified",1,5
+"Aquaculture,In-stream Flow,Other,Recreation,Unspecified",1,5
+"Fire,Livestock,Reservoir Storage,Unspecified",1,4
+"Municipal Irrigation,Other,Reservoir Storage,Unspecified",1,4
+"Fire,Livestock,Municipal Irrigation",1,3
+"Fire,Municipal Irrigation,Other,Recreation,Unspecified",1,5
+"In-stream Flow,Other,Reservoir Storage",1,3
+"Agriculture Irrigation,Domestic,Thermoelectric Cooling,Unspecified",1,4
+"Aquaculture,Municipal Irrigation,Recreation,Unspecified",1,4
+"Agriculture Irrigation,Commercial/Industrial,Domestic,Thermoelectric Cooling,Unspecified",1,5
+"In-stream Flow,Reservoir Storage,Unspecified",1,3
+"Commercial/Industrial,Fire,Reservoir Storage,Unspecified",1,4
+"Domestic,Fire,Other,Reservoir Storage,Unspecified",1,5
+"In-stream Flow,Municipal Irrigation,Unspecified",1,3
+"Domestic,Livestock,Reservoir Storage,Unspecified",1,4
+"Aquaculture,Fire,In-stream Flow,Reservoir Storage,Unspecified",1,5
+"Domestic,In-stream Flow,Livestock,Municipal Irrigation,Recreation",1,5
+"Domestic,Fire,In-stream Flow,Recreation,Unspecified",1,5
+"Agriculture Irrigation,Domestic,Municipal Irrigation,Recreation,Unspecified",1,5
+"Livestock,Municipal Irrigation,Other,Recreation,Unspecified",1,5
+"Agriculture Irrigation,Aquifer Recharge,In-stream Flow,Other",1,4
+"Fire,In-stream Flow,Municipal Irrigation,Unspecified",1,4
+"Municipal Irrigation,Other,Recreation,Unspecified",1,4
+"Livestock,Other,Recreation,Reservoir Storage,Unspecified",1,5
+"Aquaculture,Domestic,Thermoelectric Cooling,Unspecified",1,4
+"Fire,Livestock,Other,Recreation,Unspecified",1,5
+"In-stream Flow,Thermoelectric Cooling",1,2
+"Agriculture Irrigation,Commercial/Industrial,Mining,Other,Reservoir Storage",1,5
+"In-stream Flow,Municipal Irrigation,Other",1,3
+"Agriculture Irrigation,Commercial/Industrial,Domestic,Other,Public Supply,Reservoir Storage",1,6
+"Agriculture Irrigation,Commercial/Industrial,Domestic,Mining,Public Supply",1,5
+"Commercial/Industrial,Domestic,Mining,Other,Recreation",1,5
+"Agriculture Irrigation,Aquifer Recharge,Livestock,Mining",1,4
+"Commercial/Industrial,Mining,Recreation,Reservoir Storage",1,4
+"Fire,Municipal Irrigation,Other",1,3
+"Agriculture Irrigation,Domestic,Livestock,Municipal Irrigation,Recreation",1,5
+"Agriculture Irrigation,Aquifer Recharge,Mining",1,3
+"Agriculture Irrigation,Aquifer Recharge,Commercial/Industrial,Domestic,Hydroelectric,Mining,Other,Recreation",1,8
+"Agriculture Irrigation,Fire,Livestock,Public Supply",1,4
+"Domestic,In-stream Flow,Livestock,Recreation",1,4
+"Hydroelectric,Other,Recreation",1,3
+"Agriculture Irrigation,Domestic,Fire,Livestock,Recreation,Thermoelectric Cooling",1,6
+"Commercial/Industrial,Hydroelectric,Other",1,3
+"Commercial/Industrial,Domestic,In-stream Flow,Other",1,4
+"Agriculture Irrigation,Commercial/Industrial,Domestic,Hydroelectric,In-stream Flow,Mining,Other,Recreation",1,8
+"Agriculture Irrigation,Commercial/Industrial,Livestock,Recreation,Reservoir Storage",1,5
+"Commercial/Industrial,Domestic,Mining,Public Supply,Recreation",1,5
+"Agriculture Irrigation,Aquaculture,Commercial/Industrial,Domestic,Hydroelectric,Mining,Other,Public Supply,Recreation",1,9
+"Commercial/Industrial,Domestic,Other,Recreation,Treated Wastewater/Reuse",1,5
+"Aquaculture,Commercial/Industrial,Other",1,3
+"Commercial/Industrial,Mining,Unspecified",1,3
+"Agriculture Irrigation,Aquifer Recharge,In-stream Flow",1,3
+"Agriculture Irrigation,Commercial/Industrial,Mining,Other,Public Supply",1,5
+"Agriculture Irrigation,Commercial/Industrial,Domestic,Hydroelectric,Mining,Municipal Irrigation,Other,Recreation",1,8
+"Domestic,Municipal Irrigation,Recreation,Unspecified",1,4
+"Commercial/Industrial,Recreation,Reservoir Storage",1,3
+"Agriculture Irrigation,Commercial/Industrial,In-stream Flow,Municipal Irrigation,Other,Recreation",1,6
+"Commercial/Industrial,Livestock,Mining,Recreation",1,4
+"Fire,In-stream Flow,Livestock",1,3
+"Commercial/Industrial,Fire,Livestock,Other",1,4
+"Domestic,Fire,Hydroelectric",1,3
+"Agriculture Irrigation,In-stream Flow,Public Supply",1,3
+"Commercial/Industrial,Domestic,Reservoir Storage",1,3
+"Aquaculture,Domestic,Fire,Livestock,Municipal Irrigation",1,5
+"Domestic,In-stream Flow,Livestock,Other",1,4
+"Commercial/Industrial,Municipal Irrigation,Recreation,Thermoelectric Cooling",1,4
+"Agriculture Irrigation,Commercial/Industrial,Domestic,Hydroelectric,In-stream Flow,Recreation",1,6
+"Agriculture Irrigation,Commercial/Industrial,Domestic,Hydroelectric,In-stream Flow,Mining",1,6
+"Agriculture Irrigation,Aquaculture,Fire,Other,Public Supply,Recreation,Reservoir Storage",1,7
+"Domestic,Hydroelectric,Unspecified",1,3
+"Agriculture Irrigation,In-stream Flow,Livestock,Recreation,Reservoir Storage",1,5
+"Agriculture Irrigation,Domestic,Livestock,Snow",1,4
+"Other,Snow",1,2
+"Aquaculture,Commercial/Industrial,Domestic,Fire,Livestock,Unspecified",1,6
+"Agriculture Irrigation,Domestic,Fire,Hydroelectric,Other,Public Supply,Reservoir Storage",1,7
+"Aquaculture,Domestic,Fire,Livestock,Unspecified",1,5
+"Commercial/Industrial,Other,Recreation,Thermoelectric Cooling",1,4
+"Agriculture Irrigation,Commercial/Industrial,Livestock,Recreation,Unspecified",1,5
+"Agriculture Irrigation,Commercial/Industrial,Domestic,Fire,Livestock,Other,Public Supply",1,7
+"Aquaculture,Commercial/Industrial,Domestic,Fire",1,4
+"Agriculture Irrigation,Livestock,Public Supply,Recreation,Unspecified",1,5
+"Agriculture Irrigation,Aquaculture,Commercial/Industrial,Domestic,Other,Reservoir Storage",1,6
+"Agriculture Irrigation,Commercial/Industrial,Hydroelectric,Other",1,4
+"Agriculture Irrigation,Aquaculture,Commercial/Industrial,Domestic,Fire,Public Supply,Recreation,Reservoir Storage,Snow",1,9
+"Agriculture Irrigation,Commercial/Industrial,Domestic,Fire,Public Supply,Reservoir Storage,Snow",1,7
+"Agriculture Irrigation,Aquifer Recharge,Commercial/Industrial,Domestic,Fire,Livestock,Other,Public Supply,Recreation",1,9
+"Agriculture Irrigation,Commercial/Industrial,Domestic,Fire,Livestock,Public Supply,Recreation,Reservoir Storage,Unspecified",1,9
+"Agriculture Irrigation,Aquaculture,Commercial/Industrial,Fire,Hydroelectric,Other,Public Supply,Recreation",1,8
+"Agriculture Irrigation,Aquaculture,Commercial/Industrial,Domestic,Hydroelectric,Other,Public Supply,Recreation",1,8
+"Agriculture Irrigation,Aquaculture,Commercial/Industrial,Domestic,Hydroelectric,Recreation,Reservoir Storage",1,7
+"Aquaculture,Commercial/Industrial,Domestic,Fire,Livestock,Public Supply",1,6
+"Agriculture Irrigation,Aquaculture,Domestic,Fire,Livestock,Public Supply",1,6
+"Commercial/Industrial,Domestic,Public Supply,Recreation,Snow",1,5
+"Commercial/Industrial,Domestic,Fire,Hydroelectric,Livestock,Other",1,6
+"Agriculture Irrigation,Aquaculture,Livestock,Public Supply,Recreation",1,5
+"Aquaculture,In-stream Flow,Livestock,Recreation",1,4
+"Livestock,Other,Public Supply,Unspecified",1,4
+"Commercial/Industrial,Fire,Livestock,Public Supply",1,4
+"Agriculture Irrigation,Aquaculture,Fire,Livestock,Public Supply,Recreation",1,6
+"Aquaculture,Domestic,Livestock,Public Supply,Recreation",1,5
+"Agriculture Irrigation,Aquaculture,Commercial/Industrial,Domestic,Fire,Hydroelectric,Public Supply,Recreation",1,8
+"Aquaculture,Domestic,Fire,Livestock,Public Supply,Recreation",1,6
+"Agriculture Irrigation,Aquifer Recharge,Commercial/Industrial,Domestic,Fire,Public Supply",1,6
+"Agriculture Irrigation,Aquaculture,Aquifer Recharge,Commercial/Industrial,Domestic,Fire,Public Supply,Recreation,Unspecified",1,9
+"Domestic,Livestock,Other,Recreation,Reservoir Storage",1,5
+"Aquaculture,Commercial/Industrial,Fire,Public Supply,Recreation",1,5
+"Agriculture Irrigation,Aquaculture,Domestic,Fire,Public Supply",1,5
+"Agriculture Irrigation,Aquaculture,Commercial/Industrial,Domestic,Fire,Livestock,Public Supply",1,7
+"Agriculture Irrigation,Other,Public Supply,Recreation,Reservoir Storage,Unspecified",1,6
+"Agriculture Irrigation,Commercial/Industrial,Public Supply,Snow",1,4
+"Agriculture Irrigation,Commercial/Industrial,Domestic,Livestock,Other,Public Supply,Unspecified",1,7
+"Domestic,Fire,Other,Recreation,Reservoir Storage",1,5
+"Commercial/Industrial,Domestic,Snow,Unspecified",1,4
+"Agriculture Irrigation,Commercial/Industrial,Hydroelectric,Public Supply,Reservoir Storage,Unspecified",1,6
+"Agriculture Irrigation,Aquaculture,Domestic,Fire,Other,Public Supply,Recreation",1,7
+"Aquifer Recharge,Other,Public Supply",1,3
+"Aquifer Recharge,Snow,Unspecified",1,3
+"Agriculture Irrigation,Domestic,Hydroelectric,Livestock,Public Supply,Recreation",1,6
+"Commercial/Industrial,Domestic,Fire,Other,Public Supply,Unspecified",1,6
+"Domestic,Hydroelectric,Livestock",1,3
+"Commercial/Industrial,Public Supply,Recreation,Snow,Unspecified",1,5
+"Domestic,Public Supply,Thermoelectric Cooling",1,3
+"Agriculture Irrigation,Aquifer Recharge,Commercial/Industrial,Domestic,Livestock,Other,Public Supply,Recreation,Unspecified",1,9
+"Agriculture Irrigation,Commercial/Industrial,Domestic,Hydroelectric,Public Supply,Recreation,Reservoir Storage",1,7
+"Agriculture Irrigation,Commercial/Industrial,Livestock,Public Supply,Snow,Unspecified",1,6
+"Agriculture Irrigation,Commercial/Industrial,Other,Public Supply,Recreation,Snow,Unspecified",1,7
+"Agriculture Irrigation,Aquaculture,Commercial/Industrial,Domestic,Fire,Livestock,Public Supply,Recreation,Snow,Unspecified",1,10
+"Agriculture Irrigation,Aquaculture,Commercial/Industrial,Domestic,Fire,Livestock,Other,Public Supply,Recreation,Snow",1,10
+"Agriculture Irrigation,Other,Public Supply,Recreation,Unspecified",1,5
+"Agriculture Irrigation,Aquaculture,Domestic,Livestock,Public Supply",1,5
+"Commercial/Industrial,Snow",1,2
+"Agriculture Irrigation,Aquaculture,Commercial/Industrial,Other,Public Supply",1,5
+"Agriculture Irrigation,Aquaculture,Commercial/Industrial,Domestic,In-stream Flow,Other,Public Supply,Snow",1,8
+"Agriculture Irrigation,Aquaculture,Commercial/Industrial,Fire,Public Supply,Recreation",1,6
+"Agriculture Irrigation,Aquaculture,Other,Recreation,Snow",1,5
+"Agriculture Irrigation,Domestic,Fire,Livestock,Public Supply,Recreation",1,6
+"Agriculture Irrigation,Domestic,Hydroelectric,Livestock,Public Supply",1,5
+"Aquaculture,Hydroelectric,Recreation",1,3
+"Agriculture Irrigation,Aquifer Recharge,Snow",1,3
+"Public Supply,Recreation,Unspecified",1,3
+"Commercial/Industrial,Public Supply,Snow",1,3
+"Commercial/Industrial,Hydroelectric,Public Supply",1,3
+"Fire,Snow",1,2
+"Public Supply,Snow,Unspecified",1,3
+"Domestic,Hydroelectric,Other,Reservoir Storage",1,4
+"Agriculture Irrigation,Commercial/Industrial,Hydroelectric,In-stream Flow,Public Supply,Recreation,Unspecified",1,7
+"Agriculture Irrigation,Aquaculture,Other,Public Supply",1,4
+"Commercial/Industrial,Public Supply,Snow,Unspecified",1,4
+"Commercial/Industrial,Other,Public Supply,Recreation",1,4
+"Commercial/Industrial,Domestic,Hydroelectric,Public Supply,Unspecified",1,5
+"Agriculture Irrigation,Aquifer Recharge,Commercial/Industrial,Domestic,Fire,Hydroelectric,Other,Recreation,Unspecified",1,9
+"Agriculture Irrigation,Hydroelectric,Public Supply",1,3
+"Agriculture Irrigation,Domestic,Hydroelectric,Public Supply,Recreation",1,5
+"Agriculture Irrigation,Commercial/Industrial,Domestic,Fire,Hydroelectric,Reservoir Storage,Unspecified",1,7
+"Agriculture Irrigation,Aquifer Recharge,Domestic,In-stream Flow,Unspecified",1,5
+"Agriculture Irrigation,Domestic,Fire,Hydroelectric,Other",1,5
+"Agriculture Irrigation,Aquaculture,Hydroelectric,Livestock,Recreation",1,5
+"Agriculture Irrigation,Aquaculture,Hydroelectric,Livestock,Other,Recreation",1,6
+"Agriculture Irrigation,Commercial/Industrial,Domestic,Fire,In-stream Flow,Public Supply,Recreation",1,7
+"Aquaculture,Domestic,Livestock,Public Supply,Unspecified",1,5
+"Domestic,In-stream Flow,Public Supply,Recreation",1,4
+"Agriculture Irrigation,Aquaculture,Domestic,Livestock,Public Supply,Unspecified",1,6
+"Commercial/Industrial,Fire,Other,Recreation,Thermoelectric Cooling",1,5
+"Aquaculture,Domestic,Reservoir Storage,Thermoelectric Cooling",1,4
+"Agriculture Irrigation,Aquaculture,Commercial/Industrial,Domestic,Fire,Livestock,Public Supply,Recreation,Reservoir Storage,Unspecified",1,10
+"Agriculture Irrigation,Commercial/Industrial,Domestic,Fire,Hydroelectric,Other,Public Supply,Reservoir Storage,Unspecified",1,9
+"Agriculture Irrigation,Commercial/Industrial,Domestic,Fire,Hydroelectric,Public Supply,Unspecified",1,7
+"Agriculture Irrigation,Domestic,Hydroelectric,Public Supply,Unspecified",1,5
+"Agriculture Irrigation,Aquaculture,Aquifer Recharge,Commercial/Industrial,Domestic,Livestock,Other,Recreation,Reservoir Storage,Unspecified",1,10
+"Agriculture Irrigation,Livestock,Snow",1,3
+"Agriculture Irrigation,Aquifer Recharge,Domestic,Other,Reservoir Storage,Unspecified",1,6
+"Agriculture Irrigation,Commercial/Industrial,Mining,Unspecified",1,4
+"Livestock,Public Supply,Recreation,Unspecified",1,4
+"Agriculture Irrigation,Livestock,Other,Public Supply,Recreation",1,5
+"Agriculture Irrigation,Commercial/Industrial,Livestock,Public Supply,Recreation",1,5
+"Agriculture Irrigation,Commercial/Industrial,Domestic,Livestock,Mining",1,5
+"Agriculture Irrigation,Domestic,Livestock,Mining,Public Supply",1,5
+"Agriculture Irrigation,Domestic,Mining,Public Supply,Unspecified",1,5
+"Agriculture Irrigation,Commercial/Industrial,Domestic,Mining,Unspecified",1,5
+"Agriculture Irrigation,Commercial/Industrial,Domestic,In-stream Flow,Other,Public Supply,Unspecified",1,7
+"Commercial/Industrial,Fire,Hydroelectric",1,3
+"Agriculture Irrigation,Aquaculture,Fire,Other,Recreation,Reservoir Storage,Unspecified",1,7
+"Agriculture Irrigation,Domestic,Hydroelectric,Other,Public Supply",1,5
+"Agriculture Irrigation,Aquaculture,Fire,Hydroelectric,Livestock,Other,Recreation,Reservoir Storage,Unspecified",1,9
+"Agriculture Irrigation,Commercial/Industrial,Other,Recreation,Unspecified",1,5
+"Agriculture Irrigation,Aquifer Recharge,Commercial/Industrial",1,3
+"Agriculture Irrigation,Aquaculture,Commercial/Industrial,Domestic,Livestock,Other",1,6
+"Agriculture Irrigation,Aquifer Recharge,Commercial/Industrial,Domestic,Fire,Public Supply,Unspecified",1,7
+"Agriculture Irrigation,Commercial/Industrial,Domestic,Fire,Other,Public Supply,Reservoir Storage",1,7
+"Agriculture Irrigation,Aquifer Recharge,Livestock,Recreation,Unspecified",1,5
+"Agriculture Irrigation,Commercial/Industrial,Domestic,Fire,Hydroelectric,Other,Recreation,Unspecified",1,8
+"Agriculture Irrigation,Aquaculture,Domestic,Fire,Hydroelectric,Livestock,Other,Public Supply,Recreation,Unspecified",1,10
+"Agriculture Irrigation,Commercial/Industrial,Domestic,Hydroelectric,Other,Public Supply,Recreation,Unspecified",1,8
+"Agriculture Irrigation,Domestic,Fire,Livestock,Other,Recreation,Unspecified",1,7
+"Agriculture Irrigation,Commercial/Industrial,Domestic,Fire,Hydroelectric,Livestock,Reservoir Storage,Unspecified",1,8
+"Agriculture Irrigation,Commercial/Industrial,Fire,Hydroelectric,Livestock,Reservoir Storage,Unspecified",1,7
+"Agriculture Irrigation,Aquaculture,Domestic,Livestock,Other,Public Supply",1,6
+"Domestic,Public Supply,Recreation,Snow,Unspecified",1,5
+"Domestic,Public Supply,Recreation,Snow",1,4
+"Aquaculture,Hydroelectric,Recreation,Reservoir Storage",1,4
+"Agriculture Irrigation,Aquaculture,Commercial/Industrial,Domestic,Hydroelectric,Other,Public Supply",1,7
+"Agriculture Irrigation,Aquaculture,Commercial/Industrial,Domestic,Livestock,Public Supply,Unspecified",1,7
+"Domestic,In-stream Flow,Public Supply",1,3
+"Agriculture Irrigation,Aquaculture,Aquifer Recharge,Domestic,Livestock,Other",1,6
+"Agriculture Irrigation,Commercial/Industrial,Domestic,Hydroelectric,Livestock,Other,Public Supply,Reservoir Storage",1,8
+"Agriculture Irrigation,Aquaculture,Commercial/Industrial,Domestic,Hydroelectric,Other,Recreation,Unspecified",1,8
+"Agriculture Irrigation,Aquifer Recharge,Commercial/Industrial,Domestic,In-stream Flow,Public Supply,Reservoir Storage,Unspecified",1,8
+"Commercial/Industrial,Domestic,Hydroelectric,Livestock,Other,Unspecified",1,6
+"Commercial/Industrial,Domestic,Hydroelectric,Livestock,Other",1,5
+"Agriculture Irrigation,Domestic,Public Supply,Snow",1,4
+"Commercial/Industrial,Domestic,Fire,Public Supply,Snow",1,5
+"Aquaculture,Domestic,Hydroelectric,Recreation",1,4
+"Domestic,Fire,Hydroelectric,Public Supply",1,4
+"Commercial/Industrial,Domestic,Fire,Other,Public Supply,Recreation",1,6
+"Agriculture Irrigation,Aquaculture,Public Supply",1,3
+"Agriculture Irrigation,Commercial/Industrial,Livestock,Other,Public Supply",1,5
+"Agriculture Irrigation,Commercial/Industrial,Fire,Reservoir Storage,Unspecified",1,5
+"Fire,Public Supply,Recreation",1,3
+"Agriculture Irrigation,Aquaculture,Commercial/Industrial,Domestic,Livestock,Other,Public Supply",1,7
+"Aquaculture,Commercial/Industrial,Fire",1,3
+"Agriculture Irrigation,Commercial/Industrial,Domestic,Livestock,Public Supply,Snow",1,6
+"Agriculture Irrigation,Aquaculture,Livestock,Reservoir Storage,Unspecified",1,5
+"Agriculture Irrigation,Commercial/Industrial,Domestic,Fire,Hydroelectric,Other",1,6
+"Agriculture Irrigation,Aquaculture,Other,Reservoir Storage,Unspecified",1,5
+"Aquaculture,Domestic,Fire,Public Supply,Recreation",1,5
+"Agriculture Irrigation,Aquaculture,Hydroelectric",1,3
+"Agriculture Irrigation,Aquaculture,Domestic,Other,Recreation,Reservoir Storage",1,6
+"Aquaculture,Domestic,Public Supply,Recreation",1,4
+"Agriculture Irrigation,Commercial/Industrial,Domestic,Hydroelectric,Other",1,5
+"Agriculture Irrigation,Commercial/Industrial,Domestic,Fire,Livestock,Other,Recreation,Snow",1,8
+"Agriculture Irrigation,Commercial/Industrial,Fire,Livestock,Other,Recreation,Snow",1,7
+"Aquaculture,Fire,Public Supply,Unspecified",1,4
+"Agriculture Irrigation,Aquaculture,Commercial/Industrial,Domestic,Livestock,Other,Public Supply,Recreation,Reservoir Storage,Thermoelectric Cooling",1,10
+"Agriculture Irrigation,Aquaculture,Commercial/Industrial,Fire,Livestock,Other,Recreation,Reservoir Storage",1,8
+"Agriculture Irrigation,Aquaculture,Hydroelectric,Public Supply",1,4
+"Agriculture Irrigation,Aquaculture,Fire,Recreation,Snow,Unspecified",1,6
+"Agriculture Irrigation,Fire,Other,Recreation,Thermoelectric Cooling",1,5
+"Agriculture Irrigation,Fire,Thermoelectric Cooling,Unspecified",1,4
+"Agriculture Irrigation,Aquaculture,Commercial/Industrial,Fire,Other,Recreation,Reservoir Storage",1,7
+"Agriculture Irrigation,Aquaculture,Commercial/Industrial,Public Supply,Thermoelectric Cooling",1,5
+"Agriculture Irrigation,Livestock,Other,Recreation,Unspecified",1,5
+"Aquaculture,Commercial/Industrial,Domestic,Livestock,Recreation,Reservoir Storage,Unspecified",1,7
+"Agriculture Irrigation,Commercial/Industrial,Domestic,Fire,Livestock,Public Supply,Snow",1,7
+"Agriculture Irrigation,Aquaculture,Aquifer Recharge,Commercial/Industrial,Fire,Hydroelectric,Public Supply,Recreation,Reservoir Storage,Unspecified",1,10
+"Agriculture Irrigation,Hydroelectric,Livestock,Other,Recreation",1,5
+"Commercial/Industrial,In-stream Flow,Unspecified",1,3
+"Agriculture Irrigation,Aquaculture,Aquifer Recharge,Commercial/Industrial,Domestic,Fire,In-stream Flow,Livestock,Public Supply,Recreation,Reservoir Storage,Unspecified",1,12
+"Agriculture Irrigation,Fire,Other,Public Supply,Recreation",1,5
+"Agriculture Irrigation,Aquaculture,Commercial/Industrial,Fire,Livestock,Other,Unspecified",1,7
+"Agriculture Irrigation,Domestic,Hydroelectric,Livestock,Other",1,5
+"Aquaculture,Aquifer Recharge,Fire,Other,Recreation,Reservoir Storage,Unspecified",1,7
+"Agriculture Irrigation,Aquaculture,Commercial/Industrial,Fire,Hydroelectric,Livestock,Recreation",1,7
+"Agriculture Irrigation,Fire,Other,Recreation,Snow,Unspecified",1,6
+"Agriculture Irrigation,Aquaculture,Fire,Hydroelectric,Recreation",1,5
+"Agriculture Irrigation,Aquaculture,Commercial/Industrial,Domestic,Fire,Livestock,Other,Public Supply,Recreation,Snow,Unspecified",1,11
+"Agriculture Irrigation,Aquaculture,Commercial/Industrial,Domestic,Fire,Recreation,Snow",1,7
+"Agriculture Irrigation,Aquaculture,Fire,Other,Recreation,Snow,Unspecified",1,7
+"Agriculture Irrigation,Aquaculture,Commercial/Industrial,Domestic,Fire,Other,Reservoir Storage",1,7
+"Agriculture Irrigation,Aquaculture,Aquifer Recharge,Commercial/Industrial,Domestic,Fire,Hydroelectric,Livestock,Other,Public Supply,Recreation,Reservoir Storage,Snow,Thermoelectric Cooling,Unspecified",1,15
+"Agriculture Irrigation,Fire,Livestock,Other,Reservoir Storage,Unspecified",1,6
+"Commercial/Industrial,Public Supply,Recreation,Reservoir Storage,Snow",1,5
+"Aquaculture,Domestic,Fire,Other",1,4
+"Agriculture Irrigation,Aquaculture,Aquifer Recharge,Commercial/Industrial,Domestic,Fire,In-stream Flow,Livestock,Public Supply,Recreation,Unspecified",1,11
+"Aquaculture,Fire,Recreation,Snow",1,4
+"Aquaculture,Fire,Recreation,Reservoir Storage,Snow",1,5
+"Agriculture Irrigation,Commercial/Industrial,Fire,Livestock,Unspecified",1,5
+"Aquaculture,Fire,Other,Thermoelectric Cooling,Unspecified",1,5
+"Aquaculture,Domestic,Livestock,Other,Reservoir Storage",1,5
+"Aquaculture,Domestic,Hydroelectric,Livestock,Reservoir Storage",1,5
+"Agriculture Irrigation,Aquaculture,Commercial/Industrial,Fire,Unspecified",1,5
+"Commercial/Industrial,Fire,Snow",1,3
+"Agriculture Irrigation,In-stream Flow,Livestock,Other,Recreation",1,5
+"Agriculture Irrigation,Livestock,Municipal Irrigation,Public Supply",1,4
+"Agriculture Irrigation,Livestock,Recreation,Reservoir Storage",1,4
+"Agriculture Irrigation,Aquaculture,Commercial/Industrial,Domestic,In-stream Flow,Livestock,Reservoir Storage,Thermoelectric Cooling",1,8
+"Agriculture Irrigation,Aquaculture,Thermoelectric Cooling",1,3
+"Agriculture Irrigation,Fire,Livestock,Municipal Irrigation,Recreation",1,5
+"Agriculture Irrigation,Municipal Irrigation,Thermoelectric Cooling",1,3
+"Agriculture Irrigation,In-stream Flow,Municipal Irrigation,Other",1,4
+"Agriculture Irrigation,Livestock,Municipal Irrigation,Other,Recreation",1,5
+"Agriculture Irrigation,Fire,Municipal Irrigation,Recreation,Reservoir Storage",1,5
+"Agriculture Irrigation,Aquaculture,Commercial/Industrial,Domestic,Municipal Irrigation,Recreation,Thermoelectric Cooling",1,7
+"Agriculture Irrigation,Fire,Municipal Irrigation,Other,Recreation",1,5
+"Aquaculture,Municipal Irrigation,Other,Recreation",1,4
+"Agriculture Irrigation,Domestic,Other,Reservoir Storage,Thermoelectric Cooling",1,5
+"Agriculture Irrigation,Domestic,Fire,Municipal Irrigation,Other,Recreation,Thermoelectric Cooling",1,7
+"Agriculture Irrigation,Domestic,Fire,In-stream Flow,Reservoir Storage",1,5
+"Fire,Recreation,Reservoir Storage",1,3
+"Agriculture Irrigation,In-stream Flow,Municipal Irrigation,Reservoir Storage",1,4
+"Agriculture Irrigation,Aquaculture,Domestic,Livestock,Recreation,Reservoir Storage",1,6
+"Aquaculture,Fire,Hydroelectric,Recreation,Reservoir Storage",1,5
+"Agriculture Irrigation,Aquaculture,Commercial/Industrial,Domestic,Other,Recreation,Reservoir Storage,Unspecified",1,8
+"Domestic,Fire,Reservoir Storage,Unspecified",1,4
+"Aquaculture,Commercial/Industrial,Public Supply",1,3
+"Aquaculture,Domestic,Fire,Other,Reservoir Storage",1,5
+"Agriculture Irrigation,Commercial/Industrial,Livestock,Other,Recreation,Unspecified",1,6
+"In-stream Flow,Reservoir Storage",1,2
+"Agriculture Irrigation,Domestic,In-stream Flow,Reservoir Storage",1,4
+"Agriculture Irrigation,Commercial/Industrial,Fire,Public Supply,Recreation",1,5
+"Agriculture Irrigation,Aquifer Recharge,Commercial/Industrial,Domestic,Public Supply,Reservoir Storage",1,6
+"Agriculture Irrigation,Commercial/Industrial,Fire,Municipal Irrigation",1,4
+"Agriculture Irrigation,Commercial/Industrial,Domestic,Hydroelectric,Livestock,Public Supply,Recreation,Reservoir Storage",1,8
+"Commercial/Industrial,Other,Reservoir Storage",1,3
+"Agriculture Irrigation,Aquaculture,Domestic,Livestock,Municipal Irrigation,Unspecified",1,6
+"Agriculture Irrigation,Recreation,Reservoir Storage",1,3
+"Agriculture Irrigation,In-stream Flow,Municipal Irrigation,Recreation,Reservoir Storage",1,5
+"Domestic,Fire,Municipal Irrigation,Reservoir Storage",1,4
+"Agriculture Irrigation,In-stream Flow,Livestock,Reservoir Storage",1,4
+"Commercial/Industrial,Fire,Other,Recreation",1,4
+"Agriculture Irrigation,Fire,Hydroelectric,Livestock,Recreation",1,5
+"Agriculture Irrigation,Aquaculture,Commercial/Industrial,Domestic,Fire,Public Supply",1,6
+"Agriculture Irrigation,Aquaculture,Commercial/Industrial,Domestic,Fire,Livestock,Recreation,Snow,Unspecified",1,9
+"Agriculture Irrigation,Aquaculture,Aquifer Recharge,Domestic,Fire,Livestock",1,6
+"Agriculture Irrigation,Commercial/Industrial,Domestic,Livestock,Other,Snow,Unspecified",1,7
+"Commercial/Industrial,Domestic,Livestock,Other,Snow,Unspecified",1,6
+"Agriculture Irrigation,Aquaculture,Commercial/Industrial,Other,Public Supply,Recreation,Snow,Unspecified",1,8
+"Agriculture Irrigation,Aquaculture,Commercial/Industrial,Domestic,Other,Recreation,Snow,Unspecified",1,8
+"Commercial/Industrial,Domestic,Other,Recreation,Snow,Unspecified",1,6
+"Aquaculture,Commercial/Industrial,Livestock,Other,Recreation",1,5
+"Agriculture Irrigation,Commercial/Industrial,Livestock,Other,Recreation",1,5
+"Commercial/Industrial,Domestic,Fire,Livestock,Public Supply,Recreation,Reservoir Storage",1,7
+"Aquaculture,Hydroelectric,Livestock",1,3
+"Public Supply,Snow",1,2
+"Agriculture Irrigation,Aquaculture,Fire,Livestock,Other,Reservoir Storage,Unspecified",1,7
+"Agriculture Irrigation,Commercial/Industrial,Fire,Other,Recreation,Reservoir Storage",1,6
+"Agriculture Irrigation,Aquaculture,Domestic,Other,Recreation,Snow",1,6
+"Agriculture Irrigation,Aquaculture,Commercial/Industrial,Fire,Hydroelectric,Livestock,Other,Public Supply,Recreation",1,9
+"Agriculture Irrigation,Aquaculture,Commercial/Industrial,Domestic,Livestock,Unspecified",1,6
+"Agriculture Irrigation,Aquaculture,Aquifer Recharge,Commercial/Industrial,Domestic,Fire,Hydroelectric,Livestock,Recreation,Unspecified",1,10
+"Agriculture Irrigation,Commercial/Industrial,Other,Public Supply,Recreation,Unspecified",1,6
+"Agriculture Irrigation,Domestic,Fire,Other,Recreation,Unspecified",1,6
+"Agriculture Irrigation,Aquaculture,Commercial/Industrial,Livestock,Public Supply,Recreation,Unspecified",1,7
+"Agriculture Irrigation,Commercial/Industrial,Fire,Public Supply,Recreation,Snow",1,6
+"Agriculture Irrigation,Commercial/Industrial,Domestic,Fire,Hydroelectric,Public Supply,Recreation,Unspecified",1,8
+"Reservoir Storage,Snow",1,2
+"Agriculture Irrigation,Aquifer Recharge,Commercial/Industrial,Domestic,Public Supply,Unspecified",1,6
+"Agriculture Irrigation,Aquaculture,Commercial/Industrial,Livestock,Other,Recreation,Unspecified",1,7
+"Agriculture Irrigation,Aquaculture,Commercial/Industrial,In-stream Flow,Public Supply,Recreation,Unspecified",1,7
+"Agriculture Irrigation,Aquaculture,Aquifer Recharge,Livestock,Other,Recreation,Reservoir Storage",1,7
+"Agriculture Irrigation,Aquaculture,Fire,Hydroelectric,Livestock,Recreation",1,6
+"Aquaculture,Commercial/Industrial,Domestic,Livestock,Recreation,Unspecified",1,6
+"Aquaculture,Commercial/Industrial,Domestic,Fire,Public Supply,Unspecified",1,6
+"Aquaculture,Commercial/Industrial,Domestic,Fire,Livestock,Other,Public Supply,Recreation,Reservoir Storage,Unspecified",1,10
+"Agriculture Irrigation,Aquaculture,Domestic,Fire,Other,Public Supply,Recreation,Snow,Unspecified",1,9
+"Agriculture Irrigation,Aquaculture,Fire,Hydroelectric,Livestock,Other,Recreation,Reservoir Storage",1,8
+"Aquaculture,In-stream Flow,Public Supply,Recreation",1,4
+"Domestic,Public Supply,Snow",1,3
+"Agriculture Irrigation,Domestic,Fire,Livestock,Public Supply,Recreation,Unspecified",1,7
+"Agriculture Irrigation,Aquaculture,Commercial/Industrial,Hydroelectric,Livestock,Other,Public Supply,Recreation",1,8
+"Agriculture Irrigation,Commercial/Industrial,Fire,Other,Recreation,Unspecified",1,6
+"Agriculture Irrigation,Aquaculture,Fire,Other,Reservoir Storage",1,5
+"Agriculture Irrigation,Commercial/Industrial,Fire,Recreation,Unspecified",1,5
+"Agriculture Irrigation,Aquaculture,Domestic,Other,Reservoir Storage,Unspecified",1,6
+"Aquifer Recharge,Livestock,Other",1,3
+"Agriculture Irrigation,Aquaculture,Domestic,Fire,Livestock,Recreation,Reservoir Storage,Unspecified",1,8
+"Agriculture Irrigation,Hydroelectric,Livestock,Other",1,4
+"Agriculture Irrigation,Domestic,Fire,Other,Public Supply,Unspecified",1,6
+"Aquaculture,Domestic,Fire,Livestock,Other,Recreation,Reservoir Storage",1,7
+"Agriculture Irrigation,Aquaculture,Aquifer Recharge,Livestock,Recreation,Reservoir Storage,Unspecified",1,7
+"Agriculture Irrigation,Domestic,Fire,Livestock,Other,Public Supply,Reservoir Storage",1,7
+"Agriculture Irrigation,Aquaculture,Fire,Other,Reservoir Storage,Unspecified",1,6
+"Agriculture Irrigation,Commercial/Industrial,Domestic,Fire,Recreation,Snow,Unspecified",1,7
+"Agriculture Irrigation,Aquaculture,Domestic,Fire,Public Supply,Recreation,Unspecified",1,7
+"Agriculture Irrigation,Aquifer Recharge,Recreation,Reservoir Storage,Unspecified",1,5
+"Agriculture Irrigation,Aquaculture,Commercial/Industrial,Domestic,Livestock,Other,Reservoir Storage",1,7
+"Aquaculture,Commercial/Industrial,Fire,Livestock,Other",1,5
+"Agriculture Irrigation,Aquifer Recharge,Commercial/Industrial,Fire,Livestock,Other,Public Supply,Reservoir Storage,Unspecified",1,9
+"Aquaculture,Commercial/Industrial,Livestock,Recreation",1,4
+"Aquaculture,Domestic,Hydroelectric,Livestock",1,4
+"Agriculture Irrigation,Domestic,Fire,Livestock,Recreation,Reservoir Storage",1,6
+"Domestic,Hydroelectric,Livestock,Other",1,4
+"Agriculture Irrigation,Aquaculture,Commercial/Industrial,Other,Unspecified",1,5
+"Agriculture Irrigation,Aquaculture,Domestic,Other,Public Supply,Recreation,Reservoir Storage,Unspecified",1,8
+"Agriculture Irrigation,Commercial/Industrial,Domestic,Fire,Other,Recreation,Reservoir Storage",1,7
+"Commercial/Industrial,Fire,Other,Recreation,Reservoir Storage",1,5
+"Fire,Other,Public Supply",1,3
+"Aquifer Recharge,Hydroelectric",1,2
+"Domestic,Fire,Livestock,Other,Reservoir Storage",1,5
+"Aquaculture,Domestic,Other,Recreation,Reservoir Storage,Unspecified",1,6
+"Agriculture Irrigation,Aquaculture,Aquifer Recharge,Commercial/Industrial,Domestic,Fire,Livestock,Recreation",1,8
+"Agriculture Irrigation,Domestic,Fire,Livestock,Reservoir Storage",1,5
+"Agriculture Irrigation,Domestic,Fire,Other,Unspecified",1,5
+"Agriculture Irrigation,Aquifer Recharge,Commercial/Industrial,Domestic,Fire,Livestock,Other,Recreation,Reservoir Storage,Unspecified",1,10
+"Agriculture Irrigation,Aquifer Recharge,Commercial/Industrial,Domestic,Fire,Livestock,Recreation",1,7
+"Agriculture Irrigation,Aquaculture,Commercial/Industrial,In-stream Flow,Other,Public Supply,Recreation,Unspecified",1,8
+"Agriculture Irrigation,Fire,Other,Reservoir Storage",1,4
+"Domestic,Fire,Livestock,Other,Recreation,Unspecified",1,6
+"Domestic,Fire,Livestock,Other,Unspecified",1,5
+"Aquifer Recharge,Livestock,Public Supply",1,3
