@@ -9,3 +9,7 @@ A repository of short queries and projects to answer basic questions of WaDE and
 
 ### UTss API Testing for USGS
 - Testing WaDE 2.0 API data retrieval.  Using Utah site specific timeseries amount (i.e., UTss) data to test with.
+
+
+### WaDE UUID Evaluation
+- A repository to hold findings of creating unique UUID values to store state native data records within WaDE.
