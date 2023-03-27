@@ -1,0 +1,96 @@
+﻿State,WaDENameRU,WaDENameWS,WaDENameV,TimeStep,WaDENameBU,minTimeFrameStart,maxTimeFrameEnd
+AZ,Custom - Medium,Groundwater,Supply,Annual,Commercial/Industrial,1985-01-01,2018-12-31
+AZ,Custom - Medium,Groundwater,Supply,Annual,Agriculture Irrigation,1985-01-01,2018-12-31
+AZ,Custom - Medium,Reuse,Supply,Annual,Agriculture Irrigation,1985-01-01,2018-12-31
+AZ,Custom - Medium,Groundwater,Supply,Annual,Other,1985-01-01,2018-12-31
+AZ,Custom - Medium,Reuse,Supply,Annual,Other,2005-01-01,2018-12-31
+AZ,Custom - Medium,Groundwater,Supply,Annual,Public Supply,1985-01-01,2018-12-31
+AZ,Custom - Medium,Surface Water,Supply,Annual,Commercial/Industrial,1985-01-01,2018-12-31
+AZ,Custom - Medium,Reuse,Supply,Annual,Commercial/Industrial,1985-01-01,2018-12-31
+AZ,Custom - Medium,Surface Water,Supply,Annual,Public Supply,1985-01-01,2018-12-31
+AZ,Custom - Medium,Reuse,Supply,Annual,Public Supply,1986-01-01,2018-12-31
+AZ,Custom - Medium,Unspecified,Demand,Annual,Public Supply,1985-01-01,2018-12-31
+AZ,Custom - Medium,Surface Water,Supply,Annual,Agriculture Irrigation,1985-01-01,2018-12-31
+AZ,Custom - Medium,Unspecified,Supply,Annual,Commercial/Industrial,1985-01-01,2018-12-31
+AZ,Custom - Medium,Surface Water,Supply,Annual,Other,1985-01-01,2018-12-31
+AZ,Custom - Medium,Unspecified,Demand,Annual,Agriculture Irrigation,1985-01-01,2018-12-31
+AZ,Custom - Medium,Unspecified,Demand,Annual,Commercial/Industrial,1985-01-01,2018-12-31
+AZ,Custom - Medium,Unspecified,Demand,Annual,Other,1985-01-01,2018-12-31
+AZ,Custom - Medium,Unspecified,Supply,Annual,Agriculture Irrigation,1985-01-01,2018-12-31
+AZ,Custom - Medium,Unspecified,Supply,Annual,Other,1987-01-01,2018-12-31
+AZ,Custom - Medium,Unspecified,Supply,Annual,Public Supply,1985-01-01,2018-12-31
+CA,Custom - Large,Surface and Groundwater,Consumptive Use,Annual,Agriculture Irrigation,2002-01-01,2016-12-31
+CA,Custom - Large,Surface and Groundwater,Consumptive Use,Annual,In-stream Flow,2002-01-01,2016-12-31
+CA,Custom - Medium,Surface and Groundwater,Consumptive Use,Annual,Agriculture Irrigation,2002-01-01,2016-12-31
+CA,Custom - Large,Surface and Groundwater,Consumptive Use,Annual,Public Supply,2002-01-01,2016-12-31
+CA,Custom - Medium,Surface and Groundwater,Consumptive Use,Annual,In-stream Flow,2002-01-01,2016-12-31
+CA,Custom - Large,Surface and Groundwater,Delivered,Annual,Agriculture Irrigation,2002-01-01,2016-12-31
+CA,Custom - Medium,Surface and Groundwater,Delivered,Annual,Agriculture Irrigation,2002-01-01,2016-12-31
+CA,Custom - Large,Surface and Groundwater,Delivered,Annual,In-stream Flow,2002-01-01,2016-12-31
+CA,Custom - Medium,Surface and Groundwater,Delivered,Annual,In-stream Flow,2002-01-01,2016-12-31
+CA,Custom - Large,Surface and Groundwater,Delivered,Annual,Public Supply,2002-01-01,2016-12-31
+CA,Custom - Small,Surface and Groundwater,Consumptive Use,Annual,In-stream Flow,2002-01-01,2016-12-31
+CA,Custom - Medium,Surface and Groundwater,Consumptive Use,Annual,Public Supply,2002-01-01,2016-12-31
+CA,Custom - Small,Surface and Groundwater,Consumptive Use,Annual,Public Supply,2002-01-01,2016-12-31
+CA,Custom - Medium,Surface and Groundwater,Delivered,Annual,Public Supply,2002-01-01,2016-12-31
+CA,Custom - Small,Surface and Groundwater,Delivered,Annual,Agriculture Irrigation,2002-01-01,2016-12-31
+CA,Custom - Small,Surface and Groundwater,Consumptive Use,Annual,Agriculture Irrigation,2002-01-01,2016-12-31
+CA,Custom - Small,Surface and Groundwater,Delivered,Annual,In-stream Flow,2002-01-01,2016-12-31
+CA,Custom - Small,Surface and Groundwater,Delivered,Annual,Public Supply,2002-01-01,2016-12-31
+CO,HUC8,Surface Water,Supply,Annual,Unspecified,2010-10-01,2022-11-30
+NM,County,Groundwater,Withdrawal,Annual,Agriculture Irrigation,1990-12-31,2015-01-01
+NM,County,Groundwater,Withdrawal,Annual,Commercial/Industrial,1990-12-31,2015-01-01
+NM,County,Groundwater,Withdrawal,Annual,Domestic,1990-12-31,2015-01-01
+NM,County,Groundwater,Withdrawal,Annual,Livestock,1990-12-31,2015-01-01
+NM,County,Groundwater,Withdrawal,Annual,Municipal Irrigation,1990-12-31,2015-01-01
+NM,County,Groundwater,Withdrawal,Annual,Mining,1990-12-31,2015-01-01
+NM,County,Surface Water,Withdrawal,Annual,Agriculture Irrigation,1990-12-31,2015-01-01
+NM,County,Groundwater,Withdrawal,Annual,Reservoir Storage,1990-12-31,2015-01-01
+NM,County,Surface Water,Withdrawal,Annual,Domestic,1990-12-31,2015-01-01
+NM,County,Groundwater,Withdrawal,Annual,Unspecified,1990-12-31,2015-01-01
+NM,County,Surface Water,Withdrawal,Annual,Mining,1990-12-31,2015-01-01
+NM,County,Surface Water,Withdrawal,Annual,Commercial/Industrial,1990-12-31,2015-01-01
+NM,County,Surface Water,Withdrawal,Annual,Livestock,1990-12-31,2015-01-01
+NM,County,Surface Water,Withdrawal,Annual,Municipal Irrigation,1990-12-31,2015-01-01
+NM,County,Surface Water,Withdrawal,Annual,Reservoir Storage,1990-12-31,2015-01-01
+NM,County,Surface Water,Withdrawal,Annual,Unspecified,1990-12-31,2015-01-01
+NV,County,Groundwater,Withdrawal,Annual,Agriculture Irrigation,2015-01-01,2017-12-31
+NV,County,Groundwater,Withdrawal,Annual,In-stream Flow,2015-01-01,2017-12-31
+NV,County,Groundwater,Withdrawal,Annual,Commercial/Industrial,2015-01-01,2017-12-31
+NV,County,Groundwater,Withdrawal,Annual,Livestock,2015-01-01,2017-12-31
+NV,County,Groundwater,Withdrawal,Annual,Domestic,2015-01-01,2017-12-31
+NV,County,Groundwater,Withdrawal,Annual,Public Supply,2015-01-01,2017-12-31
+NV,County,Groundwater,Withdrawal,Annual,Mining,2015-01-01,2017-12-31
+NV,County,Groundwater,Withdrawal,Annual,Recreation,2015-01-01,2017-12-31
+NV,County,Groundwater,Withdrawal,Annual,Other,2015-01-01,2017-12-31
+NV,County,Groundwater,Withdrawal,Annual,Unspecified,2015-01-01,2017-12-31
+NV,Custom - Medium,Groundwater,Withdrawal,Annual,Agriculture Irrigation,2015-01-01,2017-12-31
+NV,Custom - Medium,Groundwater,Withdrawal,Annual,Livestock,2015-01-01,2017-12-31
+NV,Custom - Medium,Groundwater,Withdrawal,Annual,Commercial/Industrial,2015-01-01,2017-12-31
+NV,Custom - Medium,Groundwater,Withdrawal,Annual,Recreation,2015-01-01,2017-12-31
+NV,Custom - Medium,Groundwater,Withdrawal,Annual,Domestic,2015-01-01,2017-12-31
+NV,Custom - Medium,Groundwater,Withdrawal,Annual,In-stream Flow,2015-01-01,2017-12-31
+NV,Custom - Medium,Groundwater,Withdrawal,Annual,Mining,2015-01-01,2017-12-31
+NV,Custom - Medium,Groundwater,Withdrawal,Annual,Other,2015-01-01,2017-12-31
+NV,Custom - Medium,Groundwater,Withdrawal,Annual,Public Supply,2015-01-01,2017-12-31
+NV,Custom - Medium,Groundwater,Withdrawal,Annual,Unspecified,2015-01-01,2017-12-31
+UT,County,Groundwater,Withdrawal,Annual,Agriculture Irrigation,2005-10-01,2019-09-30
+UT,County,Surface Water,Withdrawal,Annual,Agriculture Irrigation,2005-10-01,2019-09-30
+UT,County,Surface and Groundwater,Consumptive Use,Annual,Agriculture Irrigation,2005-10-01,2019-09-30
+UT,Custom - Medium,Groundwater,Withdrawal,Annual,Municipal Irrigation,2005-10-01,2018-09-30
+UT,Custom - Medium,Groundwater,Withdrawal,Annual,Agriculture Irrigation,2005-10-01,2019-09-30
+UT,Custom - Medium,Surface Water,Withdrawal,Annual,Agriculture Irrigation,2005-10-01,2019-09-30
+UT,Custom - Medium,Surface and Groundwater,Consumptive Use,Annual,Agriculture Irrigation,2005-10-01,2019-09-30
+UT,Custom - Medium,Surface Water,Withdrawal,Annual,Municipal Irrigation,2005-10-01,2019-09-30
+UT,HUC8,Surface Water,Withdrawal,Annual,Agriculture Irrigation,2005-10-01,2019-09-30
+UT,HUC8,Groundwater,Withdrawal,Annual,Agriculture Irrigation,2005-10-01,2019-09-30
+UT,HUC8,Surface Water,Consumptive Use,Annual,Agriculture Irrigation,2005-10-01,2019-09-30
+WY,Custom - Medium,Groundwater,Consumptive Use,Annual,Public Supply,2000-01-01,2018-12-31
+WY,Custom - Medium,Groundwater,Consumptive Use,Annual,Agriculture Irrigation,2000-01-01,2018-12-31
+WY,Custom - Medium,Surface Water,Consumptive Use,Annual,Commercial/Industrial,2000-01-01,2018-12-31
+WY,Custom - Medium,Groundwater,Consumptive Use,Annual,Commercial/Industrial,2000-01-01,2018-12-31
+WY,Custom - Medium,Surface Water,Consumptive Use,Annual,Public Supply,2000-01-01,2018-12-31
+WY,Custom - Medium,Groundwater,Consumptive Use,Annual,Domestic,2000-01-01,2018-12-31
+WY,Custom - Medium,Unspecified,Consumptive Use,Annual,Public Supply,2000-01-01,2018-12-31
+WY,Custom - Medium,Surface Water,Consumptive Use,Annual,Agriculture Irrigation,2000-01-01,2018-12-31
+WY,Custom - Medium,Surface Water,Consumptive Use,Annual,Domestic,2000-01-01,2018-12-31

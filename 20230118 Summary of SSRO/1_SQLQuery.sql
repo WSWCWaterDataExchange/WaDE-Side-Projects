@@ -4,7 +4,7 @@
 -- Date: 01/18/2023
 
 
--- Count # of POD/POU sites per state
+-- Count # of POD v POU sites per state
 SELECT DISTINCT
 C.State,
 B.PODorPOUSite,
