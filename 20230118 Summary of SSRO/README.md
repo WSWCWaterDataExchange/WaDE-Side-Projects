@@ -20,7 +20,7 @@ MT|Observation Site|87
 NE|Observation Site|209
 NV|Observation Site|1287
 OR|Observation Site|97
-TX|Observation Site|122
+TX|Reservoir|122
 UT|Stream Gage|1123
 UT|Reservoir|32
 WY|Stream Gage|533
