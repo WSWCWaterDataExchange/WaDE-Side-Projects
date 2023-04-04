@@ -6,6 +6,8 @@ For Site Specific Reservoir and Observation Site (RRSO) timeseries data in WaDE,
 - Num of WaterSourceType (WaDE version) by site per state
 - Time range of timeseries data per state.
 
+**The data is visualized through this RShiny app**
+https://waterdataexchangewswc.shinyapps.io/SiteSpecificReservoirAndObservationSiteDemo/
 
 Last run results: 04/04/2023
 See Summary Results.xslx for a summary of the results.
