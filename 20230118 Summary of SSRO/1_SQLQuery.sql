@@ -4,16 +4,24 @@
 -- Date: 01/18/2023
 
 
--- Count # of POD v POU sites per state
-SELECT DISTINCT
-C.State,
-B.PODorPOUSite,
+-- count number of sites for SSRO
+SELECT
 Count(DISTINCT B.SiteUUID) as CountSite
 FROM Core.SiteVariableAmounts_fact A
-LEFT JOIN Core.Sites_dim B ON A.SiteID = B.SiteID
+LEFT JOIN Core.Sites_dim B ON B.SiteID = A.SiteID
+WHERE B.SiteUUID LIKE '%ssro_S%'
+
+-- Count # of SiteTypeCV per state
+SELECT 
+C.State,
+BB.WaDEName as WaDENameS,
+Count(DISTINCT B.SiteUUID) as CountSite
+FROM Core.SiteVariableAmounts_fact A
+LEFT JOIN Core.Sites_dim B ON B.SiteID = A.SiteID
+LEFT JOIN CVs.SiteType BB ON BB.Name = B.SiteTypeCV
 LEFT JOIN Core.Organizations_dim C ON C.OrganizationID = A.OrganizationID
 WHERE B.SiteUUID LIKE '%ssro_S%'
-GROUP BY C.State, B.PODorPOUSite
+GROUP BY C.State, BB.WaDEName
 ORDER BY C.State, CountSite desc;
 
 

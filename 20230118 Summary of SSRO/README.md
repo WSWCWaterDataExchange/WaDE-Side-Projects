@@ -7,24 +7,35 @@ For Site Specific Reservoir and Observation Site (RRSO) timeseries data in WaDE,
 - Time range of timeseries data per state.
 
 
-Last run results: 01/18/2023
+Last run results: 04/04/2023
 See Summary Results.xslx for a summary of the results.
 
 
-State|PODorPOUSite|CountSite
+State|WaDENameS|CountSite
 ----|----|----
-CA|Gage|140
-CO|Observation Site|8900
-ID|Observation Site|177
-MT|Observation Site|87
-NE|Observation Site|209
-NV|Observation Site|1287
-OR|Observation Site|97
-TX|Observation Site|122
-UT|Stream Gage|1123
+CA|Reservoir|125
+CA|Canal / Ditch / Diversion|15
+CO|Well / Pump / Spring / Groundwater Point|7242
+CO|Reservoir|905
+CO|Surface Water Point|309
+CO|Unspecified|227
+CO|Canal / Ditch / Diversion|217
+ID|Surface Water Point|177
+MT|Surface Water Point|87
+NE|Stream Gage|107
+NE|Canal / Ditch / Diversion|101
+NE|Reservoir|1
+NV|Stream Gage|682
+NV|Well / Pump / Spring / Groundwater Point|603
+NV|Surface Water Point|2
+OR|Stream Gage|85
+OR|Canal / Ditch / Diversion|12
+TX|Reservoir|122
+UT|Canal / Ditch / Diversion|1123
 UT|Reservoir|32
-WY|Stream Gage|533
+WY|Surface Water Point|533
 WY|Reservoir|37
+
 
 
 State|VariableCV|CountSite
