@@ -4,6 +4,14 @@ Looking for a way to create a new OwnerClassificationCV tag (i.e., "Reclamation 
 USBR Site: https://www.usbr.gov/projects/
 GitHub Link: https://github.com/WSWCWaterDataExchange/WaDE-Side-Projects/issues/2
 
+
+***
+### Notes:
+- Use BeautifulSoup with python to web scrape HTML info from pages.
+- Use website + counter to load sites (ex: "https://www.usbr.gov/projects/index.php?id=" + counter_
+- No good html tags to use, just look for everything in a col-6 tag with **.next_sibling** method to extract needed info.
+
+
 ***
 ### Results: 
 I was able to web scrap the owner name and state of USBR contractors from that USBR website and save the results in a csv.  However, I’m not sure how well of a job we can use these to match to existing WADE data.  When I tried to do an exact match I was only able to get 55 records, and when I did a partial match it was only 63 records.
