@@ -1,8 +1,8 @@
 # 20230406 Bureau Contractors
 
 Looking for a way to create a new OwnerClassificationCV tag (i.e., "Reclamation Water Receiver") on contractors who work with the USBR.  Will use USBR website and web-scrape information to find all contractor names. Used to compare water source type of POD sites to that of connecting POU sites per state.
-USBR Site: https://www.usbr.gov/projects/
-GitHub Link: https://github.com/WSWCWaterDataExchange/WaDE-Side-Projects/issues/2
+- USBR Site: https://www.usbr.gov/projects/
+- GitHub Link: https://github.com/WSWCWaterDataExchange/WaDE-Side-Projects/issues/2
 
 
 ***
