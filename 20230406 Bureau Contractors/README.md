@@ -7,7 +7,7 @@ Looking for a way to create a new OwnerClassificationCV tag (i.e., "Reclamation 
 
 ***
 ### Notes:
-- Use BeautifulSoup with python to web scrape HTML info from pages.  We are estimating 
+- Use BeautifulSoup with python to web scrape HTML info from pages.  We are estimating there are >500 projects to go through and look for contractors.  Not all sites will list our contractors.
 - Use website + counter to load sites (ex: "https://www.usbr.gov/projects/index.php?id=" + counter_
 - No good html tags to use, just look for everything in a col-6 tag with **.next_sibling** method to extract needed info.
 
