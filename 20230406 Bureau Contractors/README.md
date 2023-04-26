@@ -3,6 +3,7 @@
 Looking for a way to create a new OwnerClassificationCV tag (i.e., "Reclamation Water Receiver") on contractors who work with the USBR.  Will use USBR website and web-scrape information to find all contractor names.
 - USBR Site: https://www.usbr.gov/projects/
 - GitHub Link: https://github.com/WSWCWaterDataExchange/WaDE-Side-Projects/issues/2
+- Google Doc Link: https://docs.google.com/spreadsheets/d/14kVRLyPtz-AhDk3i2QfyMEFPEjfecYbeBFM15jr63Qc/edit?usp=sharing
 
 
 ***
@@ -14,7 +15,7 @@ Looking for a way to create a new OwnerClassificationCV tag (i.e., "Reclamation 
 
 ***
 ### Results: 
-I was able to web scrap the owner name and state of USBR contractors from that USBR website and save the results in a csv.  Found about 239 useable contractor names (removed duplicates or and bad html retrievals). However, I’m not sure how well of a job we can use these to match to existing WADE data.  When I tried to do an exact match I was only able to get 55 records, and when I did a partial match it was only 63 records.
+I was able to web scrap the owner name and state of USBR contractors from that USBR website and save the results in a csv.  Found about 239 useable contractor names (removed duplicates or and bad html retrievals). However, I’m not sure how well of a job we can use these to match to existing WADE data.  When I tried to do an exact match I was only able to get 63 records, and when I did a partial match it was only 63 records.
 
 Further inspecting the data by hand I caught a few instances that will be hard to match.
 
