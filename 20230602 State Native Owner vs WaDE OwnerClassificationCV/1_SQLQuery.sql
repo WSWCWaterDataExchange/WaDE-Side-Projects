@@ -5,8 +5,10 @@
 
 
 SELECT DISTINCT
-AllocationOwner,
-OwnerClassificationCV
-FROM Core.AllocationAmounts_fact
-WHERE OwnerClassificationCV NOT IN ('WaDE Unspecified', 'Private', 'In Review')
-ORDER BY OwnerClassificationCV, AllocationOwner;
+B.State,
+A.AllocationOwner,
+A.OwnerClassificationCV
+FROM Core.AllocationAmounts_fact A
+LEFT JOIN Core.Organizations_dim B on B.OrganizationID = A.OrganizationID
+WHERE A.OwnerClassificationCV NOT IN ('WaDE Unspecified', 'Private', 'In Review')
+ORDER BY A.OwnerClassificationCV, B.State, A.AllocationOwner;
