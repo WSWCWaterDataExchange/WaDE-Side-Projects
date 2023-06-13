@@ -13,7 +13,7 @@ A.SiteUUID,
 A.Latitude,
 A.Longitude
 FROM Core.Sites_dim A
-WHERE A.SiteUUID LIKE '%wr_S%'
+WHERE A.SiteUUID LIKE '%wr_S%' AND A.Latitude > 0
 ORDER BY A.SiteUUID;
 
 
