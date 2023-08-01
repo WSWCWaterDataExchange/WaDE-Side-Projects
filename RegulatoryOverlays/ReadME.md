@@ -1,8 +1,8 @@
-Let's add new columns? Sort ascending by water source and state. So group all ground water overlays next to each other.
+Let's add new columns? Sort ascending by water source and state. So group all ground water overlays next to each other. The summary should also include lessons learned from this review
+
 * Applicable water source type (e.g., GW or SW)
 * Oversight agency
 * Statutory Effective Date	
-The summary should also include lessons learned from this review
 
 |	State	|	RegulatoryOverlayTypeCV	|	CountRegulatoryOverlays	|
 -------------|-------------|-------------
