@@ -117,15 +117,15 @@ WY|Surface Water|533
 WY|Surface Water|37
 
 
-State|AggregationIntervalUnitCV |minYear|maxYear|numUniqueTimeSeriesEntries|TimeRange_Yrs
-----|----|---- |----|----|----
-CA|Monthly|1950|2022|864|72
-CO|Annual|1941|2021|59|80
-ID|Daily|1993|2022|10236|29
-MT|Daily|1961|2020|15399|59
-NE|Daily|2000|2022|8379|22
-NV|Daily|1900|2021|11803|121
-OR|Daily|1951|2022|25719|71
-TX|Daily|1915|2022|39274|107
-UT|Daily|1930|2023|31648|93
-WY|Daily|1904|2023|43546|119
+#|State|AggregationIntervalUnitCV |minYear|maxYear|numUniqueTimeSeriesEntries|TimeRange_Yrs
+----|----|----|---- |----|----|----
+1|CA|Monthly|1950|2022|864|72
+2|CO|Annual|1941|2021|59|80
+3|ID|Daily|1993|2022|10236|29
+4|MT|Daily|1961|2020|15399|59
+5|NE|Daily|2000|2022|8379|22
+6|NV|Daily|1900|2021|11803|121
+7|OR|Daily|1951|2022|25719|71
+8|TX|Daily|1915|2022|39274|107
+9|UT|Daily|1930|2023|31648|93
+10|WY|Daily|1904|2023|43546|119

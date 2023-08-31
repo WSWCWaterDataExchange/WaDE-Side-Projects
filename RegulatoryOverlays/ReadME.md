@@ -13,7 +13,6 @@ TX	|	Groundwater Conservation Districts	|	Groundwater	|	93
 WA	|	Watershed Administrative Units	|	Surface Water	|	611
 WA	|	Water Resource Inventory Area	|	Surface Water	|	62
 
-
 ## Data Not in WaDE
 Index	|	State	|	WaDE Category	|	Special Management Area	|	WaterSourcetype	|	WaDE Mapping Status
 -------------	|	-------------	|	-------------	|	-------------	|	-------------	|	-------------
