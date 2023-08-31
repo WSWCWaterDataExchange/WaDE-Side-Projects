@@ -1,17 +1,21 @@
 ## Data in WaDE
-State	|	Regulatory Overlay Type Name	|	Water Source Type	|	Num of Reg Areas per Type in WaDE
--------------	|	-------------	|	-------------	|	-------------
-AZ	|	Active Management Area	|	Groundwater	|	8
-CO	|	Ground Water Management District	|	Groundwater	|	9
-ID	|	Comprehensive Aquifer Management Plan	|	Groundwater	|	3
-MT	|	Conservation District	|	Surface Water	|	6
-NM	|	Water Rights District	|	Surface Water and Groundwater	|	7
-NM	|	Interstate River Compact	|	Surface Water	|	8
-NV	|	Groundwater Basin Designations	|	Groundwater	|	119
-SD	|	Water Development District	|	Surface Water	|	7
-TX	|	Groundwater Conservation Districts	|	Groundwater	|	93
-WA	|	Watershed Administrative Units	|	Surface Water	|	611
-WA	|	Water Resource Inventory Area	|	Surface Water	|	62
+Index	|	State	|	Regulatory Overlay Type Name	|	Regulatory Type	|	Water Source Type	|	Num of Reg Areas per Type in WaDE
+-------------	|	-------------	|	-------------	|		|	-------------	|	-------------
+1	|	AZ	|	Active Management Area	|	Regulatory	|	Groundwater	|	8
+2	|	CA	|	Sustainable Groundwater Management Act Basin	|	Administrative	|	Groundwater	|	505
+3	|	CO	|	Ground Water Management District	|	Administrative	|	Groundwater	|	13
+4	|	ID	|	Comprehensive Aquifer Management Plan	|	Administrative	|	Groundwater	|	3
+5	|	KS	|	Groundwater Management Districts	|	Administrative	|	Groundwater	|	5
+6	|	MT	|	Conservation District	|	Administrative	|	Surface Water	|	6
+7	|	NE	|	Natural Resources Districts	|	Administrative	|	Groundwater	|	23
+8	|	NM	|	Water Rights District	|	Administrative	|	Surface Water and Groundwater	|	7
+9	|	NM	|	Interstate River Compact	|	Administrative	|	Surface Water	|	8
+10	|	NV	|	Groundwater Basin Designations	|	Administrative	|	Groundwater	|	123
+11	|	OK	|	Special Provision Watersheds	|	Administrative	|	Surface Water	|	5
+12	|	SD	|	Water Development District	|	Administrative	|	Surface Water	|	7
+13	|	TX	|	Groundwater Conservation Districts	|	Administrative	|	Groundwater	|	100
+14	|	WA	|	Watershed Administrative Units	|	Administrative	|	Surface Water	|	846
+16	|	WA	|	Water Resource Inventory Area	|	Administrative	|	Surface Water	|	62
 
 
 ## Data Not in WaDE
