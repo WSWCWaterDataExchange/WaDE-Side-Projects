@@ -7,21 +7,16 @@
 	-- will dome some groupby by SiteUUID
 	-- will left-join organization info in python
 
--- Site info
+-- one query to get it all
 SELECT DISTINCT
 A.SiteUUID,
 A.Latitude,
-A.Longitude
+A.Longitude,
+C.State,
+C.OrganizationUUID
 FROM Core.Sites_dim A
+LEFT JOIN Core.AllocationBridge_Sites_fact B on B.SiteID = A.SiteID
+LEFT JOIN Core.AllocationAmounts_fact BB on BB.AllocationAmountID = B.AllocationAmountID
+LEFT JOIN Core.Organizations_dim C on C.OrganizationID = BB.OrganizationID
 WHERE A.SiteUUID LIKE '%wr_S%' AND A.Latitude > 0
 ORDER BY A.SiteUUID;
-
-
--- oraganization info
--- oraganization related to wr only.
-SELECT DISTINCT
-B.State,
-B.OrganizationUUID
-FROM Core.AllocationAmounts_fact A
--- Allocation -to- Organization
-LEFT JOIN Core.Organizations_dim B on B.OrganizationID = A.OrganizationID;

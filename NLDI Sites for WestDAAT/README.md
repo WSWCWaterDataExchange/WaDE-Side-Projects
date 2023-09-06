@@ -9,3 +9,5 @@ Notes on Project:
 1. Run the provided two queries inside the 1_SQL Query.sql file. Export files as organization_raw.csv & sites_raw.csv respectively.
 
 2. Run the provided 2_NLDISiteScrubCode.ipynb script in JupterNotebook. Resulting exports are wadeNLDISites.csv & gdf2_wadeNLDISites.geojson
+
+3. Files are stored here: https://www.hydroshare.org/resource/5f665b7b82d74476930712f7e423a0d2/
