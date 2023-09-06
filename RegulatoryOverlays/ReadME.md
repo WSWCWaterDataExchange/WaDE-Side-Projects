@@ -16,8 +16,10 @@ Index	|	State	|	Regulatory Overlay Type Name	|	Regulatory Type	|	Water Source Ty
 13	|	OR	|	Administrative Basins	|	Administrative	|	Surface and Ground Water	|	18
 14	|	SD	|	Water Development District	|	Administrative	|	Surface Water	|	7
 15	|	TX	|	Groundwater Conservation Districts	|	Administrative	|	Groundwater	|	100
-16	|	WA	|	Watershed Administrative Units	|	Administrative	|	Surface Water	|	846
-17	|	WA	|	Water Resource Inventory Area	|	Administrative	|	Surface Water	|	62
+16	|	UT	|	Great Salt Lake Basin	|	Administrative	|	Surface Water	|	1
+17	|	WA	|	Watershed Administrative Units	|	Administrative	|	Surface Water	|	846
+18	|	WA	|	Water Resource Inventory Area	|	Administrative	|	Surface Water	|	62
+
 
 
 ## Data Not in WaDE
@@ -36,12 +38,12 @@ Index	|	State	|	WaDE Category	|	Special Management Area	|	Water Source Type	|	Wa
 11	|	New Mexico	|	Regulatory	|	Quality Rescrition Area	|	Surface and Groundwater	|	To be imported
 12	|	New Mexico	|	Regulatory	|	Special Conditons	|	Surface and Groundwater	|	To be imported
 13	|	Texas	|	Administrative	|	Groundwater Management Areas	|	Groundwater	|	To be imported
-14	|	Utah	|	Administrative	|	Great Salt Lake Basin	|	Surface Water	|	To be imported
-15	|	Wyoming	|	Administrative	|	Groundwater Control Areas and Advisory Boards	|	Surface Water	|	To be imported
-16	|	Alaska	|	Administrative	|	Critical Water Management Area	|	Unspecified	|	Unavailable or identified incomplete
-17	|	Kansas	|	Administrative	|	Intensive Groundwater Use Control Areas	|	Unspecified	|	Unavailable or identified incomplete
-18	|	Kansas	|	Administrative	|	Local Enhanced Management Area	|	Unspecified	|	Unavailable or identified incomplete
-19	|	Kansas	|	Administrative	|	Water Assurance District	|	Unspecified	|	Unavailable or identified incomplete
-20	|	Kansas	|	Administrative	|	Water Conservation Areas	|	Unspecified	|	Unavailable or identified incomplete
+14	|	Wyoming	|	Administrative	|	Groundwater Control Areas and Advisory Boards	|	Surface Water	|	To be imported
+15	|	Alaska	|	Administrative	|	Critical Water Management Area	|	Unspecified	|	Unavailable or identified incomplete
+16	|	Kansas	|	Administrative	|	Intensive Groundwater Use Control Areas	|	Unspecified	|	Unavailable or identified incomplete
+17	|	Kansas	|	Administrative	|	Local Enhanced Management Area	|	Unspecified	|	Unavailable or identified incomplete
+18	|	Kansas	|	Administrative	|	Water Assurance District	|	Unspecified	|	Unavailable or identified incomplete
+19	|	Kansas	|	Administrative	|	Water Conservation Areas	|	Unspecified	|	Unavailable or identified incomplete
+
 
 
