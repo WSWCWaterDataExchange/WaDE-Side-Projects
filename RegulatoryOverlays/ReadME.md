@@ -1,6 +1,6 @@
 ## Data in WaDE
 Index	|	State	|	Regulatory Overlay Type Name	|	Regulatory Type	|	Water Source Type	|	Num of Reg Areas per Type in WaDE
--------------	|	-------------	|		|	-------------	|	-------------	|	-------------
+-------------	|	-------------	|		|	-------------	|	-------------	|	-------------|	-------------
 1	|	AZ	|	Active Management Area	|	Regulatory	|	Groundwater	|	8
 2	|	CA	|	Sustainable Groundwater Management Act Basin	|	Administrative	|	Groundwater	|	505
 3	|	CO	|	Ground Water Management District	|	Administrative	|	Groundwater	|	13
