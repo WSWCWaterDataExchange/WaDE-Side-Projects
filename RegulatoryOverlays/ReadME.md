@@ -23,8 +23,6 @@ Index	|	State	|	Regulatory Overlay Type Name	|	Regulatory Type	|	Water Source Ty
 20	|	WY	|	Conservation District	|	Administrative	|	Surface and Groundwater	|	34
 
 
-
-
 ## Data Not in WaDE
 Index	|	State	|	WaDE Category	|	Special Management Area	|	Water Source Type	|	WaDE Mapping Status
 -------------	|	-------------	|	-------------	|	-------------	|	-------------	|	-------------
