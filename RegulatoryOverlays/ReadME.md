@@ -27,8 +27,6 @@ Index	|	State	|	Regulatory Overlay Type Name	|	Regulatory Type	|	Water Source Ty
 
 
 
-
-
 ## Data Not in WaDE
 Index	|	State	|	WaDE Category	|	Special Management Area	|	Water Source Type	|	WaDE Mapping Status
 -------------	|	-------------	|	-------------	|	-------------	|	-------------	|	-------------
