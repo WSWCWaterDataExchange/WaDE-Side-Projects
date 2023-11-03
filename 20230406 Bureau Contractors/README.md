@@ -1,27 +1,33 @@
-# 20230406 Bureau Contractors
-
-Looking for a way to create a new OwnerClassificationCV tag (i.e., "Reclamation Water Receiver") on contractors who work with the USBR.  Will use USBR website and web-scrape information to find all contractor names.
-- USBR Site: https://www.usbr.gov/projects/
-- GitHub Link: https://github.com/WSWCWaterDataExchange/WaDE-Side-Projects/issues/2
-- Google Doc Link: https://docs.google.com/spreadsheets/d/14kVRLyPtz-AhDk3i2QfyMEFPEjfecYbeBFM15jr63Qc/edit?usp=sharing
+# Compiling Reclamation Contractor Names
+Compiling a list of contractor names to match the state define owner names.  Goal to beter classify WaDE water rights with a owner type as "Reclamation Contractor".
 
 
-***
-### Notes:
-- Use BeautifulSoup with python to web scrape HTML info from pages.  We are estimating there are >500 projects to go through and look for contractors.  Not all sites will list our contractors.
-- Use website + counter to load sites (ex: "https://www.usbr.gov/projects/index.php?id=" + counter_
-- No good html tags to use, just look for everything in a col-6 tag with **.next_sibling** method to extract needed info.
+## Source1_WebScraping
+Used [USBR Site Web Link](https://www.usbr.gov/projects/).
+
+Will use USBR website and web scrape information to find all contractor names.  
+
+Was able to pair with 846 WaDE state water rights.
+
+**Figure 1:** Source 1 Histogram of Reclamation Contractor Water Right Records per State
+![](Source1_WebScraping/figures/s1_NumPerState.png)
+
+List of unique contractor names identified...
+- 'Ainsworth Irrigation District', 'Boise Project Board of Control', 'Bridger Valley Water Conservancy District', 'Browns Creek Irrigation District', 'Buford-Trenton Irrigation District', 'California Department of Water Resources', 'Canadian River Municipal Water Authority', 'Carbon Water Conservancy District', 'Carlsbad Irrigation District', 'Casitas Municipal Water District', 'Central Arizona Project', 'Central Irrigation District', 'Central Oregon Irrigation District', 'Central Utah Water Conservancy District', 'Chimney Rock Irrigation District', 'City of Corpus Christi', 'City of Rapid City', 'Coachella Valley Water District', 'Cottonwood Creek Consolidated Irrigation Company', 'Deaver Irrigation District', 'Eden Valley Irrigation and Drainage District', 'El Dorado Irrigation District', 'Emery Water Conservancy District', 'Farmers Irrigation District', 'Frenchman Valley Irrigation District', 'Gering Irrigation District', 'Goshen Irrigation District', 'Greenfields Irrigation District', 'Hammond Conservancy District', 'Heart Mountain Irrigation District', 'Imperial Irrigation District', 'Kittitas Reclamation District', 'Lewiston Orchards Irrigation District', 'Little Wood River Irrigation District', 'Loup River Public Power District', 'Lower Powder River Irrigation District', 'Mann Creek Irrigation District', 'Mapleton Irrigation Company', 'Maricopa Water District', 'Midvale Irrigation District', 'Mirage Flats Irrigation District', 'Moon Lake Water Users Association', 'Newton Water Users Association', 'Ogden River Water Users Association', 'Okanogan Irrigation District', 'Owl Creek Irrigation District', 'Palo Verde Irrigation District', 'Pathfinder Irrigation District', 'Pershing County Water Conservation District', 'Provo River Water Users Association', 'San Benito County Water District', 'San Diego County Water Authority', 'Sanpete Water Conservancy District', 'Shoshone Irrigation District', 'Sidon Irrigation District', 'Solano County Water Agency', 'Truckee-Carson Irrigation District', 'U.S. Fish and Wildlife Service', 'Uintah Water Conservancy District', 'Vale Oregon Irrigation District', 'Weber Basin Water Conservancy District', 'Weber River Water Users Association', 'Willwood Irrigation District', 'Yakima-Tieton Irrigation District'
 
 
-***
-### Results: 
-I was able to web scrap the owner name and state of USBR contractors from that USBR website and save the results in a csv.  Found about 239 useable contractor names (removed duplicates or and bad html retrievals). However, I’m not sure how well of a job we can use these to match to existing WADE data.  When I tried to do an exact match I was only able to get 63 records, and when I did a partial match it was only 63 records.
+## Source2_ReclamationDams
+Used [Reclamation Dam Data](https://www.arcgis.com/apps/mapviewer/index.html?layers=1df76b35789f448094cec79c53c42555) and compared ‘Primary Operating Entity’ with WaDE AllocationOwner.  
 
-Further inspecting the data by hand I caught a few instances that will be hard to match.
+Was able to pair with 452 state water rights (649 – 197 that were already being labeled as a Bureau Reclamation (USBR) owner type).
 
-AllocationOwner | Contractor Name | Issue
----- | ---- | ---- 
-BITTER ROOT IRRIGATION DISTRICT (MT) | Bitter Root Project Irrigation District (MT) | the inclusion of the *Project* in contractor name prevented exact or partial match from working
-BRIDGER VALLEY WATER CONSERVANCY DISTRICT (UT) | BRIDGER VALLEY WATER CONSERVANCY DISTRICT (WY), BRIDGER VALLEY WATER CONSERVANCY DISTRICT (MT) | The allocation owner name in WaDE is noted in UT, but the contractor names from USBR are noted in WY & MT
+**Figure 2:** Source 2 Histogram of Reclamation Contractor Water Right Records per State
+![](Source2_ReclamationDams/figures/s2_NumPerState.png)
 
-Tried doing a partial match both ways (checking AllocationOwner -in- Contractor Names, and again with checking Contractor Names -in- AllocationOwner) with similar poor results.
+List of unique contractor names identified...
+- 'Ainsworth Irrigation District', 'Boise Project Board Of Control', 'Bridger Valley Water Conservancy District', 'Bureau of Reclamation', 'Bureau of Reclamation,Ainsworth Irrigation District', 'Bureau of Reclamation,Mirage Flats Irrigation District', 'Canadian River Municipal Water Authority', 'Carbon Water Conservancy District', 'Casitas Municipal Water District', 'Central Arizona Water Conservation District', 'Central Oregon Irrigation District', 'Central Utah Water Conservancy District', 'Contra Costa Water District', 'Deaver Irrigation District', 'Eden Valley Irrigation And Drainage District', 'Farmers Irrigation District', 'Fort Shaw Irrigation District', 'Frenchman Valley Irrigation District', 'Goshen Irrigation District', 'Greenfields Irrigation District', 'Hammond Conservancy District', 'Imperial Irrigation District', 'Little Wood River Irrigation District', 'Madera Irrigation District', 'Mann Creek Irrigation District', 'Mirage Flats Irrigation District', 'Moon Lake Water Users Association', 'Newton Water Users Association', 'Ogden River Water Users Association', 'PacifiCorp', 'Pathfinder Irrigation District', 'Pershing County Water Conservation District', 'Provo River Water Users Association', 'Reeves County Water Improvement District 1', 'Salt River Valley Water Users Association', 'San Benito County Water District', 'Shoshone Irrigation District', 'Solano County Water Agency', 'Solano Irrigation District', 'South Columbia Basin Irrigation District', 'Truckee-Carson Irrigation District', 'Uintah Water Conservancy District', 'Vale Oregon Irrigation District', 'Weber Basin Water Conservancy District', 'Whitestone Reclamation District', 'Willwood Irrigation District'
+
+
+## MergeResults
+- Looking at take both Source 1 & Source 2 results and combine them.
+- Between the two datasets, 343 WaDE water rights were repeated with a total of 955 unique water right that could potentially be labbled as a Reclamation Contractor owner type.
