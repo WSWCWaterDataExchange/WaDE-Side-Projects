@@ -1,5 +1,4 @@
 # Web scraping USBR Contractors
-
 Looking for a way to create a new OwnerClassificationCV tag (i.e., "Reclamation Water Receiver") on contractor names who work with the USBR.  Will use USBR website and web scrape information to find all contractor names.
 - [USBR Site Web Link](https://www.usbr.gov/projects/)
 - [GitHub Web Link](https://github.com/WSWCWaterDataExchange/WaDE-Side-Projects/issues/2)
@@ -11,12 +10,24 @@ Looking for a way to create a new OwnerClassificationCV tag (i.e., "Reclamation 
 - Use BeautifulSoup with python to web scrape HTML info from pages.  We are estimating there are > 500 projects to go through and look for contractors.  Not all sites will list our contractors.
 - Use website + counter to load sites (ex: "https://www.usbr.gov/projects/index.php?id=" + counter_
 - No good html tags to use, just look for everything in a col-6 tag with **.next_sibling** method to extract needed info.
+- Used results, paired with WaDE AllocationOwnerName with exact match.
 
 
 ***
 ### Results: 
-We was able to web scrap the contractor name and state of USBR contractors from that USBR website and save the results in a csv.  Found about 239 useable contractor names (removed duplicates or and bad html retrievals). However, I’m not sure how well of a job we can use these to match to existing WADE data.  When I tried to do an exact match I was only able to get 63 records, and when I did a partial match it was only 63 records.
+We were able to web scrap the contractor name and state of USBR contractors from that USBR website and save the results in a csv.
 
+**Figure 1:** Number of Unique Reclamation Contractor Names from Source Data
+![](figures/result1.png)
+
+**Figure 2:** Number of Usable Unique Reclamation Contractor Names that fit into WaDE
+![](figures/result2.png)
+
+**Figure 3:** Num of Potential Reclamation Contractor Water Right Records per State in WaDE
+![](figures/result3.png)
+
+***
+### Comments and Errors: 
 Further inspecting the data by hand I caught a few instances that will be hard to match.
 
 AllocationOwner | Contractor Name | Issue
