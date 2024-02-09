@@ -1,4 +1,3 @@
-/****** Script for SelectTopNRows command from SSMS  ******/
 
 -- Create summary table of Regulatory Info within WaDE
 SELECT 
