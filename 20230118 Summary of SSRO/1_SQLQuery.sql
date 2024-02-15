@@ -9,7 +9,7 @@ SELECT
 Count(DISTINCT B.SiteUUID) as CountSite
 FROM Core.SiteVariableAmounts_fact A
 LEFT JOIN Core.Sites_dim B ON B.SiteID = A.SiteID
-WHERE B.SiteUUID LIKE '%ssro_S%'
+WHERE B.SiteUUID Like '%ssro_S%' OR B.SiteUUID Like '%wr_S%';
 
 -- Count # of SiteTypeCV per state
 SELECT 
@@ -20,7 +20,7 @@ FROM Core.SiteVariableAmounts_fact A
 LEFT JOIN Core.Sites_dim B ON B.SiteID = A.SiteID
 LEFT JOIN CVs.SiteType BB ON BB.Name = B.SiteTypeCV
 LEFT JOIN Core.Organizations_dim C ON C.OrganizationID = A.OrganizationID
-WHERE B.SiteUUID LIKE '%ssro_S%'
+WHERE B.SiteUUID LIKE '%ssro_S%' OR B.SiteUUID Like '%wr_S%'
 GROUP BY C.State, BB.WaDEName
 ORDER BY C.State, CountSite desc;
 
@@ -34,7 +34,7 @@ FROM Core.SiteVariableAmounts_fact A
 LEFT JOIN Core.Sites_dim B ON A.SiteID = B.SiteID
 LEFT JOIN Core.Organizations_dim C ON C.OrganizationID = A.OrganizationID
 LEFT JOIN Core.Variables_dim D on D.VariableSpecificID = A.VariableSpecificID
-WHERE B.SiteUUID LIKE '%ssro_S%'
+WHERE B.SiteUUID LIKE '%ssro_S%' OR B.SiteUUID Like '%wr_S%'
 GROUP BY C.State, D.VariableCV
 ORDER BY C.State, D.VariableCV, CountSite desc;
 
@@ -48,7 +48,7 @@ FROM Core.SiteVariableAmounts_fact A
 LEFT JOIN Core.Sites_dim B ON A.SiteID = B.SiteID
 LEFT JOIN Core.Organizations_dim C ON C.OrganizationID = A.OrganizationID
 LEFT JOIN Core.Variables_dim D on D.VariableSpecificID = A.VariableSpecificID
-WHERE B.SiteUUID LIKE '%ssro_S%'
+WHERE B.SiteUUID LIKE '%ssro_S%' OR B.SiteUUID Like '%wr_S%'
 GROUP BY C.State, D.VariableSpecificCV
 ORDER BY C.State, D.VariableSpecificCV, CountSite desc;
 
@@ -63,7 +63,7 @@ LEFT JOIN Core.Sites_dim B ON A.SiteID = B.SiteID
 LEFT JOIN Core.Organizations_dim C ON C.OrganizationID = A.OrganizationID
 LEFT JOIN Core.WaterSources_dim E on E.WaterSourceID = A.WaterSourceID
 LEFT JOIN CVs.WaterSourceType EE ON EE.Name = E.WaterSourceTypeCV
-WHERE B.SiteUUID LIKE '%ssro_S%'
+WHERE B.SiteUUID LIKE '%ssro_S%' OR B.SiteUUID Like '%wr_S%'
 GROUP BY C.State, B.PODorPOUSite, EE.Name
 ORDER BY C.State, CountSite desc;
 
@@ -79,6 +79,6 @@ FROM Core.SiteVariableAmounts_fact A
 LEFT JOIN Core.Sites_dim B ON A.SiteID = B.SiteID
 LEFT JOIN Core.Organizations_dim C ON C.OrganizationID = A.OrganizationID
 LEFT JOIN Core.Variables_dim D on D.VariableSpecificID = A.VariableSpecificID
-WHERE B.SiteUUID LIKE '%ssro_S%'
+WHERE B.SiteUUID LIKE '%ssro_S%' OR B.SiteUUID Like '%wr_S%'
 GROUP BY C.State, D.[AggregationIntervalUnitCV ]
 ORDER BY C.State
