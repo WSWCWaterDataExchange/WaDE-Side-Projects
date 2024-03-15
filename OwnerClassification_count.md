@@ -32,7 +32,6 @@ ORDER BY CountNumWR desc;
 |Department of Energy (USDOE)|65|
 |General Services Administration (USGSA)|22|
 |Federal Aviation Administration (USFAA)|4|
-
 | Environmental Protection Agency (USEPA) |  348                    |
 | Geological Survey (USGS)                |  229                    |
 | Department of Energy (USDOE)            |  65                     |
