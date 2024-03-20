@@ -1,5 +1,8 @@
 # WestDAAT JsonLD Schema for Geoconnex
 
+# Reference
+https://github.com/internetofwater/geoconnex.us
+
 # Template
 https://github.com/WSWCWaterDataExchange/WestDAAT/blob/develop/src/API/WesternStatesWater.WestDaat.Utilities/Resources/GeoConnexJsonLDTemplate.json
 
