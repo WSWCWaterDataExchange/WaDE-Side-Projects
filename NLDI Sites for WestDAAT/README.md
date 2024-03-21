@@ -1,4 +1,4 @@
-# NLDI Site Generatoin Code
+# NLDI Site Generation Code
 
 This repository stores code for the generation of sites used with the NLDI.
 
