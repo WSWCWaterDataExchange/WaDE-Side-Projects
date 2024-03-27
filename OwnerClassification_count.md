@@ -13,21 +13,21 @@ ORDER BY CountNumWR desc;
 
 |OwnerClassificationCV|CountNumWR|
 |:----|:----|
-|Private|2296457|
-|Bureau of Land Management (USBLM)|67821|
-|WaDE Blank|65830|
-|Forest Service (USFS)|33562|
+|Private|2365908|
+|Bureau of Land Management (USBLM)|68427|
+|Forest Service (USFS)|35038|
 |Unspecified|31411|
-|National Park Service (USNPS)|16891|
-|United States of America|4357|
-|Fish and Wildlife Service (USFWS)|4257|
-|Military|2923|
-|Department of Agriculture (USDA)|2469|
-|Bureau Reclamation (USBR)|2373|
-|Native American|1777|
+|National Park Service (USNPS)|16585|
+|WaDE Blank|11704|
+|United States of America|6237|
+|Fish and Wildlife Service (USFWS)|4547|
+|Military|3150|
+|Bureau Reclamation (USBR)|2549|
+|Department of Agriculture (USDA)|2505|
+|Native American|2073|
 |Reclamation Contractor|1188|
-|Bureau of Indian Affairs (USBIA)|1135|
-|Environmental Protection Agency (USEPA)|350|
+|Bureau of Indian Affairs (USBIA)|1153|
+|Environmental Protection Agency (USEPA)|352|
 |Geological Survey (USGS)|236|
 |Department of Energy (USDOE)|65|
 |General Services Administration (USGSA)|22|
