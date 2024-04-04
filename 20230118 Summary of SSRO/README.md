@@ -3,6 +3,9 @@ Summary of site specific timseries within WaDE, including...
 - 1) **Site Specific Reservoir and Observation Site (SSRO)** data
 - 2) **Water Right Withdrawals (WR)** data
 
+![image](https://github.com/WSWCWaterDataExchange/WaDE-Side-Projects/blob/main/20230118%20Summary%20of%20SSRO/WestDAAT_time_series_data.png)
+
+
 The following summaries are provdied...
 - Num of POD/POU by site type per state
 - Num of VariableCV by site per state
